@@ -99,4 +99,9 @@ Human body - older
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=948502
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=709338
 
-School 
+School-type books (various subjects)
+
+* Thom Holmes, Prehistoric Earth series
+* The World in Ancient Times (OUP)
+* Matloff, American Military History: 1775-1902; 1902-1996
+* Everything You Need to Ace World History in One Big Fat Notebook (surprisingly good for what it is, there's also a US history one
