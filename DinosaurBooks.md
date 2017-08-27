@@ -19,10 +19,14 @@ Baby books, dinosaur-themed stories
 More detailed for kids
 
 * Modern Publishing (Rupert Oliver, etc.)
- * [Dinosaurs and Prehistoric Creatures](https://smile.amazon.com/dp/1561447730)
- * [Colossal Book of Dinosaurs](https://smile.amazon.com/dp/0874496497)
- * [Mammoth Book of Dinosaurs](https://smile.amazon.com/dp/1561447765)
- * [Dinosaurs Of The Land, Sea And Air](https://smile.amazon.com/dp/1561447749)
+
+  Omnibus editions of all Modern Publishing books. They are out-of-date and the illustrations are goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's dinosaur book I can think of that features the protagonist being killed and devoured in the final pages.
+
+  * [Dinosaurs and Prehistoric Creatures](https://smile.amazon.com/dp/1561447730)
+  * [Colossal Book of Dinosaurs](https://smile.amazon.com/dp/1561447757)
+  * [Mammoth Book of Dinosaurs](https://smile.amazon.com/dp/1561447765)
+  * [Dinosaurs Of The Land, Sea And Air](https://smile.amazon.com/dp/1561447749)
+
 * Don Lessem
  * The Ultimate Dinopedia
  * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
