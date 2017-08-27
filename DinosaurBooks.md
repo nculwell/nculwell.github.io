@@ -26,6 +26,10 @@ Baby books, dinosaur-themed stories
 
 More detailed for kids
 
+* Prehistoric World (Usborne) ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088&referer=brief_results), [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291&referer=brief_results), [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583))
+
+ I loved the pictures in this book and it got read a lot. It goes from the dawn of life through early humans, with plenty of dinosaurs.
+
 * Modern Publishing (Rupert Oliver, etc.)
 
   Omnibus editions of all Modern Publishing books. They are out-of-date and the illustrations are goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's dinosaur book I can think of that features the protagonist being killed and devoured in the final pages.
@@ -105,9 +109,14 @@ Human body - older
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=948502
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=709338
 
-School-type books (various subjects)
+School-type books (various subjects). I haven't read most of these yet but they look promising.
 
 * Thom Holmes, Prehistoric Earth series
 * The World in Ancient Times (OUP)
 * Matloff, American Military History: 1775-1902; 1902-1996
 * Everything You Need to Ace World History in One Big Fat Notebook (surprisingly good for what it is, there's also a US history one
+* Usborne world history
+  * [Ancient World History/Amazon](https://smile.amazon.com/Ancient-World-History-Usborne/dp/0746027605)
+  * [Medieval/Amazon](https://smile.amazon.com/Medieval-World-History-Usborne/dp/0746027621)
+  * [The Last 500 Years/Amazon](https://smile.amazon.com/Last-Years-Usborne-World-History/dp/0439274257)
+* https://smile.amazon.com/Egyptian-Goddesses-Penguin-Young-Readers/dp/0448420295
