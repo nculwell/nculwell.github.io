@@ -26,7 +26,8 @@ More detailed for kids
 * Dougal Dixon
  * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
  * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
-* Dinosaurs Through Time (both of them)
+* Dinosaurs Through Time / McRae Books
+* Dinosaurs Through Time [Mamenchisaurus] / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter .
 * Where did dinosaurs come from? / oehfeld, Kathleen Weidner ; Washburn, Lucia
 * Dinosaurs big and small / Zoehfeld, Kathleen Weidner ; Washburn, Lucia
 * Life-size dinosaurs / Bergen, David
@@ -75,6 +76,7 @@ Other animals
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=966451
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=403542
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=613375
+* Life-size killer creatures / Gilpin, Daniel
 
 Human body - intro
 
