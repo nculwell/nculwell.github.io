@@ -86,7 +86,7 @@ Other animals
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=966451
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=403542
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=613375
-* Life-size killer creatures / Gilpin, Daniel
+* Life-size killer creatures / Gilpin, Daniel ([Omnibus](https://smile.amazon.com/dp/B001YIGW2C))
 
 Human body - intro
 
