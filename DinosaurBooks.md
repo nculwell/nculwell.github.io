@@ -10,6 +10,8 @@ Baby books, dinosaur-themed stories
 * Dinosaurs: 4 favorite stories (Scholaster Reader Collection) ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918&referer=brief_results), [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513))
 * How Do Dinosaurs...? / Yolen, Jane; Teague, Mark
   * How Do Dinosaurs Say Goodnight? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0590316818))
+  * How Do Dinosaurs Go To School? ([Amazon](https://smile.amazon.com/How-Do-Dinosaurs-Go-School/dp/0439020816))
+  * etc.
 * All aboard the dinotrain / Lund, Deb
 * Fossil / Thomson, Bill
 * Captain Raptor and the moon mystery / O'Malley, Kevin
