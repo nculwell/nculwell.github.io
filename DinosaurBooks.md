@@ -30,21 +30,21 @@ More detailed for kids
   * [Dinosaurs Of The Land, Sea And Air](https://smile.amazon.com/dp/1561447749)
 
 * Don Lessem
- * The Ultimate Dinopedia
- * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
- * Dinosaurs to dodos : an encyclopedia of extinct animals / Lessem and Sovak
+  * The Ultimate Dinopedia
+  * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
+  * Dinosaurs to dodos : an encyclopedia of extinct animals / Lessem and Sovak
 * Dougal Dixon
- * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
- * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
+  * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
+  * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
 * Dinosaurs Through Time / McRae Books
 * Dinosaurs Through Time [Mamenchisaurus] / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter .
 * Where did dinosaurs come from? / oehfeld, Kathleen Weidner ; Washburn, Lucia
 * Dinosaurs big and small / Zoehfeld, Kathleen Weidner ; Washburn, Lucia
 * Life-size dinosaurs / Bergen, David
 * Hannah Bonner
- * When bugs were big, plants were strange, and tetrapods stalked the earth : a cartoon prehistory of life before dinosaurs
- * When fish got feet, sharks got teeth, and bugs began to swarm: a cartoon prehistory of life long before dinosaurs
- * When dinos dawned, mammals got munched, and Pterosaurs took flight
+  * When bugs were big, plants were strange, and tetrapods stalked the earth : a cartoon prehistory of life before dinosaurs
+  * When fish got feet, sharks got teeth, and bugs began to swarm: a cartoon prehistory of life long before dinosaurs
+  * When dinos dawned, mammals got munched, and Pterosaurs took flight
 * Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy
 * Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to follow dinosaur drawing book.
 * I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike
@@ -99,3 +99,4 @@ Human body - older
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=948502
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=709338
 
+School 
