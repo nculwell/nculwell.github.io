@@ -4,12 +4,17 @@ Baby books, dinosaur-themed stories
 
 * Stomp, Dinosaur, Stomp / Mayo, Margaret
 * Dinosaur Time
-* How do dinosaurs...?
+* How do dinosaurs...? (Yolen, Jane ; Teague, Mark)
 * All aboard the dinotrain / Lund, Deb
 * Fossil / Thomson, Bill
 * Captain Raptor and the moon mystery / O'Malley, Kevin
 * Meet the Dinotrux / Gall, Chris
 * Ally-Saurus & the first day of school / Torrey, Rich
+* Dinosaur round-up (DC Super Friends)
+* Time for school, little dinosaur / Herman, Gail ; Fleming, Michael
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=669548
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=311745
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=118548
 
 More detailed for kids
 
@@ -20,8 +25,10 @@ More detailed for kids
  * Dinosaurs to dodos : an encyclopedia of extinct animals / Lessem and Sovak
 * Dougal Dixon
  * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
+ * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
 * Dinosaurs Through Time (both of them)
 * Where did dinosaurs come from? / oehfeld, Kathleen Weidner ; Washburn, Lucia
+* Dinosaurs big and small / Zoehfeld, Kathleen Weidner ; Washburn, Lucia
 * Life-size dinosaurs / Bergen, David
 * Hannah Bonner
  * When bugs were big, plants were strange, and tetrapods stalked the earth : a cartoon prehistory of life before dinosaurs
@@ -32,10 +39,24 @@ More detailed for kids
 * I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike
 * Imagine you are a crocodile / Wallace, Karen ; Bostock, Mike
 * I am an ankylosaurus / Wallace, Karen ; Bostock, Mike
+* Dinosaurs / Long, John [https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=535821]
+* Monster fliers : from the time of the dinosaurs / MacLeod, Elizabeth ; Bindon, John
+* Beyond the dinosaurs : monsters of the air and sea / Brown, Charlotte Lewis ; Wilson, Phil
+* The day the dinosaurs died / Brown, Charlotte Lewis ; Wilson, Phil
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=23691
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=488761
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=1145865
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=384047
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=16343
 
 Adult books with enough pictures to be of some interest to kids
 
 * Dinosaurs : the most complete, up-to-date encyclopedia for dinosaur lovers of all ages / Holtz, Thomas R ; Rey, Luis V
+
+Beyond kids
+
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=389736
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=885998
 
 Music
 
@@ -49,3 +70,20 @@ Other animals
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=736066
 * The emperor lays an egg / Guiberson, Brenda Z ; Paley, Joan
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=483412
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=657307
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=997745
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=966451
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=403542
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=613375
+
+Human body - intro
+
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=1204684
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=1143784
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=94719
+
+Human body - older
+
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=948502
+* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=709338
+
