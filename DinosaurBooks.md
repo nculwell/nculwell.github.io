@@ -19,6 +19,10 @@ Baby books, dinosaur-themed stories
 More detailed for kids
 
 * Modern Publishing (Rupert Oliver, etc.)
+ * [Dinosaurs and Prehistoric Creatures](https://smile.amazon.com/dp/1561447730)
+ * [Colossal Book of Dinosaurs](https://smile.amazon.com/dp/0874496497)
+ * [Mammoth Book of Dinosaurs](https://smile.amazon.com/dp/1561447765)
+ * [Dinosaurs Of The Land, Sea And Air](https://smile.amazon.com/dp/1561447749)
 * Don Lessem
  * The Ultimate Dinopedia
  * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
