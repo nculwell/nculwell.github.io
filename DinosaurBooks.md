@@ -18,9 +18,8 @@ Baby books, dinosaur-themed stories
 * Ally-Saurus & the first day of school / Torrey, Rich
 * Dinosaur round-up (DC Super Friends)
 * Time for school, little dinosaur / Herman, Gail ; Fleming, Michael
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=669548
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=311745
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=118548
+* A trip to dinosaur time / Foreman, Michael ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568))
+* Dancing dinos go to school / Lucas, Sally ; Lucas, Margeaux (https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=311745)
 * Danny and the Dinosaur / Hoff ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837&referer=brief_results), [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0064440028))
 
 More detailed for kids
