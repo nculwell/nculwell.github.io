@@ -32,13 +32,13 @@ More detailed for kids
 
   Omnibus editions of all Modern Publishing books. They are out-of-date (1980s) and the illustrations are sometimes goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's story book I can think of that features the protagonist being killed and devoured in the final pages.
 
-  * Dinosaurs and Prehistoric Creatures ([Worldcat](https://www.worldcat.org/title/dinosaurs-and-prehistoric-creatures/oclc/18044792), [Amazon](https://smile.amazon.com/dp/1561447730))
-  * Colossal Book of Dinosaurs ([Worldcat](https://www.worldcat.org/title/colossal-book-of-dinosaurs-featuring-the-dinosaur-dictionary/oclc/56719686)?, [Worldcat](https://www.worldcat.org/title/colossal-book-of-dinosaurs/oclc/732707576)?, [Amazon](https://smile.amazon.com/dp/1561447757))
-  * Mammoth Book of Dinosaurs([WC](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/868182676), [WC](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/767737927), [Amazon](https://smile.amazon.com/dp/1561447765)
-  * Dinosaurs Of The Land, Sea And Air ([WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Az](https://smile.amazon.com/dp/1561447749))
+  * Dinosaurs and Prehistoric Creatures (ISBN 1561447730, [Worldcat](https://www.worldcat.org/title/dinosaurs-and-prehistoric-creatures/oclc/18044792), [Amazon](https://smile.amazon.com/dp/1561447730))
+  * Colossal Book of Dinosaurs (ISBN 1561447757, [Worldcat](https://www.worldcat.org/title/colossal-book-of-dinosaurs-featuring-the-dinosaur-dictionary/oclc/38498607), [Amazon](https://smile.amazon.com/dp/1561447757))
+  * Mammoth Book of Dinosaurs(ISBN 1561447765, [WC](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/868182676), [WC](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/767737927), [Amazon](https://smile.amazon.com/dp/1561447765)
+  * Dinosaurs Of The Land, Sea And Air (ISBN 1561447749, [WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Az](https://smile.amazon.com/dp/1561447749))
 
 * Don Lessem
-  * The Ultimate Dinopedia ([Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Worldcat/2e](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/National-Geographic-Kids-Ultimate-Dinopedia/dp/1426301642), [Amazon/2e](https://smile.amazon.com/dp/1426301642)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet.
+  * The Ultimate Dinopedia (1e/2010 ISBN 1426301642, [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Amazon](https://smile.amazon.com/dp/1426301642); 2e/2017 ISBN 1426329059, [Worldcat/2e](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon/2e](https://smile.amazon.com/dp/1426301642)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet.
   * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
   * Dinosaurs to dodos : an encyclopedia of extinct animals / Lessem and Sovak
 * Dougal Dixon
