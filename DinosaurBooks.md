@@ -26,13 +26,13 @@ More detailed for kids
 
 * Prehistoric World (Usborne) ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088&referer=brief_results), [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291&referer=brief_results), [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583), [Amazon/2012](https://smile.amazon.com/dp/140953426X))
 
- I loved the pictures in this book and it got read a lot. It goes from the dawn of life through early humans, with plenty of dinosaurs. The 2012 edition appears to be basically a reprint of the 2000 edition with a new cover.
+  I loved the pictures in this book and it got read a lot. It goes from the dawn of life through early humans, with plenty of dinosaurs. The 2012 edition appears to be basically a reprint of the 2000 edition with a new cover.
 
 * Modern Publishing (Rupert Oliver, etc.)
 
-  Omnibus editions of all Modern Publishing books. They are out-of-date and the illustrations are goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's dinosaur book I can think of that features the protagonist being killed and devoured in the final pages.
+  Omnibus editions of all Modern Publishing books. They are out-of-date (1980s) and the illustrations are sometimes goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's story book I can think of that features the protagonist being killed and devoured in the final pages.
 
-  * [Dinosaurs and Prehistoric Creatures](https://smile.amazon.com/dp/1561447730)
+  * Dinosaurs and Prehistoric Creatures ([Worldcat](https://www.worldcat.org/title/dinosaurs-and-prehistoric-creatures/oclc/18044792), [Amazon](https://smile.amazon.com/dp/1561447730))
   * [Colossal Book of Dinosaurs](https://smile.amazon.com/dp/1561447757)
   * [Mammoth Book of Dinosaurs](https://smile.amazon.com/dp/1561447765)
   * [Dinosaurs Of The Land, Sea And Air](https://smile.amazon.com/dp/1561447749)
@@ -44,6 +44,7 @@ More detailed for kids
 * Dougal Dixon
   * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
   * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
+  * Complete Illustrated Encyclopedia ([Worldcat](https://www.worldcat.org/title/complete-illustrated-encyclopedia-of-dinosaurs-prehistoric-creatures-the-ultimate-illustrated-reference-guide-to-1000-dinosaurs-and-prehistoric-creatures-with-2000-specially-commissioned-artworks-maps-and-photographs/oclc/944351418), [Amazon](https://smile.amazon.com/dp/1846812097)) - The format of the new (2014) paperback edition of this one is really too small for what it is (6.8 x 8.5 inches), but it is cheap. It covers a very large number of dinosaur species, which makes it a wide-ranging reference, but it's not the most attractive for children and it doesn't have a lot to say about each species.
 * Dinosaurs Through Time / McRae Books
 * Dinosaurs Through Time [Mamenchisaurus] / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter .
 * Where did dinosaurs come from? / oehfeld, Kathleen Weidner ; Washburn, Lucia
