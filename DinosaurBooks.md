@@ -62,15 +62,15 @@ More detailed for kids
       * *When dinos dawned, mammals got munched, and pterosaurs took flight: a cartoon prehistory of life in the Triassic* (ISBN 1426308620, [Worldcat](https://www.worldcat.org/title/when-dinos-dawned-mammals-got-munched-and-pterosaurs-took-flight-a-cartoon-pre-history-of-life-in-the-triassic/oclc/886776103), [Amazon](https://smile.amazon.com/dp/1426308620))
   * *Dining With Dinosaurs: A Tasty Guide to Mesozoic Munching* (ISBN 1426323395, [Worldcat](https://www.worldcat.org/title/dining-with-dinosaurs-a-tasty-guide-to-mesozoic-munching/oclc/959966623), [Amazon](https://smile.amazon.com/dp/1426323395)) - I haven't seen this new book yet but it looks similar to her others.
   
-* Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy
-* Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to follow dinosaur drawing book.
-* I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike
-* Imagine you are a crocodile / Wallace, Karen ; Bostock, Mike
-* I am an ankylosaurus / Wallace, Karen ; Bostock, Mike
-* Dinosaurs / Long, John [https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=535821]
-* Monster fliers : from the time of the dinosaurs / MacLeod, Elizabeth ; Bindon, John
-* Beyond the dinosaurs : monsters of the air and sea / Brown, Charlotte Lewis ; Wilson, Phil
-* The day the dinosaurs died / Brown, Charlotte Lewis ; Wilson, Phil
+* Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy https://www.worldcat.org/title/can-you-tell-brachiosaurus-from-a-apatosaurus/oclc/988929776
+* Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to follow dinosaur drawing book. (ISBN  9781435826465, [Worldcat](https://www.worldcat.org/title/dinosaurs-and-other-prehistoric-creatures/oclc/212893645))
+* I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike https://www.worldcat.org/title/i-am-a-tyrannosaurus/oclc/61439566
+* Imagine you are a crocodile / Wallace, Karen ; Bostock, Mike https://www.worldcat.org/title/imagine-you-are-a-crocodile/oclc/51527511
+* I am an ankylosaurus / Wallace, Karen ; Bostock, Mike https://www.worldcat.org/title/i-am-an-ankylosaurus/oclc/52782911
+* Dinosaurs / Long, John (ISBN 9781416938576, [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/122715493)) - An average dinosaur book that we got some entertainment from.
+* Monster fliers: from the time of the dinosaurs / MacLeod, Elizabeth ; Bindon, John https://www.worldcat.org/title/monster-fliers-from-the-time-of-the-dinosaurs/oclc/394994459 - Nice illustrations of pterosaurs.
+* Beyond the dinosaurs: monsters of the air and sea / Brown, Charlotte Lewis ; Wilson, Phil https://www.worldcat.org/title/beyond-the-dinosaurs-monsters-of-the-air-and-sea/oclc/948653918
+* The day the dinosaurs died / Brown, Charlotte Lewis ; Wilson, Phil https://www.worldcat.org/title/day-the-dinosaurs-died/oclc/868345981
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=23691
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=488761
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=1145865
