@@ -33,9 +33,9 @@ More detailed for kids
   Omnibus editions of all Modern Publishing books. They are out-of-date (1980s) and the illustrations are sometimes goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's story book I can think of that features the protagonist being killed and devoured in the final pages.
 
   * Dinosaurs and Prehistoric Creatures ([Worldcat](https://www.worldcat.org/title/dinosaurs-and-prehistoric-creatures/oclc/18044792), [Amazon](https://smile.amazon.com/dp/1561447730))
-  * [Colossal Book of Dinosaurs](https://smile.amazon.com/dp/1561447757)
-  * [Mammoth Book of Dinosaurs](https://smile.amazon.com/dp/1561447765)
-  * [Dinosaurs Of The Land, Sea And Air](https://smile.amazon.com/dp/1561447749)
+  * Colossal Book of Dinosaurs ([Worldcat](https://www.worldcat.org/title/colossal-book-of-dinosaurs-featuring-the-dinosaur-dictionary/oclc/56719686)?, [Worldcat](https://www.worldcat.org/title/colossal-book-of-dinosaurs/oclc/732707576)?, [Amazon](https://smile.amazon.com/dp/1561447757))
+  * Mammoth Book of Dinosaurs([WC](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/868182676), [WC](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/767737927), [Amazon](https://smile.amazon.com/dp/1561447765)
+  * Dinosaurs Of The Land, Sea And Air ([WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Az](https://smile.amazon.com/dp/1561447749))
 
 * Don Lessem
   * The Ultimate Dinopedia
