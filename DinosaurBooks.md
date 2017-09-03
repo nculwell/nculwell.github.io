@@ -6,7 +6,6 @@ Baby books, dinosaur-themed stories
 
 * Stomp, Dinosaur, Stomp / Mayo, Margaret ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247&referer=brief_results), [Amazon](https://smile.amazon.com/dp/140830385X))
 * Dinosaur Time (?)
-* Dinosaur Time / Peggy Parish; Arnold Lobel ([Worldcat](https://www.worldcat.org/title/dinosaur-time/oclc/890725517&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0064440370))
 * Dinosaurs: 4 favorite stories (Scholaster Reader Collection) ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918&referer=brief_results), [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513))
 * How Do Dinosaurs...? / Yolen, Jane; Teague, Mark
   * How Do Dinosaurs Say Goodnight? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0590316818))
