@@ -53,13 +53,13 @@ More detailed for kids
   * etc.
 * Life-size dinosaurs / Bergen, David ([w](https://www.worldcat.org/title/life-size-dinosaurs/oclc/56389198), [a](https://smile.amazon.com/dp/140271775X))
 * Hannah Bonner
-  * A Cartoon Prehistory of Life
-    * 2012 omnibus: *When Fish Got Feet, When Bugs Were Big, and When Dinos Dawned* ([Amazon](https://smile.amazon.com/When-Fish-Feet-Dinos-Dawned/dp/1426321058))
+  * A Cartoon Prehistory of Life - I appreciated this series a lot because it emphasizes the major periods of evolution rather than individual species. It's a really fresh presentation that I would've liked to spend more time with. However, I found it difficult to explain to my son because it has many humorous cartoons. Jokes are always difficult to explain because it's hard to convey what should and shouldn't be taken literally; because of this, I feel like this is better suited to somewhat older children. Still worth a look for the little ones, but don't expect them to fully appreciate it.
+    * 2012 omnibus: *When Fish Got Feet, When Bugs Were Big, and When Dinos Dawned* (ISBN 1426321058, [Worldcat](https://www.worldcat.org/title/when-fish-got-feet-when-bugs-were-big-when-dinos-dawned-a-cartoon-prehistory-of-life-on-earth/oclc/973542194), [Amazon](https://smile.amazon.com/When-Fish-Feet-Dinos-Dawned/dp/1426321058))
     * Individual books
-      * *When fish got feet, sharks got teeth, and bugs began to swarm: a cartoon prehistory of life long before dinosaurs* ([Amazon](https://smile.amazon.com/When-Sharks-Teeth-Began-Swarm/dp/1426300794))
-      * *When bugs were big, plants were strange, and tetrapods stalked the earth: a cartoon prehistory of life before dinosaurs* ([Amazon](https://smile.amazon.com/Plants-Strange-Tetrapods-Stalked-Earth/dp/079226326X))
-      * *When dinos dawned, mammals got munched, and pterosaurs took flight: a cartoon prehistory of life in the Triassic* ([Amazon](https://smile.amazon.com/Dawned-Mammals-Munched-Pterosaurs-Flight/dp/1426308620))
-  * *Dining With Dinosaurs: A Tasty Guide to Mesozoic Munching* ([Amazon](https://smile.amazon.com/Dining-Dinosaurs-Tasty-Mesozoic-Munching/dp/1426323395))
+      * *When fish got feet, sharks got teeth, and bugs began to swarm: a cartoon prehistory of life long before dinosaurs* (ISBN 1426300794, [Worldcat](https://www.worldcat.org/title/when-fish-got-feet-sharks-got-teeth-and-bugs-began-to-swarm-a-cartoon-prehistory-of-life-long-before-dinosaurs/oclc/474543162), [Amazon](https://smile.amazon.com/dp/1426300794))
+      * *When bugs were big, plants were strange, and tetrapods stalked the earth: a cartoon prehistory of life before dinosaurs* (ISBN 079226326X, [Worldcat](https://www.worldcat.org/title/when-bugs-were-big-plants-were-strange-and-tetrapods-stalked-the-earth-a-cartoon-prehistory-of-life-before-dinosaurs/oclc/426120932), [Amazon](https://smile.amazon.com/dp/079226326X))
+      * *When dinos dawned, mammals got munched, and pterosaurs took flight: a cartoon prehistory of life in the Triassic* (ISBN 1426308620, [Worldcat](https://www.worldcat.org/title/when-dinos-dawned-mammals-got-munched-and-pterosaurs-took-flight-a-cartoon-pre-history-of-life-in-the-triassic/oclc/886776103), [Amazon](https://smile.amazon.com/dp/1426308620))
+  * *Dining With Dinosaurs: A Tasty Guide to Mesozoic Munching* (ISBN 1426323395, [Amazon](https://smile.amazon.com/dp/1426323395)) - I haven't seen this new book yet but it looks similar to her others.
 * Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy
 * Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to follow dinosaur drawing book.
 * I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike
