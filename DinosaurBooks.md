@@ -45,11 +45,13 @@ More detailed for kids
   * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
   * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
   * Complete Illustrated Encyclopedia ([Worldcat](https://www.worldcat.org/title/complete-illustrated-encyclopedia-of-dinosaurs-prehistoric-creatures-the-ultimate-illustrated-reference-guide-to-1000-dinosaurs-and-prehistoric-creatures-with-2000-specially-commissioned-artworks-maps-and-photographs/oclc/944351418), [Amazon](https://smile.amazon.com/dp/1846812097)) - The format of the new (2014) paperback edition of this one is really too small for what it is (6.8 x 8.5 inches), but it is cheap. It covers a very large number of dinosaur species, which makes it a wide-ranging reference, but it's not the most attractive for children and it doesn't have a lot to say about each species.
-* Dinosaurs Through Time / McRae Books
-* Dinosaurs Through Time [Mamenchisaurus] / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter .
-* Where did dinosaurs come from? / oehfeld, Kathleen Weidner ; Washburn, Lucia
-* Dinosaurs big and small / Zoehfeld, Kathleen Weidner ; Washburn, Lucia
-* Life-size dinosaurs / Bergen, David
+* Dinosaurs Through Time / Rupert Matthews, McRae Books ([A](https://smile.amazon.com/dp/8860980429))
+* Dinosaurs Through Time [Mamenchisaurus] / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X))
+* Zoehfeld and Washburn (Let's Read and Find Out Science)
+  * Where did dinosaurs come from? ([w](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [a](https://smile.amazon.com/dp/0064452166))
+  * Dinosaurs big and small ([w](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [a](https://smile.amazon.com/dp/0064451828))
+  * etc.
+* Life-size dinosaurs / Bergen, David ([w](https://www.worldcat.org/title/life-size-dinosaurs/oclc/56389198), [a](https://smile.amazon.com/dp/140271775X)
 * Hannah Bonner
   * When bugs were big, plants were strange, and tetrapods stalked the earth : a cartoon prehistory of life before dinosaurs
   * When fish got feet, sharks got teeth, and bugs began to swarm: a cartoon prehistory of life long before dinosaurs
