@@ -38,18 +38,18 @@ More detailed for kids
   * Dinosaurs Of The Land, Sea And Air ([WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Az](https://smile.amazon.com/dp/1561447749))
 
 * Don Lessem
-  * The Ultimate Dinopedia
+  * The Ultimate Dinopedia ([Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Worldcat/2e](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/National-Geographic-Kids-Ultimate-Dinopedia/dp/1426301642), [Amazon/2e](https://smile.amazon.com/dp/1426301642)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet.
   * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
   * Dinosaurs to dodos : an encyclopedia of extinct animals / Lessem and Sovak
 * Dougal Dixon
   * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
   * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
   * Complete Illustrated Encyclopedia ([Worldcat](https://www.worldcat.org/title/complete-illustrated-encyclopedia-of-dinosaurs-prehistoric-creatures-the-ultimate-illustrated-reference-guide-to-1000-dinosaurs-and-prehistoric-creatures-with-2000-specially-commissioned-artworks-maps-and-photographs/oclc/944351418), [Amazon](https://smile.amazon.com/dp/1846812097)) - The format of the new (2014) paperback edition of this one is really too small for what it is (6.8 x 8.5 inches), but it is cheap. It covers a very large number of dinosaur species, which makes it a wide-ranging reference, but it's not the most attractive for children and it doesn't have a lot to say about each species.
-* Dinosaurs Through Time / Rupert Matthews, McRae Books ([A](https://smile.amazon.com/dp/8860980429))
-* Dinosaurs Through Time [Mamenchisaurus] / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X))
-* Zoehfeld and Washburn (Let's Read and Find Out Science)
-  * Where did dinosaurs come from? ([w](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [a](https://smile.amazon.com/dp/0064452166))
-  * Dinosaurs big and small ([w](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [a](https://smile.amazon.com/dp/0064451828))
+* Dinosaurs Through Time / Rupert Matthews, McRae Books ([A](https://smile.amazon.com/dp/8860980429)) - General overview of Mesozoic animal life, organized chronologically. It coverage doesn't really stand out, but nice full-page artwork makes it worthwhile.
+* Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X)) - Follows the life of a Mamenchisaurus from birth to death to fossilization.
+* Zoehfeld and Washburn (Let's Read and Find Out Science) - Excellent book that each focus on a fairly narrow topic.
+  * Where did dinosaurs come from? ([w](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [a](https://smile.amazon.com/dp/0064452166)) - History of evolution up until the dinosaurs.
+  * Dinosaurs big and small ([w](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [a](https://smile.amazon.com/dp/0064451828)) - Overview of various dinosaurs.
   * etc.
 * Life-size dinosaurs / Bergen, David ([w](https://www.worldcat.org/title/life-size-dinosaurs/oclc/56389198), [a](https://smile.amazon.com/dp/140271775X)
 * Hannah Bonner
