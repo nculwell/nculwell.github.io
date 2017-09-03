@@ -28,7 +28,7 @@ More detailed for kids
 
   I loved the pictures in this book and it got read a lot. It goes from the dawn of life through early humans, with plenty of dinosaurs. The 2012 edition appears to be basically a reprint of the 2000 edition with a new cover.
 
-* Modern Publishing (Rupert Oliver, etc.)
+* Modern Publishing (Rupert Oliver; Ron Wilson; Angela Royston; etc.)
 
   Omnibus editions of all Modern Publishing books. They are out-of-date (1980s) and the illustrations are sometimes goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's story book I can think of that features the protagonist being killed and devoured in the final pages.
 
