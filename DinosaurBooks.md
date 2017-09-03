@@ -51,11 +51,15 @@ More detailed for kids
   * Where did dinosaurs come from? ([w](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [a](https://smile.amazon.com/dp/0064452166)) - History of evolution up until the dinosaurs.
   * Dinosaurs big and small ([w](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [a](https://smile.amazon.com/dp/0064451828)) - Overview of various dinosaurs.
   * etc.
-* Life-size dinosaurs / Bergen, David ([w](https://www.worldcat.org/title/life-size-dinosaurs/oclc/56389198), [a](https://smile.amazon.com/dp/140271775X)
+* Life-size dinosaurs / Bergen, David ([w](https://www.worldcat.org/title/life-size-dinosaurs/oclc/56389198), [a](https://smile.amazon.com/dp/140271775X))
 * Hannah Bonner
-  * When bugs were big, plants were strange, and tetrapods stalked the earth : a cartoon prehistory of life before dinosaurs
-  * When fish got feet, sharks got teeth, and bugs began to swarm: a cartoon prehistory of life long before dinosaurs
-  * When dinos dawned, mammals got munched, and Pterosaurs took flight
+  * A Cartoon Prehistory of Life
+    * 2012 omnibus: *When Fish Got Feet, When Bugs Were Big, and When Dinos Dawned* ([Amazon](https://smile.amazon.com/When-Fish-Feet-Dinos-Dawned/dp/1426321058))
+    * Individual books
+      * *When fish got feet, sharks got teeth, and bugs began to swarm: a cartoon prehistory of life long before dinosaurs* ([Amazon](https://smile.amazon.com/When-Sharks-Teeth-Began-Swarm/dp/1426300794))
+      * *When bugs were big, plants were strange, and tetrapods stalked the earth: a cartoon prehistory of life before dinosaurs* ([Amazon](https://smile.amazon.com/Plants-Strange-Tetrapods-Stalked-Earth/dp/079226326X))
+      * *When dinos dawned, mammals got munched, and pterosaurs took flight: a cartoon prehistory of life in the Triassic* ([Amazon](https://smile.amazon.com/Dawned-Mammals-Munched-Pterosaurs-Flight/dp/1426308620))
+  * *Dining With Dinosaurs: A Tasty Guide to Mesozoic Munching* ([Amazon](https://smile.amazon.com/Dining-Dinosaurs-Tasty-Mesozoic-Munching/dp/1426323395))
 * Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy
 * Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to follow dinosaur drawing book.
 * I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike
