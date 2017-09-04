@@ -101,6 +101,7 @@ Textbooks
 * Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
 * Benton. *Vertebrate Paleontology* (3e/2014: ISBN 9781118406847, [Amazon](https://smile.amazon.com/dp/1118406842))
+* Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
 
 TODO
 
