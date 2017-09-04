@@ -141,6 +141,7 @@ TODO
 * https://smile.amazon.com/Day-Dinosaurs-spectacular-prehistoric-Science/dp/184780845X
 * https://smile.amazon.com/dp/1909263915
 * https://smile.amazon.com/dp/1847808409
+* https://smile.amazon.com/Best-Book-Early-People/dp/0753455773
 
 Human body - intro
 
@@ -169,4 +170,9 @@ School-type books (various subjects). I haven't read most of these yet; this is 
   * [Ancient World History/Amazon](https://smile.amazon.com/Ancient-World-History-Usborne/dp/0746027605)
   * [Medieval/Amazon](https://smile.amazon.com/Medieval-World-History-Usborne/dp/0746027621)
   * [The Last 500 Years/Amazon](https://smile.amazon.com/Last-Years-Usborne-World-History/dp/0439274257)
+* https://smile.amazon.com/Evolution-Human-Story-DK/dp/0756686733
+* https://smile.amazon.com/Human-Story-Evolution-Prehistoric-Outstanding/dp/0792263251
+* ISBN 0816051496, https://smile.amazon.com/First-Civilizations-Cultural-Atlas-People/dp/0816051496, https://www.worldcat.org/title/first-civilizations/oclc/51854890 
+* https://smile.amazon.com/Prehistoric-Life-Definitive-Visual-History/dp/075669910X
+
 * https://smile.amazon.com/Egyptian-Goddesses-Penguin-Young-Readers/dp/0448420295
