@@ -95,6 +95,7 @@ Textbooks
   * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
   * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
 * Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823))
+* Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 978-0520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
 
 TODO
@@ -107,6 +108,7 @@ TODO
 * Pickrell. *Weird Dinosaurs: The Strange New Fossils Challenging Everything We Thought We Knew* (2017, ISBN 9780231180986, https://smile.amazon.com/dp/0231180985)
 * https://smile.amazon.com/Cambrian-Explosion-Construction-Animal-Biodiversity/dp/1936221039
 * https://smile.amazon.com/Cambrian-Ocean-World-Ancient-America/dp/0253011825
+* Brett-Surman, Holtz, Farlow (eds). *The Complete Dinosaur* (Life of the Past) (2e/2012: ISBN 9780253357014, [Amazon](https://smile.amazon.com/dp/0253357012))
 
 Music
 
