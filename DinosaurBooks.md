@@ -148,8 +148,8 @@ Human body - intro
 
 Human body - older
 
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=948502
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=709338
+* Human body book / Parker, Steve (2013, ISBN 9781465402134, [Worldcat](https://www.worldcat.org/title/human-body-book/oclc/854541818))
+* The way we work: getting to know the amazing human body / Macaulay, David; Walker, Richard (2008, ISBN 9780618233786, [Worldcat](https://www.worldcat.org/title/human-body-book/oclc/854541818))
 
 School-type books (various subjects). I haven't read most of these yet; this is really just a collection of ideas for me to follow up later.
 
