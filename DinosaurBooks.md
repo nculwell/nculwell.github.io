@@ -85,6 +85,10 @@ Beyond kids
 
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=389736
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=885998
+* Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history*
+  * 3e/2016: ISBN 9781107135376 (HC) / 9781316501153 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/936687221), [Amazon HC](https://smile.amazon.com/dp/1107135370), [Amazon PB](https://smile.amazon.com/dp/1316501159)
+  * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
+  * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
 
 Music
 
