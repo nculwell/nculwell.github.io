@@ -84,9 +84,11 @@ Adult books with enough pictures to be of some interest to kids
 
 Beyond kids
 
-* ISBN 9780816059621, https://www.worldcat.org/title/last-of-the-dinosaurs-the-cretaceous-period/oclc/607552529
+* Thom Holmes, *The Prehistoric Earth* ([Worldcat search for the whole series](https://www.worldcat.org/search?q=se%3A%22Prehistoric+earth.%22+au%3Aholmes&qt=results_page#%2528x0%253Abook%2Bx4%253Aprintbook%2529format))
+  * *Last of the dinosaurs: the Cretaceous period* (2009, ISBN 9780816059621, [Worldcat](https://www.worldcat.org/title/last-of-the-dinosaurs-the-cretaceous-period/oclc/607552529))
 * Steyer. *Earth Before the Dinosaurs* (ISBN 9780253223807, [Worldcat](https://www.worldcat.org/title/earth-before-the-dinosaurs/oclc/798740419), [Amazon](https://smile.amazon.com/dp/0253223806))
-* ISBN 9780691167664, https://smile.amazon.com/Princeton-Field-Guide-Dinosaurs-Second/dp/0691167664
+* Paul. *The Princeton Field Guide to Dinosaurs* (2nd edition: ISBN 9780691167664, [Worldcat](https://www.worldcat.org/title/princeton-field-guide-to-dinosaurs/oclc/985402380), [Amazon](https://smile.amazon.com/Princeton-Field-Guide-Dinosaurs-Second/dp/0691167664))
+* Hone. *The Tyrannosaur Chronicles: The Biology of the Tyrant Dinosaurs* (ISBN 9781472911254, [Worldcat](https://www.worldcat.org/title/tyrannosaur-chronicles-the-biology-of-the-tyrant-dinosaurs/oclc/951803248), [Amazon](https://smile.amazon.com/Tyrannosaur-Chronicles-Biology-Tyrant-Dinosaurs/dp/1472911253))
 
 Textbooks
 
