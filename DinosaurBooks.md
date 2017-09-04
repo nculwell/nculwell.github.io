@@ -142,9 +142,9 @@ TODO
 
 Human body - intro
 
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=1204684
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=1143784
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=94719
+* My amazing body / Ruth Martin; Allan Sanders
+  (2015, ISBN 9781499800401, [Worldcat](https://www.worldcat.org/title/my-amazing-body/oclc/966196689))
+* Human body encyclopedia / Penny Smith (2005, ISBN 0756609976, [Worldcat](https://www.worldcat.org/title/human-body-encyclopedia/oclc/56096099))
 
 Human body - older
 
