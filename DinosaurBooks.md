@@ -99,6 +99,13 @@ Textbooks
 TODO
 
 * Hallett, Wedel. *The Sauropod Dinosaurs: Life in the Age of Giants* (ISBN 9781421420288, https://smile.amazon.com/Sauropod-Dinosaurs-Life-Age-Giants/dp/1421420287)
+* https://smile.amazon.com/Pterosaurs-Natural-History-Evolution-Anatomy/dp/0691150613
+* https://smile.amazon.com/dp/0195372662
+* https://smile.amazon.com/Field-Guide-Mesozoic-Winged-Dinosaurs/dp/0988596504
+* Pickrell. *Flying Dinosaurs: How Fearsome Reptiles Became Birds* (2014, ISBN 9780231171786, https://smile.amazon.com/dp/0231171781)
+* Pickrell. *Weird Dinosaurs: The Strange New Fossils Challenging Everything We Thought We Knew* (2017, ISBN 9780231180986, https://smile.amazon.com/dp/0231180985)
+* https://smile.amazon.com/Cambrian-Explosion-Construction-Animal-Biodiversity/dp/1936221039
+* https://smile.amazon.com/Cambrian-Ocean-World-Ancient-America/dp/0253011825
 
 Music
 
