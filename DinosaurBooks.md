@@ -104,15 +104,15 @@ TODO
 
 Music
 
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=32434
+* *Most amazing dinosaur songs* (Music for Little People) (ISBN 9781566284059, [Worldcat](https://www.worldcat.org/title/most-amazing-dinosaur-songs/oclc/55769455)) - Classic children's songs with words about dinosaurs.
 
 Other animals
 
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=54933
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=162233
+* Coyote raid in Cactus Canyon / Jim Arnosky (ISBN 0399234136, [Worldcat](https://www.worldcat.org/title/coyote-raid-in-cactus-canyon/oclc/54022367))
+* Baby sea otter / Betty Tatham; Joan Paley (ISBN 9780805075045, [Worldcat](https://www.worldcat.org/title/baby-sea-otter/oclc/56753287))
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=531402
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=736066
-* The emperor lays an egg / Guiberson, Brenda Z ; Paley, Joan
+* The emperor lays an egg / Guiberson, Brenda Z ; Paley, Joan https://www.worldcat.org/title/emperor-lays-an-egg/oclc/57357701
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=483412
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=657307
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=997745
