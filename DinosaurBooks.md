@@ -115,16 +115,16 @@ Other animals
 
 * Coyote raid in Cactus Canyon / Jim Arnosky (ISBN 0399234136, [Worldcat](https://www.worldcat.org/title/coyote-raid-in-cactus-canyon/oclc/54022367))
 * Baby sea otter / Betty Tatham; Joan Paley (ISBN 9780805075045, [Worldcat](https://www.worldcat.org/title/baby-sea-otter/oclc/56753287))
-* Rosa Raposa / Campoy; Aruego; Dewey (ISBN 9780152021610, [w](https://www.worldcat.org/title/rosa-raposa/oclc/47930701))
-* Platypus! / Clarke, Ginjer L ; Mirocha, Paul (ISBN 9780375924170 / 9780375824173, [w](https://www.worldcat.org/title/platypus/oclc/52970766))
+* Rosa Raposa / Campoy; Aruego; Dewey (ISBN 9780152021610, [Worldcat](https://www.worldcat.org/title/rosa-raposa/oclc/47930701))
+* Platypus! / Clarke, Ginjer L ; Mirocha, Paul (ISBN 9780375924170 / 9780375824173, [Worldcat](https://www.worldcat.org/title/platypus/oclc/52970766))
 * The emperor lays an egg / Guiberson, Brenda Z ; Paley, Joan https://www.worldcat.org/title/emperor-lays-an-egg/oclc/57357701
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=483412
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=657307
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=997745
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=966451
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=403542
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=613375
-* Life-size killer creatures / Gilpin, Daniel ([Omnibus](https://smile.amazon.com/dp/B001YIGW2C))
+* Reptiles & amphibians / Cogger, Harold G (ISBN 1875137580, [Worldcat](https://www.worldcat.org/title/reptiles-amphibians/oclc/41880357))
+* Birds: nature's magnificent flying machines / Caroline Arnold; Patricia Wynne (ISBN 1570915164, [Worldcat](https://www.worldcat.org/title/birds-natures-magnificent-flying-machines/oclc/50198991))
+* The animal book: a visual encyclopedia of life on Earth / Burnie, David (ISBN 9781465414571, [Worldcat](https://www.worldcat.org/title/animal-book-a-visual-encyclopedia-of-life-on-earth/oclc/828055604))
+* What if you had animal teeth!? / Markle, Sandra ; McWilliam, Howard (2013, ISBN 9780606315043, [Worldcat](https://www.worldcat.org/title/what-if-you-had-animal-teeth/oclc/797334991))
+* Lizards / Joanne Mattern (ISBN 9780761412595, [Worldcat](https://www.worldcat.org/title/lizards/oclc/45413523))
+* The beginner's guide to animal autopsy : a "hands-in" approach to zoology, the world of creatures and what's inside them / Parker, Steve ; Shone, Rob (ISBN 0761307028, [Worldcat](https://www.worldcat.org/title/beginners-guide-to-animal-autopsy-the-hands-in-approach-to-zoology/oclc/36573705))
+* Life-size killer creatures / Gilpin, Daniel (Omnibus: [Amazon](https://smile.amazon.com/dp/B001YIGW2C))
 * Bateman - Deep in the Swamp
 
 Human body - intro
