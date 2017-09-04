@@ -96,7 +96,8 @@ Textbooks
   * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
 * Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823))
 * Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
-* Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 978-0520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
+* Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
+* Benton. *Vertebrate Paleontology* (3e/2014: ISBN 9781118406847, [Amazon](https://smile.amazon.com/dp/1118406842))
 
 TODO
 
