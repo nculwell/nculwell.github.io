@@ -115,8 +115,8 @@ Other animals
 
 * Coyote raid in Cactus Canyon / Jim Arnosky (ISBN 0399234136, [Worldcat](https://www.worldcat.org/title/coyote-raid-in-cactus-canyon/oclc/54022367))
 * Baby sea otter / Betty Tatham; Joan Paley (ISBN 9780805075045, [Worldcat](https://www.worldcat.org/title/baby-sea-otter/oclc/56753287))
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=531402
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=736066
+* Rosa Raposa / Campoy; Aruego; Dewey (ISBN 9780152021610, [w](https://www.worldcat.org/title/rosa-raposa/oclc/47930701))
+* Platypus! / Clarke, Ginjer L ; Mirocha, Paul (ISBN 9780375924170 / 9780375824173, [w](https://www.worldcat.org/title/platypus/oclc/52970766))
 * The emperor lays an egg / Guiberson, Brenda Z ; Paley, Joan https://www.worldcat.org/title/emperor-lays-an-egg/oclc/57357701
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=483412
 * https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=657307
