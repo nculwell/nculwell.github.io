@@ -102,6 +102,7 @@ Textbooks
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
 * Benton. *Vertebrate Paleontology* (3e/2014: ISBN 9781118406847, [Amazon](https://smile.amazon.com/dp/1118406842))
 * Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
+* Prothero. *Bringing Fossils to Life: An Introduction to Paleobiology* (3e/2013, ISBN 9780231158930, [Amazon](https://smile.amazon.com/Bringing-Fossils-Life-Introduction-Paleobiology/dp/0231158939))
 
 TODO
 
@@ -157,8 +158,13 @@ School-type books (various subjects). I haven't read most of these yet; this is 
 * Thom Holmes, *The Prehistoric Earth* series ([Worldcat search for the whole series](https://www.worldcat.org/search?q=se%3A%22Prehistoric+earth.%22+au%3Aholmes&qt=results_page#%2528x0%253Abook%2Bx4%253Aprintbook%2529format)) - History of life on earth, written at a middle school / early high school level.
   * *Last of the dinosaurs: the Cretaceous period* (2009, ISBN 9780816059621, [Worldcat](https://www.worldcat.org/title/last-of-the-dinosaurs-the-cretaceous-period/oclc/607552529))
 * The World in Ancient Times (OUP)
+  * The Ancient Near Eastern World / Amanda H. Podany, Marni McGee
+    (2005, ISBN 9780195161595, [Amazon](https://smile.amazon.com/Ancient-Near-Eastern-World-Times/dp/0195161599))
+  * The World in Ancient Times: Primary Sources & Reference Volume / Ronald Mellor, Amanda H. Podany
+    (2005, ISBN 9780195222203, [Amazon](https://smile.amazon.com/World-Ancient-Times-Primary-Reference/dp/0195222202))
+  * etc.
 * Matloff, American Military History: 1775-1902; 1902-1996
-* Everything You Need to Ace World History in One Big Fat Notebook (surprisingly good for what it is, there's also a US history one
+* Everything You Need to Ace World History in One Big Fat Notebook (surprisingly good for what it is, there's also a US history one)
 * Usborne world history
   * [Ancient World History/Amazon](https://smile.amazon.com/Ancient-World-History-Usborne/dp/0746027605)
   * [Medieval/Amazon](https://smile.amazon.com/Medieval-World-History-Usborne/dp/0746027621)
