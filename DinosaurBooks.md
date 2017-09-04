@@ -19,7 +19,6 @@ Baby books, dinosaur-themed stories
 * Dinosaur round-up (DC Super Friends)
 * Time for school, little dinosaur / Herman, Gail ; Fleming, Michael
 * A trip to dinosaur time / Foreman, Michael ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568))
-* Dancing dinos go to school / Lucas, Sally ; Lucas, Margeaux (https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=311745)
 * Danny and the Dinosaur / Hoff ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837&referer=brief_results), [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0064440028))
 
 More detailed for kids
@@ -73,7 +72,7 @@ More detailed for kids
 * Beyond the dinosaurs: monsters of the air and sea / Brown, Charlotte Lewis ; Wilson, Phil https://www.worldcat.org/title/beyond-the-dinosaurs-monsters-of-the-air-and-sea/oclc/948653918
 * The day the dinosaurs died / Brown, Charlotte Lewis ; Wilson, Phil https://www.worldcat.org/title/day-the-dinosaurs-died/oclc/868345981
 * Tyrannosaurus time / Joanne Ryder; Michael Rothman https://www.worldcat.org/title/tyrannosaurus-time/oclc/43032305
-* ISBN 0811848787, https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=488761
+* Paleo sharks: survival of the strangest / Timothy J Bradley (2007, ISBN 0811848787, [Worldcat](https://www.worldcat.org/title/paleo-sharks-survival-of-the-strangest/oclc/66392993))
 * ISBN 9781625880826 1625880820 9781625881090 1625881096 (???), https://www.worldcat.org/title/before-the-dinosaurs/oclc/858081253
 * Dinosaurs / Milner, Angela C (ISBN 078354765X, https://www.worldcat.org/title/dinosaurs/oclc/973033291)
 * *The Amazing World of Dinosaurs: An Illustrated Journey Through the Mesozoic Era* / Kuether (ISBN 9781591936459, [Amazon](https://smile.amazon.com/Amazing-World-Dinosaurs-Illustrated-Mesozoic/dp/1591936454))
@@ -81,6 +80,10 @@ More detailed for kids
 Adult books with enough pictures to be of some interest to kids
 
 * Dinosaurs : the most complete, up-to-date encyclopedia for dinosaur lovers of all ages / Holtz, Thomas R ; Rey, Luis V
+
+Kids TODO
+
+* Dancing dinos go to school / Lucas, Sally ; Lucas, Margeaux (ISBN 0375932410 / 0375832416, [Worldcat](https://www.worldcat.org/title/dancing-dinos-go-to-school/oclc/60543255))
 
 Beyond kids
 
