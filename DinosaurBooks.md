@@ -76,6 +76,7 @@ More detailed for kids
 * ISBN 0811848787, https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=488761
 * ISBN 9781625880826 1625880820 9781625881090 1625881096 (???), https://www.worldcat.org/title/before-the-dinosaurs/oclc/858081253
 * Dinosaurs / Milner, Angela C (ISBN 078354765X, https://www.worldcat.org/title/dinosaurs/oclc/973033291)
+* *The Amazing World of Dinosaurs: An Illustrated Journey Through the Mesozoic Era* / Kuether (ISBN 9781591936459, [Amazon](https://smile.amazon.com/Amazing-World-Dinosaurs-Illustrated-Mesozoic/dp/1591936454))
 
 Adult books with enough pictures to be of some interest to kids
 
@@ -83,8 +84,9 @@ Adult books with enough pictures to be of some interest to kids
 
 Beyond kids
 
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=389736
-* https://www.linkcat.info/cgi-bin/koha/opac-detail.pl?biblionumber=885998
+* ISBN 9780816059621, https://www.worldcat.org/title/last-of-the-dinosaurs-the-cretaceous-period/oclc/607552529
+* Steyer. *Earth Before the Dinosaurs* (ISBN 9780253223807, [Worldcat](https://www.worldcat.org/title/earth-before-the-dinosaurs/oclc/798740419), [Amazon](https://smile.amazon.com/dp/0253223806))
+* ISBN 9780691167664, https://smile.amazon.com/Princeton-Field-Guide-Dinosaurs-Second/dp/0691167664
 
 Textbooks
 
@@ -93,6 +95,10 @@ Textbooks
   * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
   * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
 * Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823))
+
+TODO
+
+* Hallett, Wedel. *The Sauropod Dinosaurs: Life in the Age of Giants* (ISBN 9781421420288, https://smile.amazon.com/Sauropod-Dinosaurs-Life-Age-Giants/dp/1421420287)
 
 Music
 
