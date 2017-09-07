@@ -9,6 +9,7 @@ theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
 
 # Can't change these settings (Github overrides them).
+# Can set them to whatever we want for local testing.
 
 lsi: false
 safe: true
