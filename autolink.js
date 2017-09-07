@@ -22,20 +22,29 @@
   var _aaLinksByHost;
   var _userCountryCode;
 
+  // Mutable state.
+  var _selectedCountryCode;
+
   for (var c in amazonHostsByCountry) {
     hostCountries[amazonHostsByCountry[c]] = c;
   }
 
   function onLoad() {
+    console.log("onLoad");
     fetchLinks();
     getUserCountry();
   }
 
+  // Proceed when all onLoad tasks are done.
   function loadComplete() {
     if (_aaLinksByHost && _userCountryCode) {
+      console.log("Load complete.");
       makeAmazonSelector();
       amazonSelectorChange();
+    } else {
+      console.log("Still loading.");
     }
+    window.ret = { _aaLinksByHost: _aaLinksByHost, _userCountryCode: _userCountryCode };
   }
 
   function getUserCountry() {
@@ -80,34 +89,22 @@
     loadComplete();
   }
 
-  function replaceLinks(cont) {
-    //console.log(links);
-    var linksByAsin = {};
-    var linkHosts = {};
-    for (var i = 0; i < links.length; ++i) {
-      var link = links[i];
-      if (link) {
-        var lk = parseAmazonLink(link);
-        if (lk) {
-          linksByAsin[lk.host + "/" lk.asin] = link;
-          linkHosts[lk.host] = 1;
-          continue;
-        }
-        console.error("Match failure: " + link);
-      }
-    }
-    //console.log(linksByAsin);
+  function replaceLinks() {
+    var selectedHost = amazonHostsByCountry[_selectedCountryCode];
     $("a").each(function(_, a) {
-      var href = $(a).attr("href");
-      var m = href.match("amazon\\.com/([^/]+/)?[dg]p/([^/]+)");
-      if (m) {
-        var asin = m[2];
-        if (linksByAsin[asin]) {
-          var link = linksByAsin[asin];
+      var href = $(a).attr("sourcehref");
+      if (!href) {
+        href = $(a).attr("href");
+        $(a).attr("sourcehref", href);
+      }
+      var lk = parseAmazonLink(href);
+      if (lk) {
+        var link = _aaLinksByHost[selectedHost][lk.asin];
+        if (link) {
           //console.log("Replacing link: " + link);
           $(a).attr("href", link);
         } else {
-          console.log("Unmatched ASIN: " + asin);
+          console.log("Unmatched ASIN: " + lk.asin);
         }
       } else {
         var ignore = href.match(/worldcat/) || href.match(/^#/);
@@ -115,18 +112,16 @@
           console.log("Unmatched link: " + href);
       }
     });
-    cont(linkHosts);
-  }
-
-  function parseLinks() {
   }
 
   function parseAmazonLink(link) {
     if (link) {
-      var match = link.match("^https?://([^/]+\\.)?(amazon\\.[^/]+)/gp/product/([^/]+)/");
+      var amazonLinkPattern =
+        "//([^/]+\\.)?(amazon\\.[^/]+)/([^/]+/)?(dp|gp/product)/([^/]+)";
+      var match = link.match(amazonLinkPattern);
       if (match) {
         var linkHost = match[2];
-        var linkAsin = match[3];
+        var linkAsin = match[5];
         if (linkHost && linkAsin) {
           return { host: linkHost, asin: linkAsin }
         }
@@ -136,30 +131,44 @@
   }
 
   function makeAmazonSelector() {
+    console.log("makeAmazonSelector");
     var $selector = $('<select></select>');
     for (var i=0; i < amazonCountriesList.length; ++i) {
       var countryCode = amazonCountriesList[i];
       var countryHost = amazonHostsByCountry[countryCode];
+      console.log("Country: " + countryCode + " / " + countryHost);
       if (_aaLinksByHost[countryHost]) {
+        console.log("Have country: " + countryCode);
         var option = $('<option/>');
         option.attr("value", countryCode);
-        option.text(host);
+        option.text(countryHost);
         if (countryCode == _userCountryCode) {
           option.attr("selected", "selected");
         }
+        $selector.append(option);
       }
     }
     $selector.change(amazonSelectorChange);
+    var $flag = $("<img/>").height(1);
     $("#amazonSelector")
-      .append($("<img src="">"))
-      .append(selector);
+      .append($flag)
+      .append($selector);
+    $flag.height($selector.height());
+    // Repeat resize after function completes in case rendering is deferred.
+    setTimeout(function() { $flag.height($selector.height()); });
   }
 
   function amazonSelectorChange() {
+    console.log("amazonSelectorChange");
     var $opt = $("#amazonSelector select :selected");
     var $flag = $("#amazonSelector img");
     var countryCode = $opt.attr("value");
-    $flag.attr("src", countryFlag(countryCode));
+    if (countryCode) {
+      $flag.attr("src", countryFlag(countryCode));
+      _selectedCountryCode = countryCode;
+    } else {
+      _selectedCountryCode = _userCountryCode;
+    }
     replaceLinks();
   }
 
@@ -178,5 +187,5 @@
 
   $(document).ready(onLoad);
 
-});
+})();
 

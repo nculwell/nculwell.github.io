@@ -6,6 +6,8 @@ This is a list of dinosaur/prehistory books that we've liked.
 
 TODO: Movies, TV shows, coloring books, more music
 
+<div id='amazonSelector'></div>
+
 ## Baby books, dinosaur-themed stories
 
 * Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247&referer=brief_results), [Amazon](https://smile.amazon.com/dp/140830385X))
