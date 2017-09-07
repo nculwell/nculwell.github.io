@@ -1,8 +1,12 @@
+---
+title: Dinosaur Books
+---
+
 This is a list of dinosaur/prehistory books that we've liked.
 
 TODO: Movies, TV shows, coloring books, more music
 
-== Baby books, dinosaur-themed stories
+## Baby books, dinosaur-themed stories
 
 * Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247&referer=brief_results), [Amazon](https://smile.amazon.com/dp/140830385X))
 * Dinosaur Days / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not poetry, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
@@ -21,7 +25,7 @@ TODO: Movies, TV shows, coloring books, more music
 * A trip to dinosaur time / Foreman, Michael ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568))
 * Danny and the Dinosaur / Hoff ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837&referer=brief_results), [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0064440028))
 
-== More detailed for kids
+## More detailed for kids
 
 * Prehistoric World (Usborne) ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088&referer=brief_results), [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291&referer=brief_results), [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583), [Amazon/2012](https://smile.amazon.com/dp/140953426X))
 
@@ -81,17 +85,17 @@ Adult books with enough pictures to be of some interest to kids
 
 * Dinosaurs : the most complete, up-to-date encyclopedia for dinosaur lovers of all ages / Holtz, Thomas R ; Rey, Luis V
 
-Kids TODO
+## Kids TODO
 
 * Dancing dinos go to school / Lucas, Sally ; Lucas, Margeaux (ISBN 0375932410 / 0375832416, [Worldcat](https://www.worldcat.org/title/dancing-dinos-go-to-school/oclc/60543255))
 
-Beyond kids
+## Beyond kids
 
 * Steyer. *Earth Before the Dinosaurs* (ISBN 9780253223807, [Worldcat](https://www.worldcat.org/title/earth-before-the-dinosaurs/oclc/798740419), [Amazon](https://smile.amazon.com/dp/0253223806))
 * Paul. *The Princeton Field Guide to Dinosaurs* (2nd edition: ISBN 9780691167664, [Worldcat](https://www.worldcat.org/title/princeton-field-guide-to-dinosaurs/oclc/985402380), [Amazon](https://smile.amazon.com/Princeton-Field-Guide-Dinosaurs-Second/dp/0691167664))
 * Hone. *The Tyrannosaur Chronicles: The Biology of the Tyrant Dinosaurs* (ISBN 9781472911254, [Worldcat](https://www.worldcat.org/title/tyrannosaur-chronicles-the-biology-of-the-tyrant-dinosaurs/oclc/951803248), [Amazon](https://smile.amazon.com/Tyrannosaur-Chronicles-Biology-Tyrant-Dinosaurs/dp/1472911253))
 
-Textbooks
+## Textbooks
 
 * Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history*
   * 3e/2016: ISBN 9781107135376 (HC) / 9781316501153 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/936687221), [Amazon HC](https://smile.amazon.com/dp/1107135370), [Amazon PB](https://smile.amazon.com/dp/1316501159)
@@ -104,7 +108,7 @@ Textbooks
 * Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
 * Prothero. *Bringing Fossils to Life: An Introduction to Paleobiology* (3e/2013, ISBN 9780231158930, [Amazon](https://smile.amazon.com/Bringing-Fossils-Life-Introduction-Paleobiology/dp/0231158939))
 
-TODO
+## TODO
 
 * Hallett, Wedel. *The Sauropod Dinosaurs: Life in the Age of Giants* (ISBN 9781421420288, https://smile.amazon.com/Sauropod-Dinosaurs-Life-Age-Giants/dp/1421420287)
 * https://smile.amazon.com/Pterosaurs-Natural-History-Evolution-Anatomy/dp/0691150613
@@ -116,11 +120,11 @@ TODO
 * https://smile.amazon.com/Cambrian-Ocean-World-Ancient-America/dp/0253011825
 * Brett-Surman, Holtz, Farlow (eds). *The Complete Dinosaur* (Life of the Past) (2e/2012: ISBN 9780253357014, [Amazon](https://smile.amazon.com/dp/0253357012))
 
-Music
+## Music
 
 * *Most amazing dinosaur songs* (Music for Little People) (ISBN 9781566284059, [Worldcat](https://www.worldcat.org/title/most-amazing-dinosaur-songs/oclc/55769455)) - Classic children's songs with words about dinosaurs.
 
-Other animals
+## Other animals
 
 * Coyote raid in Cactus Canyon / Jim Arnosky (ISBN 0399234136, [Worldcat](https://www.worldcat.org/title/coyote-raid-in-cactus-canyon/oclc/54022367))
 * Baby sea otter / Betty Tatham; Joan Paley (ISBN 9780805075045, [Worldcat](https://www.worldcat.org/title/baby-sea-otter/oclc/56753287))
@@ -136,25 +140,25 @@ Other animals
 * Life-size killer creatures / Gilpin, Daniel (Omnibus: [Amazon](https://smile.amazon.com/dp/B001YIGW2C))
 * Bateman - Deep in the Swamp
 
-TODO
+## TODO
 
 * https://smile.amazon.com/Day-Dinosaurs-spectacular-prehistoric-Science/dp/184780845X
 * https://smile.amazon.com/dp/1909263915
 * https://smile.amazon.com/dp/1847808409
 * https://smile.amazon.com/Best-Book-Early-People/dp/0753455773
 
-Human body - intro
+## Human body - intro
 
 * My amazing body / Ruth Martin; Allan Sanders
   (2015, ISBN 9781499800401, [Worldcat](https://www.worldcat.org/title/my-amazing-body/oclc/966196689))
 * Human body encyclopedia / Penny Smith (2005, ISBN 0756609976, [Worldcat](https://www.worldcat.org/title/human-body-encyclopedia/oclc/56096099))
 
-Human body - older
+## Human body - older
 
 * Human body book / Parker, Steve (2013, ISBN 9781465402134, [Worldcat](https://www.worldcat.org/title/human-body-book/oclc/854541818))
 * The way we work: getting to know the amazing human body / Macaulay, David; Walker, Richard (2008, ISBN 9780618233786, [Worldcat](https://www.worldcat.org/title/human-body-book/oclc/854541818))
 
-School-type books (various subjects). I haven't read most of these yet; this is really just a collection of ideas for me to follow up later.
+## School-type books (various subjects). I haven't read most of these yet; this is really just a collection of ideas for me to follow up later.
 
 * Thom Holmes, *The Prehistoric Earth* series ([Worldcat search for the whole series](https://www.worldcat.org/search?q=se%3A%22Prehistoric+earth.%22+au%3Aholmes&qt=results_page#%2528x0%253Abook%2Bx4%253Aprintbook%2529format)) - History of life on earth, written at a middle school / early high school level. Pretty good overview but lacks pictures, which is a fairly serious drawback (both children's and adults' books on the subject typically have more of them).
   * *Last of the dinosaurs: the Cretaceous period* (2009, ISBN 9780816059621, [Worldcat](https://www.worldcat.org/title/last-of-the-dinosaurs-the-cretaceous-period/oclc/607552529))
