@@ -30,11 +30,12 @@ function replaceLinksContinue(aaLinks) {
     var m = href.match("amazon\\.com/([^/]+/)?[dg]p/([^/]+)");
     if (m) {
       var asin = m[2];
-      console.log("ASIN: "+asin);
       if (linksByAsin[asin]) {
         var link = linksByAsin[asin];
-        console.log("Replacing link: " + link);
+        //console.log("Replacing link: " + link);
         $(a).attr("href", link);
+      } else {
+        console.log("Unmatched ASIN: " + asin);
       }
     } else {
       var ignore = href.match(/worldcat/) || href.match(/^#/);
