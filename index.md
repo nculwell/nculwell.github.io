@@ -3,5 +3,8 @@ title: Home
 layout: default
 ---
 
-[Dinosaur Books](DinosaurBooks.md)
+## Features
+
+* [Dinosaur Books](DinosaurBooks.md)
+* [Math Books](MathStudy/)
 
