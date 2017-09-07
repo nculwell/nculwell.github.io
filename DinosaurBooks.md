@@ -41,7 +41,7 @@ TODO: Movies, TV shows, coloring books, more music
   * Dinosaurs Of The Land, Sea And Air (ISBN 1561447749, [WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Amazon](https://smile.amazon.com/dp/1561447749))
 
 * Don Lessem
-  * The Ultimate Dinopedia (1e/2010 ISBN 1426301642, [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Amazon](https://smile.amazon.com/dp/1426301642); 2e/2017 ISBN 1426329059, [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/dp/1426301642)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet.
+  * The Ultimate Dinopedia (1e/2010 ISBN 1426301642, [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Amazon](https://smile.amazon.com/dp/1426301642); 2e/2017 ISBN 1426329059, [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/dp/1426329059)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet.
   * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
   * Dinosaurs to dodos : an encyclopedia of extinct animals / Lessem and Sovak
 * Dougal Dixon
@@ -180,3 +180,7 @@ Adult books with enough pictures to be of some interest to kids
 * https://smile.amazon.com/Prehistoric-Life-Definitive-Visual-History/dp/075669910X
 
 * https://smile.amazon.com/Egyptian-Goddesses-Penguin-Young-Readers/dp/0448420295
+
+{% include javascript.html %}
+<script src="aalink.js"></script>
+
