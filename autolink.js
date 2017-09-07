@@ -48,15 +48,16 @@
   }
 
   function getUserCountry() {
-    $.ajax("http://api.hostip.info/country.php", {
-      dataType: "text",
-      success: setUserCountry,
+    $.ajax("https://ipinfo.io/json", {
+      dataType: "json",
+      success: function(data) { setUserCountry(data.country) },
       error: function(x) { perror(x); setUserCountry('us'); }
     });
   }
 
   function setUserCountry(countryCode) {
     _userCountryCode = countryCode.toLowerCase();
+    console.log("Country: " + _userCountryCode.toUpperCase());
     loadComplete();
   }
 
@@ -107,10 +108,10 @@
           $a.attr("href", link);
         } else {
           // Use original link, but for the right country.
-          console.log("replacementHost: " + replacementHost);
-          console.log("href: " + href);
+          //console.log("replacementHost: " + replacementHost);
+          //console.log("href: " + href);
           var countryLink = href.replace(new RegExp("/[^/]*amazon\\.com/"), "/" + replacementHost+ "/");
-          console.log("countryLink: " + countryLink);
+          //console.log("countryLink: " + countryLink);
           $a.attr("href", countryLink);
           console.log("Unmatched ASIN: " + lk.asin);
         }
@@ -144,9 +145,9 @@
     for (var i=0; i < amazonCountriesList.length; ++i) {
       var countryCode = amazonCountriesList[i];
       var countryHost = amazonHostsByCountry[countryCode];
-      console.log("Country: " + countryCode + " / " + countryHost);
+      //console.log("Country: " + countryCode + " / " + countryHost);
       if (_aaLinksByHost[countryHost]) {
-        console.log("Have country: " + countryCode);
+        //console.log("Have country: " + countryCode);
         var option = $('<option/>');
         option.attr("value", countryCode);
         option.text(countryHost);
@@ -159,6 +160,7 @@
     $selector.change(amazonSelectorChange);
     var $flag = $("<img/>").height(1);
     $("#amazonSelector")
+      .append("<span>Amazon site: &nbsp; </span>")
       .append($flag)
       .append($selector);
     $flag.height($selector.height());
