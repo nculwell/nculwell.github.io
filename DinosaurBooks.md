@@ -6,7 +6,9 @@ This is a list of dinosaur/prehistory books that we've liked.
 
 TODO: Movies, TV shows, coloring books, more music
 
-<div id='amazonSelector'></div>
+<div id='amazonSelector'>
+  <noscript>Enable Javascript to choose a different Amazon site.</noscript>
+</div>
 
 ## Baby books, dinosaur-themed stories
 
