@@ -70,19 +70,19 @@ TODO: Movies, TV shows, coloring books, more music
       * *When dinos dawned, mammals got munched, and pterosaurs took flight: a cartoon prehistory of life in the Triassic* (ISBN 1426308620, [Worldcat](https://www.worldcat.org/title/when-dinos-dawned-mammals-got-munched-and-pterosaurs-took-flight-a-cartoon-pre-history-of-life-in-the-triassic/oclc/886776103), [Amazon](https://smile.amazon.com/dp/1426308620))
   * *Dining With Dinosaurs: A Tasty Guide to Mesozoic Munching* (ISBN 1426323395, [Worldcat](https://www.worldcat.org/title/dining-with-dinosaurs-a-tasty-guide-to-mesozoic-munching/oclc/959966623), [Amazon](https://smile.amazon.com/dp/1426323395)) - I haven't seen this new book yet but it looks similar to her others.
   
-* Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy https://www.worldcat.org/title/can-you-tell-brachiosaurus-from-a-apatosaurus/oclc/988929776
+* Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy <https://www.worldcat.org/title/can-you-tell-brachiosaurus-from-a-apatosaurus/oclc/988929776>
 * Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to follow dinosaur drawing book. (ISBN  9781435826465, [Worldcat](https://www.worldcat.org/title/dinosaurs-and-other-prehistoric-creatures/oclc/212893645))
-* I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike https://www.worldcat.org/title/i-am-a-tyrannosaurus/oclc/61439566
-* Imagine you are a crocodile / Wallace, Karen ; Bostock, Mike https://www.worldcat.org/title/imagine-you-are-a-crocodile/oclc/51527511
-* I am an ankylosaurus / Wallace, Karen ; Bostock, Mike https://www.worldcat.org/title/i-am-an-ankylosaurus/oclc/52782911
+* I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/i-am-a-tyrannosaurus/oclc/61439566>
+* Imagine you are a crocodile / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/imagine-you-are-a-crocodile/oclc/51527511>
+* I am an ankylosaurus / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/i-am-an-ankylosaurus/oclc/52782911>
 * Dinosaurs / Long, John (ISBN 9781416938576, [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/122715493)) - An average dinosaur book that we got some entertainment from.
-* Monster fliers: from the time of the dinosaurs / MacLeod, Elizabeth ; Bindon, John https://www.worldcat.org/title/monster-fliers-from-the-time-of-the-dinosaurs/oclc/394994459 - Nice illustrations of pterosaurs.
-* Beyond the dinosaurs: monsters of the air and sea / Brown, Charlotte Lewis ; Wilson, Phil https://www.worldcat.org/title/beyond-the-dinosaurs-monsters-of-the-air-and-sea/oclc/948653918
-* The day the dinosaurs died / Brown, Charlotte Lewis ; Wilson, Phil https://www.worldcat.org/title/day-the-dinosaurs-died/oclc/868345981
-* Tyrannosaurus time / Joanne Ryder; Michael Rothman https://www.worldcat.org/title/tyrannosaurus-time/oclc/43032305
+* Monster fliers: from the time of the dinosaurs / MacLeod, Elizabeth ; Bindon, John <https://www.worldcat.org/title/monster-fliers-from-the-time-of-the-dinosaurs/oclc/394994459> - Nice illustrations of pterosaurs.
+* Beyond the dinosaurs: monsters of the air and sea / Brown, Charlotte Lewis ; Wilson, Phil <https://www.worldcat.org/title/beyond-the-dinosaurs-monsters-of-the-air-and-sea/oclc/948653918>
+* The day the dinosaurs died / Brown, Charlotte Lewis ; Wilson, Phil <https://www.worldcat.org/title/day-the-dinosaurs-died/oclc/868345981>
+* Tyrannosaurus time / Joanne Ryder; Michael Rothman <https://www.worldcat.org/title/tyrannosaurus-time/oclc/43032305>
 * Paleo sharks: survival of the strangest / Timothy J Bradley (2007, ISBN 0811848787, [Worldcat](https://www.worldcat.org/title/paleo-sharks-survival-of-the-strangest/oclc/66392993))
-* ISBN 9781625880826 1625880820 9781625881090 1625881096 (???), https://www.worldcat.org/title/before-the-dinosaurs/oclc/858081253
-* Dinosaurs / Milner, Angela C (ISBN 078354765X, https://www.worldcat.org/title/dinosaurs/oclc/973033291)
+* ISBN 9781625880826 1625880820 9781625881090 1625881096 (???), <https://www.worldcat.org/title/before-the-dinosaurs/oclc/858081253>
+* Dinosaurs / Milner, Angela C (ISBN 078354765X, <https://www.worldcat.org/title/dinosaurs/oclc/973033291>)
 * *The Amazing World of Dinosaurs: An Illustrated Journey Through the Mesozoic Era* / Kuether (ISBN 9781591936459, [Amazon](https://smile.amazon.com/Amazing-World-Dinosaurs-Illustrated-Mesozoic/dp/1591936454))
 
 Adult books with enough pictures to be of some interest to kids
@@ -114,14 +114,14 @@ Adult books with enough pictures to be of some interest to kids
 
 ## TODO
 
-* Hallett, Wedel. *The Sauropod Dinosaurs: Life in the Age of Giants* (ISBN 9781421420288, https://smile.amazon.com/Sauropod-Dinosaurs-Life-Age-Giants/dp/1421420287)
-* https://smile.amazon.com/Pterosaurs-Natural-History-Evolution-Anatomy/dp/0691150613
-* https://smile.amazon.com/dp/0195372662
-* https://smile.amazon.com/Field-Guide-Mesozoic-Winged-Dinosaurs/dp/0988596504
-* Pickrell. *Flying Dinosaurs: How Fearsome Reptiles Became Birds* (2014, ISBN 9780231171786, https://smile.amazon.com/dp/0231171781)
-* Pickrell. *Weird Dinosaurs: The Strange New Fossils Challenging Everything We Thought We Knew* (2017, ISBN 9780231180986, https://smile.amazon.com/dp/0231180985)
-* https://smile.amazon.com/Cambrian-Explosion-Construction-Animal-Biodiversity/dp/1936221039
-* https://smile.amazon.com/Cambrian-Ocean-World-Ancient-America/dp/0253011825
+* Hallett, Wedel. *The Sauropod Dinosaurs: Life in the Age of Giants* (ISBN 9781421420288, <https://smile.amazon.com/Sauropod-Dinosaurs-Life-Age-Giants/dp/1421420287>)
+* <https://smile.amazon.com/Pterosaurs-Natural-History-Evolution-Anatomy/dp/0691150613>
+* <https://smile.amazon.com/dp/0195372662>
+* <https://smile.amazon.com/Field-Guide-Mesozoic-Winged-Dinosaurs/dp/0988596504>
+* Pickrell. *Flying Dinosaurs: How Fearsome Reptiles Became Birds* (2014, ISBN 9780231171786, <https://smile.amazon.com/dp/0231171781>)
+* Pickrell. *Weird Dinosaurs: The Strange New Fossils Challenging Everything We Thought We Knew* (2017, ISBN 9780231180986, <https://smile.amazon.com/dp/0231180985>)
+* <https://smile.amazon.com/Cambrian-Explosion-Construction-Animal-Biodiversity/dp/1936221039>
+* <https://smile.amazon.com/Cambrian-Ocean-World-Ancient-America/dp/0253011825>
 * Brett-Surman, Holtz, Farlow (eds). *The Complete Dinosaur* (Life of the Past) (2e/2012: ISBN 9780253357014, [Amazon](https://smile.amazon.com/dp/0253357012))
 
 ## Music
@@ -134,7 +134,7 @@ Adult books with enough pictures to be of some interest to kids
 * Baby sea otter / Betty Tatham; Joan Paley (ISBN 9780805075045, [Worldcat](https://www.worldcat.org/title/baby-sea-otter/oclc/56753287))
 * Rosa Raposa / Campoy; Aruego; Dewey (ISBN 9780152021610, [Worldcat](https://www.worldcat.org/title/rosa-raposa/oclc/47930701))
 * Platypus! / Clarke, Ginjer L ; Mirocha, Paul (ISBN 9780375924170 / 9780375824173, [Worldcat](https://www.worldcat.org/title/platypus/oclc/52970766))
-* The emperor lays an egg / Guiberson, Brenda Z ; Paley, Joan https://www.worldcat.org/title/emperor-lays-an-egg/oclc/57357701
+* The emperor lays an egg / Guiberson, Brenda Z ; Paley, Joan <https://www.worldcat.org/title/emperor-lays-an-egg/oclc/57357701>
 * Reptiles & amphibians / Cogger, Harold G (ISBN 1875137580, [Worldcat](https://www.worldcat.org/title/reptiles-amphibians/oclc/41880357))
 * Birds: nature's magnificent flying machines / Caroline Arnold; Patricia Wynne (ISBN 1570915164, [Worldcat](https://www.worldcat.org/title/birds-natures-magnificent-flying-machines/oclc/50198991))
 * The animal book: a visual encyclopedia of life on Earth / Burnie, David (ISBN 9781465414571, [Worldcat](https://www.worldcat.org/title/animal-book-a-visual-encyclopedia-of-life-on-earth/oclc/828055604))
@@ -146,10 +146,10 @@ Adult books with enough pictures to be of some interest to kids
 
 ## TODO
 
-* https://smile.amazon.com/Day-Dinosaurs-spectacular-prehistoric-Science/dp/184780845X
-* https://smile.amazon.com/dp/1909263915
-* https://smile.amazon.com/dp/1847808409
-* https://smile.amazon.com/Best-Book-Early-People/dp/0753455773
+* <https://smile.amazon.com/Day-Dinosaurs-spectacular-prehistoric-Science/dp/184780845X>
+* <https://smile.amazon.com/dp/1909263915>
+* <https://smile.amazon.com/dp/1847808409>
+* <https://smile.amazon.com/Best-Book-Early-People/dp/0753455773>
 
 ## Human body - intro
 
@@ -178,12 +178,12 @@ Adult books with enough pictures to be of some interest to kids
   * [Ancient World History/Amazon](https://smile.amazon.com/Ancient-World-History-Usborne/dp/0746027605)
   * [Medieval/Amazon](https://smile.amazon.com/Medieval-World-History-Usborne/dp/0746027621)
   * [The Last 500 Years/Amazon](https://smile.amazon.com/Last-Years-Usborne-World-History/dp/0439274257)
-* https://smile.amazon.com/Evolution-Human-Story-DK/dp/0756686733
-* https://smile.amazon.com/Human-Story-Evolution-Prehistoric-Outstanding/dp/0792263251
-* ISBN 0816051496, https://smile.amazon.com/First-Civilizations-Cultural-Atlas-People/dp/0816051496, https://www.worldcat.org/title/first-civilizations/oclc/51854890 
-* https://smile.amazon.com/Prehistoric-Life-Definitive-Visual-History/dp/075669910X
+* <https://smile.amazon.com/Evolution-Human-Story-DK/dp/0756686733>
+* <https://smile.amazon.com/Human-Story-Evolution-Prehistoric-Outstanding/dp/0792263251>
+* ISBN 0816051496, <https://smile.amazon.com/First-Civilizations-Cultural-Atlas-People/dp/0816051496>, <https://www.worldcat.org/title/first-civilizations/oclc/51854890> 
+* <https://smile.amazon.com/Prehistoric-Life-Definitive-Visual-History/dp/075669910X>
 
-* https://smile.amazon.com/Egyptian-Goddesses-Penguin-Young-Readers/dp/0448420295
+* <https://smile.amazon.com/Egyptian-Goddesses-Penguin-Young-Readers/dp/0448420295>
 
 {% include javascript.html %}
 
