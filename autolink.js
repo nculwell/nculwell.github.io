@@ -91,19 +91,27 @@
 
   function replaceLinks() {
     var selectedHost = amazonHostsByCountry[_selectedCountryCode];
+    var replacementHost = selectedHost == "amazon.com" ? "smile.amazon.com" : selectedHost;
     $("a").each(function(_, a) {
-      var href = $(a).attr("sourcehref");
+      var $a = $(a);
+      var href = $a.attr("sourcehref");
       if (!href) {
-        href = $(a).attr("href");
-        $(a).attr("sourcehref", href);
+        href = $a.attr("href");
+        $a.attr("sourcehref", href);
       }
       var lk = parseAmazonLink(href);
       if (lk) {
         var link = _aaLinksByHost[selectedHost][lk.asin];
         if (link) {
           //console.log("Replacing link: " + link);
-          $(a).attr("href", link);
+          $a.attr("href", link);
         } else {
+          // Use original link, but for the right country.
+          console.log("replacementHost: " + replacementHost);
+          console.log("href: " + href);
+          var countryLink = href.replace(new RegExp("/[^/]*amazon\\.com/"), "/" + replacementHost+ "/");
+          console.log("countryLink: " + countryLink);
+          $a.attr("href", countryLink);
           console.log("Unmatched ASIN: " + lk.asin);
         }
       } else {
