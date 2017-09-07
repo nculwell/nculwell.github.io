@@ -2,7 +2,7 @@ This is a list of dinosaur/prehistory books that we've liked.
 
 TODO: Movies, TV shows, coloring books, more music
 
-Baby books, dinosaur-themed stories
+== Baby books, dinosaur-themed stories
 
 * Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247&referer=brief_results), [Amazon](https://smile.amazon.com/dp/140830385X))
 * Dinosaur Days / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not poetry, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
@@ -21,7 +21,7 @@ Baby books, dinosaur-themed stories
 * A trip to dinosaur time / Foreman, Michael ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568))
 * Danny and the Dinosaur / Hoff ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837&referer=brief_results), [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0064440028))
 
-More detailed for kids
+== More detailed for kids
 
 * Prehistoric World (Usborne) ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088&referer=brief_results), [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291&referer=brief_results), [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583), [Amazon/2012](https://smile.amazon.com/dp/140953426X))
 
@@ -156,7 +156,7 @@ Human body - older
 
 School-type books (various subjects). I haven't read most of these yet; this is really just a collection of ideas for me to follow up later.
 
-* Thom Holmes, *The Prehistoric Earth* series ([Worldcat search for the whole series](https://www.worldcat.org/search?q=se%3A%22Prehistoric+earth.%22+au%3Aholmes&qt=results_page#%2528x0%253Abook%2Bx4%253Aprintbook%2529format)) - History of life on earth, written at a middle school / early high school level.
+* Thom Holmes, *The Prehistoric Earth* series ([Worldcat search for the whole series](https://www.worldcat.org/search?q=se%3A%22Prehistoric+earth.%22+au%3Aholmes&qt=results_page#%2528x0%253Abook%2Bx4%253Aprintbook%2529format)) - History of life on earth, written at a middle school / early high school level. Pretty good overview but lacks pictures, which is a fairly serious drawback (both children's and adults' books on the subject typically have more of them).
   * *Last of the dinosaurs: the Cretaceous period* (2009, ISBN 9780816059621, [Worldcat](https://www.worldcat.org/title/last-of-the-dinosaurs-the-cretaceous-period/oclc/607552529))
 * The World in Ancient Times (OUP)
   * The Ancient Near Eastern World / Amanda H. Podany, Marni McGee
