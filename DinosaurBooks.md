@@ -182,5 +182,4 @@ Adult books with enough pictures to be of some interest to kids
 * https://smile.amazon.com/Egyptian-Goddesses-Penguin-Young-Readers/dp/0448420295
 
 {% include javascript.html %}
-<script src="aalink.js"></script>
 
