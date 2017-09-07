@@ -161,8 +161,10 @@
     var $flag = $("<img/>").height(1);
     $("#amazonSelector")
       .append("<span>Amazon site: &nbsp; </span>")
+      .append($selector)
+      .append(' ')
       .append($flag)
-      .append($selector);
+      ;
     $flag.height($selector.height());
     // Repeat resize after function completes in case rendering is deferred.
     setTimeout(function() { $flag.height($selector.height()); });
