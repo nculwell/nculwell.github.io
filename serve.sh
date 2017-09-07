@@ -1,3 +1,9 @@
 #!/bin/sh
-cp README.md index.md
-bundle exec jekyll serve --host 0.0.0.0
+
+HOST=0.0.0.0
+OPTIONS="--host $HOST"
+OPTIONS="$OPTIONS --drafts"
+OPTIONS="$OPTIONS --unpublished"
+
+bundle exec jekyll serve $OPTIONS
+
