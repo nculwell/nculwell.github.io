@@ -92,7 +92,7 @@
 
   function replaceLinks() {
     var selectedHost = amazonHostsByCountry[_selectedCountryCode];
-    var replacementHost = selectedHost == "amazon.com" ? "smile.amazon.com" : selectedHost;
+    var replacementHost = addAmazonHostPrefix(selectedHost);
     $("a").each(function(_, a) {
       var $a = $(a);
       var href = $a.attr("sourcehref");
@@ -182,6 +182,13 @@
       _selectedCountryCode = _userCountryCode;
     }
     replaceLinks();
+  }
+
+  function addAmazonHostPrefix(host) {
+    if (host == "amazon.com")
+      return "smile." + host;
+    else
+      return "www." + host;
   }
 
   function countryFlag(countryCode) {
