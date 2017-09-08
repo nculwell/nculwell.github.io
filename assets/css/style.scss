@@ -30,7 +30,7 @@ article {
 }
 
 a {
-  text-decoration: none !important;
+  text-decoration: none;
   color: #16D;
 }
 
@@ -45,6 +45,8 @@ h1, h2, h3, h4, h5, h6, ul {
   margin-top: 8px;
   margin-bottom: 8px;
 }
+
+ul { margin-left: 2px; margin-right: 2px; }
 
 p + p { margin-top: 4px }
 
@@ -74,13 +76,11 @@ article ul ul li, article ul ul ul ul li { background-color: #FEE; }
 #amazonSelector > * { vertical-align: middle; }
 
 article ul {
-  padding: 0px !important;
   list-style-type: none;
-  margin: 2px;
 }
 
 article ul ul {
-  padding-left: 8px !important;
+  padding-left: 6px;
 }
 
 article ul li {
