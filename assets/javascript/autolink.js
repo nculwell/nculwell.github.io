@@ -112,7 +112,7 @@
           console.log("Unmatched ASIN: " + lk.asin);
         }
       } else {
-        var ignore = href.match(/worldcat/) || href.match(/^#/);
+        var ignore = !href.match(/amazon/) || href.match(/^#/);
         if (!ignore)
           console.log("Unmatched link: " + href);
       }
