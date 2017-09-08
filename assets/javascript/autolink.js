@@ -30,7 +30,6 @@
   }
 
   function onLoad() {
-    console.log("onLoad");
     fetchLinks();
     getUserCountry();
   }
@@ -38,11 +37,8 @@
   // Proceed when all onLoad tasks are done.
   function loadComplete() {
     if (_aaLinksByHost && _userCountryCode) {
-      console.log("Load complete.");
       makeAmazonSelector();
       amazonSelectorChange();
-    } else {
-      console.log("Still loading.");
     }
     window.ret = { _aaLinksByHost: _aaLinksByHost, _userCountryCode: _userCountryCode };
   }
@@ -140,7 +136,6 @@
   }
 
   function makeAmazonSelector() {
-    console.log("makeAmazonSelector");
     var $selector = $('<select></select>');
     for (var i=0; i < amazonCountriesList.length; ++i) {
       var countryCode = amazonCountriesList[i];
@@ -171,7 +166,6 @@
   }
 
   function amazonSelectorChange() {
-    console.log("amazonSelectorChange");
     var $opt = $("#amazonSelector select :selected");
     var $flag = $("#amazonSelector img");
     var countryCode = $opt.attr("value");

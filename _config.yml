@@ -6,6 +6,7 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
+#theme: minima
 theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
 
@@ -26,5 +27,10 @@ kramdown:
 # Other settings (not mentioned by Github docs).
 # Kramdown options: https://kramdown.gettalong.org/options.html
 kramdown:
-  auto_ids: false # Don't turn headings into anchors.
-
+  #auto_ids: false # Don't turn headings into anchors.
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'default'
