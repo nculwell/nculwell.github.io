@@ -18,10 +18,12 @@ body {
     Times,
     serif;
   padding: 0.2em;
+  padding-left: 2%;
+  padding-right: 2%;
   background-color: #DDF;
 }
 
-article#content {
+article {
   padding: 0.2em;
   //border: dotted 2px black;
   background-color: #EEF;
@@ -39,12 +41,12 @@ h4 { font-size: 110%; }
 h5 { font-size: 100%; }
 h6 { font-size: 100%; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, ul {
   margin-top: 8px;
   margin-bottom: 8px;
 }
 
-p + p { margin-top: 8px }
+p + p { margin-top: 4px }
 
 h1, h2, h3, h4, h5, h6 {
   font-family:
@@ -59,46 +61,34 @@ h1, h2, h3, h4, h5, h6 {
     "Segoe UI Symbol";
 }
 
-article#content ul li, article#content ul ul ul li { background-color: #FFE; }
-article#content ul ul li, article#content ul ul ul ul li { background-color: #FEE; }
+h2, h3, h4, h5, h6 {
+  border: dotted 2px gray;
+  padding: 2px;
+}
 
-article#content h2,
-article#content h3,
-article#content h4,
-article#content h5,
-article#content h6,
-article#content p
-{ background-color: #FFE; }
+h2, h3, h4, h5, h6, article p { background-color: #FFE; }
+
+article ul li,    article ul ul ul li    { background-color: #FFE; }
+article ul ul li, article ul ul ul ul li { background-color: #FEE; }
 
 #amazonSelector > * { vertical-align: middle; }
 
-article#content ul {
+article ul {
   padding: 0px !important;
   list-style-type: none;
   margin: 2px;
 }
 
-article#content ul ul {
+article ul ul {
   padding-left: 8px !important;
 }
 
-article#content ul li {
+article ul li {
   border: solid 1px black;
   margin: 2px;
   padding-left: 8px;
   padding-right: 8px;
   padding-top: 2px;
   padding-bottom: 2px;
-}
-
-article#content ul li p {
-  margin: 0;
-  padding: 0;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
-article#content ul li p + p {
-  //margin-top: 0.5em;
 }
 
