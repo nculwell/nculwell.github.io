@@ -37,6 +37,7 @@
   // Proceed when all onLoad tasks are done.
   function loadComplete() {
     if (_aaLinksByHost && _userCountryCode) {
+      extractLinkAsins();
       makeAmazonSelector();
       amazonSelectorChange();
     }
@@ -86,35 +87,45 @@
     loadComplete();
   }
 
+  function extractLinkAsins() {
+    $("a").each(function(_, a) {
+      var $a = $(a);
+      if ($a.attr("data-asin")) {
+        return; // asin is already populated
+      }
+      var href = $a.attr("href");
+      var azLink = parseAmazonLink(href);
+      if (azLink) {
+        $a.attr("data-asin", azLink.asin); // save the ASIN separately
+        $a.attr("data-src-href", href); // save the original href
+      } else {
+        var ignore = !href.match(/amazon/);
+        if (!href.match(/amazon/)) {
+          console.log("Link parse failure: " + href);
+        }
+      }
+    });
+  }
+
   function replaceLinks() {
     var selectedHost = amazonHostsByCountry[_selectedCountryCode];
     var replacementHost = addAmazonHostPrefix(selectedHost);
-    $("a").each(function(_, a) {
+    $("a[data-asin][data-asin!='']").each(function(_, a) {
       var $a = $(a);
-      var href = $a.attr("sourcehref");
-      if (!href) {
-        href = $a.attr("href");
-        $a.attr("sourcehref", href);
-      }
-      var lk = parseAmazonLink(href);
-      if (lk) {
-        var link = _aaLinksByHost[selectedHost][lk.asin];
-        if (link) {
-          //console.log("Replacing link: " + link);
-          $a.attr("href", link);
-        } else {
-          // Use original link, but for the right country.
-          //console.log("replacementHost: " + replacementHost);
-          //console.log("href: " + href);
-          var countryLink = href.replace(new RegExp("/[^/]*amazon\\.com/"), "/" + replacementHost+ "/");
-          //console.log("countryLink: " + countryLink);
-          $a.attr("href", countryLink);
-          console.log("Unmatched ASIN: " + lk.asin);
-        }
+      var asin = $a.attr("data-asin");
+      var aaLink = _aaLinksByHost[selectedHost][asin];
+      if (aaLink) {
+        //console.log("Replacing link: " + aaLink);
+        $a.attr("href", aaLink);
       } else {
-        var ignore = !href.match(/amazon/) || href.match(/^#/);
-        if (!ignore)
-          console.log("Unmatched link: " + href);
+        // Use original link, but for the right country.
+        //console.log("replacementHost: " + replacementHost);
+        //console.log("href: " + href);
+        var srcHref = $a.attr("data-src-href");
+        var countryLink = srcHref.replace(new RegExp("/[^/]*amazon\\.com/"), "/" + replacementHost+ "/");
+        //console.log("countryLink: " + countryLink);
+        $a.attr("href", countryLink);
+        console.log("Unmatched ASIN: " + asin);
       }
     });
   }
