@@ -100,17 +100,18 @@
         $a.attr("data-src-href", href); // save the original href
       } else {
         var ignore = !href.match(/amazon/);
-        if (!href.match(/amazon/)) {
+        if (href.match(/amazon/)) {
           console.log("Link parse failure: " + href);
         }
       }
     });
+    //$("a[data-asin]").after($(document.createTextNode('[A]')));
   }
 
   function replaceLinks() {
     var selectedHost = amazonHostsByCountry[_selectedCountryCode];
     var replacementHost = addAmazonHostPrefix(selectedHost);
-    $("a[data-asin][data-asin!='']").each(function(_, a) {
+    $("a[data-asin]").each(function(_, a) {
       var $a = $(a);
       var asin = $a.attr("data-asin");
       var aaLink = _aaLinksByHost[selectedHost][asin];
@@ -207,6 +208,16 @@
   function perror(xhr) {
     if (xhr.responseText)
       console.error(xhr.responseText);
+  }
+
+  function getTimestamp() {
+    function pad(n) { if (n<10) return '0' + n else return n; }
+    var t = new Date();
+    var timestamp =
+      '' + t.year + '-' + pad(t.month) + '-' + pad(t.year)
+      + 'T' + pad(t.hour) + ':' + pad(t.minute) + ':' + pad(t.second)
+      + 'Z';
+    return timestamp;
   }
 
   $(document).ready(onLoad);
