@@ -1,15 +1,16 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
 @import "mdcolors";
 
-$color-body-bg: $Cyan700;
-$color-article-bg: $Cyan500;
-$color-block-bg: $Cyan200;
-$color-block2-bg: $Cyan100;
+$color-body-bg: $Blue700;
+$color-article-bg: $Blue500;
+$color-block-bg: $Blue200;
+$color-block2-bg: $Blue100;
 
-$margin-base: 0.2em;
+$color-link-text: $Red700;
+
+$spacing: 0.2em;
 
 $fonts-serif:
   Bookman,
@@ -29,7 +30,7 @@ $fonts-sans:
   "Segoe UI Emoji",
   "Segoe UI Symbol";
 
-body, p, h1, h2, h3, h4, h5, h6, ul, li {
+body, p, h1, h2, h3, h4, h5, h6, ul, li, article, header, footer {
   color: black;
   border: none;
   margin: 0;
@@ -45,7 +46,7 @@ body {
 }
 
 article {
-  padding: $margin-base;
+  padding: $spacing (2 * $spacing);
   //border: dotted 2px black;
   background-color: $color-article-bg;
 }
@@ -53,13 +54,15 @@ article {
 footer {
   font-family: $fonts-sans;
   font-size: smaller;
-  padding: 2 * $margin-base;
-  background-colors: $color-block-bg;
+  padding: 2 * $spacing;
+  background-color: $color-block-bg;
 }
+
+#amazonSelector > * { vertical-align: middle; }
 
 a {
   text-decoration: none;
-  color: #16D;
+  color: $color-link-text;
 }
 
 a.unnamed-link {
@@ -72,17 +75,15 @@ h1 { font-size: 180%; }
 h2 { font-size: 140%; }
 h3 { font-size: 120%; }
 h4 { font-size: 110%; }
-h5 { font-size: 100%; }
-h6 { font-size: 100%; }
+h5 { font-size: 110%; }
+h6 { font-size: 110%; }
 
 h1, h2, h3, h4, h5, h6, ul {
-  margin-top: 2 * $margin-base;
-  margin-bottom: 2 * $margin-base;
+  margin: $spacing 0;
 }
 
-ul { margin-left: $margin-base; margin-right: $margin-base; }
-
-p + p { margin-top: $margin-base; }
+p + p { margin-top: $spacing; }
+p { padding: $spacing; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $fonts-sans;
@@ -90,30 +91,33 @@ h1, h2, h3, h4, h5, h6 {
 
 h2, h3, h4, h5, h6 {
   border: dotted 2px gray;
-  padding: $margin-base;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding: $spacing;
 }
 
 h2, h3, h4, h5, h6, article p { background-color: $color-block-bg; }
+h1 { background-color: $color-block2-bg; }
 
 article ul li,    article ul ul ul li    { background-color: $color-block-bg; }
 article ul ul li, article ul ul ul ul li { background-color: $color-block2-bg; }
-
-#amazonSelector > * { vertical-align: middle; }
 
 article ul {
   list-style-type: none;
 }
 
 article ul ul {
-  padding-left: $margin-base + 2 * $margin-base;
+  padding-left: $spacing + 2 * $spacing;
 }
 
 article ul li {
   border: solid 1px black;
-  margin: $margin-base;
-  padding-left: 4 * $margin-base;
-  padding-right: 4 * $margin-base;
-  padding-top: $margin-base;
-  padding-bottom: $margin-base;
+  margin: $spacing 0;
+  padding: $spacing;
+//  padding-left: 2 * $spacing;
+//  padding-right: 2 * $spacing;
+//  padding-top: $spacing;
+//  padding-bottom: $spacing;
 }
 
