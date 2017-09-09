@@ -4,11 +4,12 @@
 //@import "{{ site.theme }}";
 @import "mdcolors";
 
-$color-body-bg: #DDF;
-$color-article-bg: #EEF;
-$color-block-bg: #FFE;
-$color-block2-bg: #FEE;
+$color-body-bg: $Cyan700;
+$color-article-bg: $Cyan500;
+$color-block-bg: $Cyan200;
+$color-block2-bg: $Cyan100;
 
+$margin-base: 0.2em;
 
 $fonts-serif:
   Bookman,
@@ -44,7 +45,7 @@ body {
 }
 
 article {
-  padding: 0.2em;
+  padding: $margin-base;
   //border: dotted 2px black;
   background-color: $color-article-bg;
 }
@@ -52,6 +53,8 @@ article {
 footer {
   font-family: $fonts-sans;
   font-size: smaller;
+  padding: 2 * $margin-base;
+  background-colors: $color-block-bg;
 }
 
 a {
@@ -73,13 +76,13 @@ h5 { font-size: 100%; }
 h6 { font-size: 100%; }
 
 h1, h2, h3, h4, h5, h6, ul {
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 2 * $margin-base;
+  margin-bottom: 2 * $margin-base;
 }
 
-ul { margin-left: 2px; margin-right: 2px; }
+ul { margin-left: $margin-base; margin-right: $margin-base; }
 
-p + p { margin-top: 4px }
+p + p { margin-top: $margin-base; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $fonts-sans;
@@ -87,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2, h3, h4, h5, h6 {
   border: dotted 2px gray;
-  padding: 2px;
+  padding: $margin-base;
 }
 
 h2, h3, h4, h5, h6, article p { background-color: $color-block-bg; }
@@ -102,15 +105,15 @@ article ul {
 }
 
 article ul ul {
-  padding-left: 6px;
+  padding-left: $margin-base + 2 * $margin-base;
 }
 
 article ul li {
   border: solid 1px black;
-  margin: 2px;
-  padding-left: 8px;
-  padding-right: 8px;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  margin: $margin-base;
+  padding-left: 4 * $margin-base;
+  padding-right: 4 * $margin-base;
+  padding-top: $margin-base;
+  padding-bottom: $margin-base;
 }
 

@@ -2,6 +2,8 @@
 title: Dinosaur Books
 ---
 
+# Dinosaur Books
+
 This is a list of dinosaur/prehistory books that we've liked.
 
 TODO: Movies, TV shows, coloring books, more music
