@@ -101,6 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2, h3, h4, h5, h6, article p { background-color: $color-block-bg; }
+li p { background-color: inherit; }
 h1 { background-color: $color-block2-bg; }
 
 article ul li,    article ul ul ul li    { background-color: $color-block-bg; }
