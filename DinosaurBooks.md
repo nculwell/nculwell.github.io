@@ -58,13 +58,13 @@ This is a list of dinosaur/prehistory books that we've liked.
   * Dinosaurs Of The Land, Sea And Air (ISBN 1561447749, [WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Amazon](https://smile.amazon.com/dp/1561447749))
   * Images from various stories in the series:
 
-    ![Tyrannosaurus](/assets/img/IMG_20161105_160938748.thumb.jpg)
-    ![](/assets/img/IMG_20161105_161007458.thumb.jpg)
-    ![](/assets/img/IMG_20161105_161032474.thumb.jpg)
-    ![](/assets/img/IMG_20161105_161112233.thumb.jpg)
-    ![](/assets/img/IMG_20161105_161146765.thumb.jpg)
-    ![](/assets/img/IMG_20161105_161303774.thumb.jpg)
-    ![](/assets/img/IMG_20161105_161632390.thumb.jpg)
+    [![Tyrannosaurus](/assets/img/IMG_20161105_160938748.thumb.jpg)](/assets/img/IMG_20161105_160938748.large.jpg)
+    [![Dilophosaurus](/assets/img/IMG_20161105_161007458.thumb.jpg)](/assets/img/IMG_20161105_161007458.large.jpg)
+    [![Iguanadon](/assets/img/IMG_20161105_161032474.thumb.jpg)](/assets/img/IMG_20161105_161032474.large.jpg)
+    [![Dimetrodon](/assets/img/IMG_20161105_161112233.thumb.jpg)](/assets/img/IMG_20161105_161112233.large.jpg)
+    [![Allosaurus?](/assets/img/IMG_20161105_161146765.thumb.jpg)](/assets/img/IMG_20161105_161146765.large.jpg)
+    [![Triceratops](/assets/img/IMG_20161105_161303774.thumb.jpg)](/assets/img/IMG_20161105_161303774.large.jpg)
+    [![Brontosaurus](/assets/img/IMG_20161105_161632390.thumb.jpg)](/assets/img/IMG_20161105_161632390.large.jpg)
 
 * Don Lessem
   * The Ultimate Dinopedia / Lessem and Tampesta (1e/2010 ISBN 1426301642, [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Amazon](https://smile.amazon.com/dp/1426301642); 2e/2017 ISBN 1426329059, [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/dp/1426329059)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet. I've noticed that the Franco Tempesta illustrations in this book show up in some National Geographic Kids books. (Reusing dinosaur illustrations happens a lot, read enough of these books and you'll start to see it all over the place!)
