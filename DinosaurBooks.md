@@ -16,8 +16,14 @@ This is a list of dinosaur/prehistory books that we've liked.
 
 * Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247), [Amazon](https://smile.amazon.com/dp/140830385X))
 * Dinosaur Days / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not poetry, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
-* Dinosaurs: 4 favorite stories (Scholastic Reader Collection) ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918), [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513))
-* How Do Dinosaurs...? / Yolen, Jane; Teague, Mark
+* Dinosaurs: 4 favorite stories (Scholastic Reader Collection)
+  ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918),
+  [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513)) -
+  As the title says, a collection of four (older) books. Two have very basic
+  artwork and the other two have pretty detailed art. We read these a lot of
+  times, and it still comes out occasionally; on the merits the stories aren't
+  that great objectively but they have a certain charm to them.
+* How Do Dinosaurs...? / Yolen, Jane; Teague, Mark - Just about all of these books follow the same template: most of the book lists ways in which "dinosaurs" might misbehave (posed as question), followed by some examples of how they behave correctly. The main draw is the amusing illustrations of huge dinosaurs doing things that children do. These are probably the most popular recent dinosaur books, and they are available as board books.
   * How Do Dinosaurs Say Goodnight? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120), [Amazon](https://smile.amazon.com/dp/0590316818))
   * How Do Dinosaurs Go To School? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-go-to-school/oclc/809199976), [Amazon](https://smile.amazon.com/How-Do-Dinosaurs-Go-School/dp/0439020816))
   * etc.
@@ -52,16 +58,30 @@ This is a list of dinosaur/prehistory books that we've liked.
   * Dinosaurs Of The Land, Sea And Air (ISBN 1561447749, [WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Amazon](https://smile.amazon.com/dp/1561447749))
 
 * Don Lessem
-  * The Ultimate Dinopedia (1e/2010 ISBN 1426301642, [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Amazon](https://smile.amazon.com/dp/1426301642); 2e/2017 ISBN 1426329059, [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/dp/1426329059)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet.
-  * Sea giants of dinosaur time; Giant meat-eating dinosaurs; etc.
-  * Dinosaurs to dodos : an encyclopedia of extinct animals / Lessem and Sovak
+  * The Ultimate Dinopedia / Lessem and Tampesta (1e/2010 ISBN 1426301642, [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Amazon](https://smile.amazon.com/dp/1426301642); 2e/2017 ISBN 1426329059, [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/dp/1426329059)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet. I've noticed that the Franco Tempesta illustrations in this book show up in some National Geographic Kids books. (Reusing dinosaur illustrations happens a lot, read enough of these books and you'll start to see it all over the place!)
+  * Meet the Dinosaurs series - Good books that list and discuss dinosaurs (and non-dinosaurs) of particular classifications.
+    * Sea Giants of Dinosaur Time (ISBN 9780822514251,
+        [Worldcat](https://www.worldcat.org/title/sea-giants-of-dinosaur-time/oclc/56095792),
+        [Amazon](https://smile.amazon.com/dp/0822514257))
+    * <https://www.amazon.com/Smartest-Dinosaurs-Meet/dp/0822513730>
+    * <https://www.amazon.com/Horned-Dinosaurs-Meet-Don-Lessem/dp/0822513706>
+    * <https://www.amazon.com/Armored-Dinosaurs-Meet-Don-Lessem/dp/0822513749>
+    * <https://www.amazon.com/Deadliest-Dinosaurs-Meet/dp/0822514214>
+    * <https://www.amazon.com/Giant-Meat-Eating-Dinosaurs-Meet/dp/0822525720>
+    * <https://www.amazon.com/Duck-Billed-Dinosaurs-Meet-Don-Lessem/dp/0822513692>
+    * <https://www.amazon.com/Giant-Plant-Eating-Dinosaurs-Meet/dp/0822525739>
+    * <https://www.amazon.com/Fastest-Dinosaurs-Meet/dp/0822514222>
+    * <https://www.amazon.com/Feathered-Dinosaurs-Meet-Don-Lessem/dp/0822514230>
+  * Dinosaurs to Dodos: An Encyclopedia of Extinct Animals / Lessem and Sovak (ISBN 9780590316842 HC / 9780590316859 PB, [Worldcat](https://www.worldcat.org/title/dinosaurs-to-dodos-an-encyclopedia-of-extinct-animals/oclc/39281870), [Amazon](https://smile.amazon.com/dp/0590316842)) - A pretty good book with nice pictures, but The Ultimate Dinopedia is newer and has bigger pictures.
 * Dougal Dixon
+
+  Dougal Dixon is a very prolific author of dinosaur books. His books are generally pretty good in content but he sometimes makes errors and some volumes feature lousy digital art.
   * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
-  * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find)
+  * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find) - These books are basically collections of detailed scenes full of lots of dinosaurs, without much text. They are pretty good for a kid who just wants to look at the pictures and talk about what's in them.
   * Complete Illustrated Encyclopedia ([Worldcat](https://www.worldcat.org/title/complete-illustrated-encyclopedia-of-dinosaurs-prehistoric-creatures-the-ultimate-illustrated-reference-guide-to-1000-dinosaurs-and-prehistoric-creatures-with-2000-specially-commissioned-artworks-maps-and-photographs/oclc/944351418), [Amazon](https://smile.amazon.com/dp/1846812097)) - The format of the new (2014) paperback edition of this one is really too small for what it is (6.8 x 8.5 inches), but it is cheap. It covers a very large number of dinosaur species, which makes it a wide-ranging reference, but it's not the most attractive for children and it doesn't have a lot to say about each species.
 
-* Dinosaurs Through Time / Rupert Matthews, McRae Books (ISBN 8860980429, [Amazon](https://smile.amazon.com/dp/8860980429)) - General overview of Mesozoic animal life, organized chronologically. It coverage doesn't really stand out, but nice full-page artwork makes it worthwhile.
-* Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X)) - Follows the life of a Mamenchisaurus from birth to death to fossilization.
+* Dinosaurs Through Time / Rupert Matthews, McRae Books (ISBN 8860980429, [Amazon](https://smile.amazon.com/dp/8860980429)) - General overview of Mesozoic animal life, organized chronologically. It coverage doesn't really stand out, but nice full-page artwork makes it worthwhile. It actually begins with the Permian, before dinosaurs first appeared.
+* Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X)) - Story of the life of a Mamenchisaurus from birth to death to fossilization.
 * Zoehfeld and Washburn (Let's Read and Find Out Science) - Excellent book that each focus on a fairly narrow topic.
   * Where did dinosaurs come from? ([w](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [a](https://smile.amazon.com/dp/0064452166)) - History of evolution up until the dinosaurs.
   * Dinosaurs big and small ([w](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [a](https://smile.amazon.com/dp/0064451828)) - Overview of various dinosaurs.
