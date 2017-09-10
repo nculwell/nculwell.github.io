@@ -6,7 +6,7 @@ title: Dinosaur Books
 
 This is a list of dinosaur/prehistory books that we've liked.
 
-TODO: Movies, TV shows, coloring books, more music
+{% comment %} TODO: Movies, TV shows, coloring books, more music {% endcomment %}
 
 <p id='amazonSelector'>
   <noscript>\[Enable Javascript to choose a different Amazon site.]</noscript>
@@ -91,10 +91,6 @@ Adult books with enough pictures to be of some interest to kids
 
 * Dinosaurs : the most complete, up-to-date encyclopedia for dinosaur lovers of all ages / Holtz, Thomas R ; Rey, Luis V
 
-## Kids TODO
-
-* Dancing dinos go to school / Lucas, Sally ; Lucas, Margeaux (ISBN 0375932410 / 0375832416, [Worldcat](https://www.worldcat.org/title/dancing-dinos-go-to-school/oclc/60543255))
-
 ## Beyond kids
 
 * Steyer. *Earth Before the Dinosaurs* (ISBN 9780253223807, [Worldcat](https://www.worldcat.org/title/earth-before-the-dinosaurs/oclc/798740419), [Amazon](https://smile.amazon.com/dp/0253223806))
@@ -114,6 +110,7 @@ Adult books with enough pictures to be of some interest to kids
 * Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
 * Prothero. *Bringing Fossils to Life: An Introduction to Paleobiology* (3e/2013, ISBN 9780231158930, [Amazon](https://smile.amazon.com/Bringing-Fossils-Life-Introduction-Paleobiology/dp/0231158939))
 
+{% comment %}
 ## TODO
 
 * Hallett, Wedel. *The Sauropod Dinosaurs: Life in the Age of Giants* (ISBN 9781421420288, <https://smile.amazon.com/Sauropod-Dinosaurs-Life-Age-Giants/dp/1421420287>)
@@ -125,6 +122,7 @@ Adult books with enough pictures to be of some interest to kids
 * <https://smile.amazon.com/Cambrian-Explosion-Construction-Animal-Biodiversity/dp/1936221039>
 * <https://smile.amazon.com/Cambrian-Ocean-World-Ancient-America/dp/0253011825>
 * Brett-Surman, Holtz, Farlow (eds). *The Complete Dinosaur* (Life of the Past) (2e/2012: ISBN 9780253357014, [Amazon](https://smile.amazon.com/dp/0253357012))
+{% endcomment %}
 
 ## Music
 
@@ -146,12 +144,14 @@ Adult books with enough pictures to be of some interest to kids
 * Life-size killer creatures / Gilpin, Daniel (Omnibus: [Amazon](https://smile.amazon.com/dp/B001YIGW2C))
 * Bateman - Deep in the Swamp
 
+{% comment %}
 ## TODO
 
 * <https://smile.amazon.com/Day-Dinosaurs-spectacular-prehistoric-Science/dp/184780845X>
 * <https://smile.amazon.com/dp/1909263915>
 * <https://smile.amazon.com/dp/1847808409>
 * <https://smile.amazon.com/Best-Book-Early-People/dp/0753455773>
+{% endcomment %}
 
 ## Human body - intro
 
