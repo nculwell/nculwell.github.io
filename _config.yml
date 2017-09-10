@@ -24,10 +24,12 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-# Other settings (not mentioned by Github docs).
+# Other settings (Github doesn't mess with these).
+
 # Kramdown options: https://kramdown.gettalong.org/options.html
 kramdown:
   #auto_ids: false # Don't turn headings into anchors.
+
 defaults:
   -
     scope:
@@ -39,5 +41,9 @@ defaults:
       path: 'assets'
     values:
       layout: null
+
 sass:
   sass_dir: _sass
+
+exclude: [scripts]
+
