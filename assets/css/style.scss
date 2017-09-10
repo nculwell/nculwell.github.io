@@ -11,7 +11,6 @@ $color-article-bg: ${{ page.bg_color }}500;
 $color-block-bg: ${{ page.bg_color }}200;
 $color-block2-bg: ${{ page.bg_color }}100;
 
-//$color-link-text: $Red700;
 $color-link-text: ${{ page.link_color }}900;
 
 $spacing: 0.2em;
@@ -86,7 +85,7 @@ h1, h2, h3, h4, h5, h6, ul {
   margin: $spacing 0;
 }
 
-p + p { margin-top: $spacing; }
+p + p { padding-top: $spacing; }
 p { padding: $spacing; }
 
 h1, h2, h3, h4, h5, h6 {
