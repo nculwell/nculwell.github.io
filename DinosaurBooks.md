@@ -15,7 +15,7 @@ This is a list of dinosaur/prehistory books that we've liked.
 ## Baby books, dinosaur-themed stories
 
 * Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247), [Amazon](https://smile.amazon.com/dp/140830385X))
-* Dinosaur Days / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not poetry, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
+* Dinosaur Days / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not in verse, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
 * Dinosaurs: 4 favorite stories (Scholastic Reader Collection)
   ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918),
   [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513)) -
@@ -125,16 +125,36 @@ Adult books with enough pictures to be of some interest to kids
 
 ## Textbooks
 
-* Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history*
+My son asks so many questions about dinosaurs that I decided I had to get out ahead of him by reading some serious books about dinosaurs and other animals. Here's what I found along those lines.
+
+I don't have much background in anatomy, and these contain lots of terminology
+that I'm not familiar with. If you're in the same boat, then Kardong's
+vertebrate anatomy book (ISBN 9780073040585,
+[Worldcat](https://www.worldcat.org/title/vertebrates-comparative-anatomy-function-evolution/oclc/901203971),
+[Amazon](https://smile.amazon.com/dp/0073040584))
+should be helpful. (It's an excellent book in any case.)
+
+* Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history* - Excellent and entertaining overview of dinosaurs. Begins with an good overview of the different classifications of dinosaurs, discussing their features and cladograms, with a particular emphasis on what they ate. Has comparative illustrations of the skulls of many species.
   * 3e/2016: ISBN 9781107135376 (HC) / 9781316501153 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/936687221), [Amazon HC](https://smile.amazon.com/dp/1107135370), [Amazon PB](https://smile.amazon.com/dp/1316501159)
   * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
   * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
-* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823))
+* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823)) - Lacks information about particular dinosaurs, it's more of a general overview. I liked the chapter on the K-Tr extinction.
 * Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
-* Benton. *Vertebrate Paleontology* (3e/2014: ISBN 9781118406847, [Amazon](https://smile.amazon.com/dp/1118406842))
 * Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
-* Prothero. *Bringing Fossils to Life: An Introduction to Paleobiology* (3e/2013, ISBN 9780231158930, [Amazon](https://smile.amazon.com/Bringing-Fossils-Life-Introduction-Paleobiology/dp/0231158939))
+* Prothero. *Bringing Fossils to Life: An Introduction to Paleobiology* (3e/2013, ISBN 9780231158930, [Amazon](https://smile.amazon.com/dp/0231158939))
+* Romer. *Vertebrate Paleontology* (1966, ISBN 9780226724881,
+  [Worldcat](https://www.worldcat.org/title/vertebrate-paleontology/oclc/41942716),
+  [Amazon](https://www.amazon.com/dp/0226724883)) - My impression from reading
+  about this book is that, while it's outdated, it's still considered great and
+  it's the book that a generation of paleontologists learned from.
+* Carroll. *Vertebrate Paleontology and Evolution* (1990, ISBN 978-0716718222,
+  [Worldcat](https://www.worldcat.org/title/vertebrate-paleontology-and-evolution/oclc/922750908),
+  [Amazon](https://www.amazon.com/dp/0716718227)) - A more recent classic
+  paleontology book, though also outdated.
+* Benton. *Vertebrate Paleontology* (3e/2014: ISBN 9781118406847,
+  [Amazon](https://smile.amazon.com/dp/1118406842)) - Seems the be the standard
+  textbook for the field currently.
 
 {% comment %}
 ## TODO
