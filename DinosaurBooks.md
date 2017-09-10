@@ -14,26 +14,31 @@ This is a list of dinosaur/prehistory books that we've liked.
 
 ## Baby books, dinosaur-themed stories
 
-* *Stomp, Dinosaur, Stomp* / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247&referer=brief_results), [Amazon](https://smile.amazon.com/dp/140830385X))
-* *Dinosaur Days* / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not poetry, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
-* *Dinosaurs: 4 favorite stories* (Scholastic Reader Collection) ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918&referer=brief_results), [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513))
+* Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247), [Amazon](https://smile.amazon.com/dp/140830385X))
+* Dinosaur Days / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not poetry, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
+* Dinosaurs: 4 favorite stories (Scholastic Reader Collection) ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918), [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513))
 * How Do Dinosaurs...? / Yolen, Jane; Teague, Mark
-  * How Do Dinosaurs Say Goodnight? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0590316818))
+  * How Do Dinosaurs Say Goodnight? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120), [Amazon](https://smile.amazon.com/dp/0590316818))
   * How Do Dinosaurs Go To School? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-go-to-school/oclc/809199976), [Amazon](https://smile.amazon.com/How-Do-Dinosaurs-Go-School/dp/0439020816))
   * etc.
-* All aboard the dinotrain / Lund, Deb
-* Fossil / Thomson, Bill
-* Captain Raptor and the moon mystery / O'Malley, Kevin
-* Meet the Dinotrux / Gall, Chris
-* Ally-Saurus & the first day of school / Torrey, Rich
-* Dinosaur round-up (DC Super Friends)
+* All aboard the dinotrain / Lund, Deb - This is a silly story about dinosaurs riding on a train. Trains plus dinosaurs is a winning combo for a lot of kids.
+* Chalk / Thomson, Bill - One of Bill Thomson's stories that's told entirely in pictures. A group of kids finds a piece of chalk that makes what they draw come to life. His other books that we read (Fossil and The Typewriter) were good also. His art style is very realistic.
+* Captain Raptor and the Moon Mystery / O'Malley, Kevin - A comic book space opera for children, featuring a swashbuckling therapod protagonist. There's another, Captain Raptor and the Space Pirates, but Moon Mystery is a bit more interesting in my opinion and the two are extremely similar in structure. The art style is very catchy. I find ordinary comic books (DC/Marvel) impossible to read to a young child because of how the frames and text work together, but I didn't have that problem with these.
+* Meet the Dinotrux / Gall, Chris - Dinosaurs that are trucks. They behave very badly. There are three or four of these books, we read them all.
+* Ally-Saurus & the first day of school / Torrey, Rich - About a girl who pretends to be a dinosaur.
+* Dinosaur round-up (DC Super Friends) - An episode of Super Friends involving dinosaurs. These children's DC comics are manageable, they are formatted like regular children's book instead of like comic books.
 * Time for school, little dinosaur / Herman, Gail ; Fleming, Michael
-* A trip to dinosaur time / Foreman, Michael ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568))
-* Danny and the Dinosaur / Hoff ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837&referer=brief_results), [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479&referer=brief_results), [Amazon](https://smile.amazon.com/dp/0064440028))
+* A trip to dinosaur time / Foreman, Michael ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568)) - Child travels back through time and sees dinosaurs.
+* Danny and the Dinosaur / Hoff ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837), [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479), [Amazon](https://smile.amazon.com/dp/0064440028)) -
+  This is a classic book (1958). Personally I find it tiresome but I was forced to
+  read it many times and I can't deny the fact of its appeal even if I don't
+  relate. I suppose part of it is that, as a dinosaur enthusiast, I take exception to
+  the dinosaur in the book being some generic "dinosaur" that doesn't really resemble
+  any real-life dinosaur species.
 
 ## More detailed for kids
 
-* Prehistoric World (Usborne) ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088&referer=brief_results), [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291&referer=brief_results), [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583), [Amazon/2012](https://smile.amazon.com/dp/140953426X))
+* Prehistoric World (Usborne) ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088), [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291), [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583), [Amazon/2012](https://smile.amazon.com/dp/140953426X))
 
   I loved the pictures in this book and it got read a lot. It goes from the dawn of life through early humans, with plenty of dinosaurs. The 2012 edition appears to be basically a reprint of the 2000 edition with a new cover.
 
@@ -72,9 +77,10 @@ This is a list of dinosaur/prehistory books that we've liked.
       * *When dinos dawned, mammals got munched, and pterosaurs took flight: a cartoon prehistory of life in the Triassic* (ISBN 1426308620, [Worldcat](https://www.worldcat.org/title/when-dinos-dawned-mammals-got-munched-and-pterosaurs-took-flight-a-cartoon-pre-history-of-life-in-the-triassic/oclc/886776103), [Amazon](https://smile.amazon.com/dp/1426308620))
   * *Dining With Dinosaurs: A Tasty Guide to Mesozoic Munching* (ISBN 1426323395, [Worldcat](https://www.worldcat.org/title/dining-with-dinosaurs-a-tasty-guide-to-mesozoic-munching/oclc/959966623), [Amazon](https://smile.amazon.com/dp/1426323395)) - I haven't seen this new book yet but it looks similar to her others.
   
-* Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy <https://www.worldcat.org/title/can-you-tell-brachiosaurus-from-a-apatosaurus/oclc/988929776>
-* Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to follow dinosaur drawing book. (ISBN  9781435826465, [Worldcat](https://www.worldcat.org/title/dinosaurs-and-other-prehistoric-creatures/oclc/212893645))
-* I am a tyrannosaurus / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/i-am-a-tyrannosaurus/oclc/61439566>
+* Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy ([Worldcat](https://www.worldcat.org/title/can-you-tell-brachiosaurus-from-a-apatosaurus/oclc/988929776)) - A question that I asked a lot when we first started reading dinosaur books.
+* Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to-follow dinosaur drawing book. (ISBN  9781435826465, [Worldcat](https://www.worldcat.org/title/dinosaurs-and-other-prehistoric-creatures/oclc/212893645))
+* I Am a Tyrannosaurus / Wallace, Karen ; Bostock, Mike ([Worldcat](https://www.worldcat.org/title/i-am-a-tyrannosaurus/oclc/61439566)) -
+  A gripping first-person account of the life and times of a tyrannosaurus. Don't read it if you don't want to see a tyrannosaurs devouring a baby triceratops. (But you probaby do want to see that.)
 * Imagine you are a crocodile / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/imagine-you-are-a-crocodile/oclc/51527511>
 * I am an ankylosaurus / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/i-am-an-ankylosaurus/oclc/52782911>
 * Dinosaurs / Long, John (ISBN 9781416938576, [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/122715493)) - An average dinosaur book that we got some entertainment from.
@@ -85,7 +91,7 @@ This is a list of dinosaur/prehistory books that we've liked.
 * Paleo sharks: survival of the strangest / Timothy J Bradley (2007, ISBN 0811848787, [Worldcat](https://www.worldcat.org/title/paleo-sharks-survival-of-the-strangest/oclc/66392993))
 * ISBN 9781625880826 1625880820 9781625881090 1625881096 (???), <https://www.worldcat.org/title/before-the-dinosaurs/oclc/858081253>
 * Dinosaurs / Milner, Angela C (ISBN 078354765X, <https://www.worldcat.org/title/dinosaurs/oclc/973033291>)
-* *The Amazing World of Dinosaurs: An Illustrated Journey Through the Mesozoic Era* / Kuether (ISBN 9781591936459, [Amazon](https://smile.amazon.com/Amazing-World-Dinosaurs-Illustrated-Mesozoic/dp/1591936454))
+* The Amazing World of Dinosaurs: An Illustrated Journey Through the Mesozoic Era / Kuether (ISBN 9781591936459, [Amazon](https://smile.amazon.com/Amazing-World-Dinosaurs-Illustrated-Mesozoic/dp/1591936454))
 
 Adult books with enough pictures to be of some interest to kids
 
