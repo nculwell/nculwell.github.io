@@ -8,5 +8,6 @@ for f in $(ls *.jpg | fgrep -v .thumb. | fgrep -v .large.); do
   THUMB=$(basename "$f" .jpg).large.jpg
   [ ! -f "$LARGE" ] && convert "$f" -resize x$LARGE_HEIGHT "$LARGE"
   [ ! -f "$THUMB" ] && convert "$f" -resize x$THUMB_HEIGHT "$THUMB"
+  echo rm $f
 done
 
