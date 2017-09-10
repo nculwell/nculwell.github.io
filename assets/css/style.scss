@@ -3,12 +3,13 @@
 
 @import "mdcolors";
 
-$color-body-bg: $Blue700;
-$color-article-bg: $Blue500;
-$color-block-bg: $Blue200;
-$color-block2-bg: $Blue100;
+$color-body-bg: $Green700;
+$color-article-bg: $Green500;
+$color-block-bg: $Green200;
+$color-block2-bg: $Green100;
 
-$color-link-text: $Red700;
+//$color-link-text: $Red700;
+$color-link-text: $Blue900;
 
 $spacing: 0.2em;
 
@@ -90,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2, h3, h4, h5, h6 {
-  border: dotted 2px gray;
+  border: solid 2px black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -114,7 +115,7 @@ article ul ul {
 article ul li {
   border: solid 1px black;
   margin: $spacing 0;
-  padding: $spacing;
+  padding: $spacing (2 * $spacing);
 //  padding-left: 2 * $spacing;
 //  padding-right: 2 * $spacing;
 //  padding-top: $spacing;

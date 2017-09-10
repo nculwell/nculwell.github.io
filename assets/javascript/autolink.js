@@ -1,4 +1,14 @@
+---
+layout: null
+js_includes:
+  - js/lib.js
+---
+
 // Convert Amazon links to AA links.
+
+{% for js in page.js_includes %}
+  {% include {{ js }} %}
+{% endfor %}
 
 "use strict";
 
@@ -211,7 +221,7 @@
   }
 
   function getTimestamp() {
-    function pad(n) { if (n<10) return '0' + n else return n; }
+    function pad(n) { if (n<10) return '0' + n; else return n; }
     var t = new Date();
     var timestamp =
       '' + t.year + '-' + pad(t.month) + '-' + pad(t.year)
