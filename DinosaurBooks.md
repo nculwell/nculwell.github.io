@@ -62,7 +62,7 @@ This is a list of dinosaur/prehistory books that we've liked.
     [![Dilophosaurus](/assets/img/IMG_20161105_161007458.thumb.jpg)](/assets/img/IMG_20161105_161007458.large.jpg)
     [![Iguanadon](/assets/img/IMG_20161105_161032474.thumb.jpg)](/assets/img/IMG_20161105_161032474.large.jpg)
     [![Dimetrodon](/assets/img/IMG_20161105_161112233.thumb.jpg)](/assets/img/IMG_20161105_161112233.large.jpg)
-    [![Allosaurus?](/assets/img/IMG_20161105_161146765.thumb.jpg)](/assets/img/IMG_20161105_161146765.large.jpg)
+    [![Protoceratops](/assets/img/IMG_20161105_161146765.thumb.jpg)](/assets/img/IMG_20161105_161146765.large.jpg)
     [![Triceratops](/assets/img/IMG_20161105_161303774.thumb.jpg)](/assets/img/IMG_20161105_161303774.large.jpg)
     [![Brontosaurus](/assets/img/IMG_20161105_161632390.thumb.jpg)](/assets/img/IMG_20161105_161632390.large.jpg)
 
