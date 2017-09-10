@@ -1,15 +1,18 @@
 ---
+layout: null
+bg_color: Green
+link_color: Blue
 ---
 
 @import "mdcolors";
 
-$color-body-bg: $Green700;
-$color-article-bg: $Green500;
-$color-block-bg: $Green200;
-$color-block2-bg: $Green100;
+$color-body-bg: ${{ page.bg_color }}700;
+$color-article-bg: ${{ page.bg_color }}500;
+$color-block-bg: ${{ page.bg_color }}200;
+$color-block2-bg: ${{ page.bg_color }}100;
 
 //$color-link-text: $Red700;
-$color-link-text: $Blue900;
+$color-link-text: ${{ page.link_color }}900;
 
 $spacing: 0.2em;
 
