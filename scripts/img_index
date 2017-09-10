@@ -1,0 +1,48 @@
+#!/usr/bin/python3
+# vim: ts=2 sts=2 sw=2 et smarttab
+
+import os, os.path, sys, re, glob
+
+STYLE = """\
+  div { display: inline; }
+"""
+
+HEADER = """\
+<html>
+<head>
+  <style>
+{{ style }}
+  </style>
+</head>
+<body>
+"""
+
+FOOTER = """\
+</body>
+</html>
+"""
+
+ITEM = """\
+  <div>
+    <a href='{0}'><img src='{1}' title='{1}'></a>
+  </div>
+""";
+
+def get_images():
+  files = glob.glob("*.large.jpg")
+  for large in files:
+    thumb = large.replace(".large.jpg", ".thumb.jpg")
+    if os.path.exists(large) and os.path.exists(thumb):
+      yield (large, thumb)
+
+def main():
+  out = sys.stdout
+  images = list(get_images())
+  images.sort()
+  out.write(HEADER.replace("{{ style }}", STYLE))
+  for img in images:
+    out.write(ITEM.format(*img))
+  out.write(FOOTER)
+
+main()
+

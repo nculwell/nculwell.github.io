@@ -4,10 +4,10 @@ THUMB_HEIGHT=128
 LARGE_HEIGHT=512
 
 for f in $(ls *.jpg | fgrep -v .thumb. | fgrep -v .large.); do
-  LARGE=$(basename "$f" .jpg).thumb.jpg
-  THUMB=$(basename "$f" .jpg).large.jpg
-  [ ! -f "$LARGE" ] && convert "$f" -resize x$LARGE_HEIGHT "$LARGE"
-  [ ! -f "$THUMB" ] && convert "$f" -resize x$THUMB_HEIGHT "$THUMB"
-  echo rm $f
+  THUMB=$(basename "$f" .jpg).thumb.jpg
+  LARGE=$(basename "$f" .jpg).large.jpg
+  [ ! -f "$THUMB" ] && convert "$f" -resize x$THUMB_HEIGHT "$THUMB" || { rm -f "$THUMB"; continue; }
+  [ ! -f "$LARGE" ] && convert "$f" -resize x$LARGE_HEIGHT "$LARGE" || { rm -f "$LARGE"; continue; }
+  [ -f "$LARGE" ] && [ -f "$THUMB" ] && rm "$f"
 done
 
