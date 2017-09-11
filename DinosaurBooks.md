@@ -58,6 +58,7 @@ This is a list of dinosaur/prehistory books that we've liked.
   * Dinosaurs Of The Land, Sea And Air (ISBN 1561447749, [WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Amazon](https://smile.amazon.com/dp/1561447749))
   * Images from various stories in the series:
 
+    [![Tyrannosaurus](/assets/img/IMG_20170910_074715039_cropped.thumb.jpg)](/assets/img/IMG_20170910_074715039_cropped.large.jpg)
     [![Tyrannosaurus](/assets/img/IMG_20161105_160938748.thumb.jpg)](/assets/img/IMG_20161105_160938748.large.jpg)
     [![Dilophosaurus](/assets/img/IMG_20161105_161007458.thumb.jpg)](/assets/img/IMG_20161105_161007458.large.jpg)
     [![Iguanadon](/assets/img/IMG_20161105_161032474.thumb.jpg)](/assets/img/IMG_20161105_161032474.large.jpg)
@@ -147,6 +148,11 @@ should be helpful. (It's an excellent book in any case.)
   * 3e/2016: ISBN 9781107135376 (HC) / 9781316501153 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/936687221), [Amazon HC](https://smile.amazon.com/dp/1107135370), [Amazon PB](https://smile.amazon.com/dp/1316501159)
   * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
   * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
+
+    [![Fastovsky and Weishampel: Cover](/assets/img/IMG_20170910_075525835_cropped.thumb.jpg)](/assets/img/IMG_20170910_075525835_cropped.large.jpg)
+    [![Fastovsky and Weishampel: p. 146](/assets/img/IMG_20170910_075538194_cropped.thumb.jpg)](/assets/img/IMG_20170910_075538194_cropped.large.jpg)
+    [![Fastovsky and Weishampel: p. 148](/assets/img/IMG_20170910_075545405_cropped.thumb.jpg)](/assets/img/IMG_20170910_075545405_cropped.large.jpg)
+
 * Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823)) - Lacks information about particular dinosaurs, it's more of a general overview. I liked the chapter on the K-Tr extinction.
 * Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
@@ -198,6 +204,16 @@ should be helpful. (It's an excellent book in any case.)
 * The beginner's guide to animal autopsy : a "hands-in" approach to zoology, the world of creatures and what's inside them / Parker, Steve ; Shone, Rob (ISBN 0761307028, [Worldcat](https://www.worldcat.org/title/beginners-guide-to-animal-autopsy-the-hands-in-approach-to-zoology/oclc/36573705))
 * Life-size killer creatures / Gilpin, Daniel (Omnibus: [Amazon](https://smile.amazon.com/dp/B001YIGW2C))
 * Bateman - Deep in the Swamp
+* DK-Smithsonian Natural History
+
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075117020_cropped.thumb.jpg)](/assets/img/IMG_20170910_075117020_cropped.large.jpg)
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075710153_cropped.thumb.jpg)](/assets/img/IMG_20170910_075710153_cropped.large.jpg)
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075213624_cropped.thumb.jpg)](/assets/img/IMG_20170910_075213624_cropped.large.jpg)
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075247954_cropped.thumb.jpg)](/assets/img/IMG_20170910_075247954_cropped.large.jpg)
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075308671_cropped.thumb.jpg)](/assets/img/IMG_20170910_075308671_cropped.large.jpg)
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075315048_cropped.thumb.jpg)](/assets/img/IMG_20170910_075315048_cropped.large.jpg)
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075330447_cropped.thumb.jpg)](/assets/img/IMG_20170910_075330447_cropped.large.jpg)
+  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075440242_cropped.thumb.jpg)](/assets/img/IMG_20170910_075440242_cropped.large.jpg)
 
 {% comment %}
 ## TODO
