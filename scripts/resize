@@ -3,11 +3,31 @@
 THUMB_HEIGHT=128
 LARGE_HEIGHT=512
 
+# First reduce size of originals to the "large" size.
 for f in $(ls *.jpg | fgrep -v .thumb. | fgrep -v .large.); do
-  THUMB=$(basename "$f" .jpg).thumb.jpg
   LARGE=$(basename "$f" .jpg).large.jpg
-  [ ! -f "$THUMB" ] && convert "$f" -resize x$THUMB_HEIGHT "$THUMB" || { rm -f "$THUMB"; continue; }
-  [ ! -f "$LARGE" ] && convert "$f" -resize x$LARGE_HEIGHT "$LARGE" || { rm -f "$LARGE"; continue; }
-  [ -f "$LARGE" ] && [ -f "$THUMB" ] && rm "$f"
+  if [ ! -f "$LARGE" ]; then
+    convert "$f" resizing_color_profile.icm \
+      || continue
+    convert "$f" \
+        -resize x$LARGE_HEIGHT \
+        -strip -profile resizing_color_profile.icm \
+        "$LARGE" \
+      && rm -f "$f" resizing_color_profile.icm \
+      && continue
+    # Clean up on failure.
+    echo rm -f "$LARGE"
+  fi
+done
+
+# Generate thumbs from large images.
+for f in *.large.jpg; do
+  THUMB=$(basename "$f" .large.jpg).thumb.jpg
+  if [ ! -f "$THUMB" ]; then
+    convert "$f" -resize x$THUMB_HEIGHT "$THUMB" \
+      && continue
+    # Clean up on failure.
+    echo rm -f "$THUMB"
+  fi
 done
 
