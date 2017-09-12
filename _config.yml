@@ -9,6 +9,7 @@ jailed: false
 #theme: minima
 theme: jekyll-theme-primer
 gfm_quirks: paragraph_end
+exclude: [scripts, vendor]
 
 # Github default settings that can't be changed. (Github will override them.)
 # Can set them to whatever we want for local testing.
@@ -45,5 +46,4 @@ defaults:
 sass:
   sass_dir: _sass
 
-exclude: [scripts]
 
