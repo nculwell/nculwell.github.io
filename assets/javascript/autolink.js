@@ -29,7 +29,7 @@ js_includes:
   };
 
   // To be populated by queries.
-  var _aaLinksByHost;
+  var _aaLinksByHost = {};
   var _userCountryCode;
 
   // Mutable state.
@@ -71,7 +71,11 @@ js_includes:
   function fetchLinks() {
     $.ajax("/aalinks.txt", {
       dataType: "text",
-      success: receiveLinks
+      success: receiveLinks,
+      error: function(err) {
+        console.error(err);
+        _aaLinksByHost = {};
+      }
     });
   }
 

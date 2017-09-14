@@ -22,10 +22,6 @@
       </div>
       {% endif %}
     </div>
-    <!--
-    <script src="{{ "assets/javascript/anchor-js/anchor.min.js" | relative_url }}"></script>
-    <script>anchors.add();</script>
-    -->
     <footer>
       <p>
       We are a participant in the Amazon Services LLC Associates
@@ -34,5 +30,11 @@
       sites.
       </p>
     </footer>
+    <script>
+{% include js/unnamedLinks.js %}
+    </script>
+    <!-- Script from the theme. -->
+    <script src="{{ "assets/javascript/anchor-js/anchor.min.js" | relative_url }}"></script>
+    <script>anchors.add();</script>
   </body>
 </html>
