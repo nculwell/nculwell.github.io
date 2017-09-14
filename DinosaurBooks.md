@@ -68,7 +68,21 @@ This is a list of dinosaur/prehistory books that we've liked.
     [![Brontosaurus](/assets/img/IMG_20161105_161632390.thumb.jpg)](/assets/img/IMG_20161105_161632390.large.jpg)
 
 * Don Lessem
-  * The Ultimate Dinopedia / Lessem and Tampesta (1e/2010 ISBN 1426301642, [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610), [Amazon](https://smile.amazon.com/dp/1426301642); 2e/2017 ISBN 1426329059, [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009), [Amazon](https://smile.amazon.com/dp/1426329059)) - Full-page artwork of each dinosaur in action, along with pronunciation guides and entertaining text, make this a pretty ideal first "encyclopedia" type dinosaur book for both parent and child. I notice that there's a new edition (2nd, 2017) but I haven't seen it yet. I've noticed that the Franco Tempesta illustrations in this book show up in some National Geographic Kids books. (Reusing dinosaur illustrations happens a lot, read enough of these books and you'll start to see it all over the place!)
+    * The Ultimate Dinopedia / Lessem and Tampesta
+        (1e/2010 ISBN 1426301642,
+        [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610),
+        [Amazon](https://smile.amazon.com/dp/1426301642);
+         2e/2017 ISBN 1426329059,
+        [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009),
+        [Amazon](https://smile.amazon.com/dp/1426329059)) -
+      Full-page artwork of each dinosaur in action, along with pronunciation
+      guides and entertaining text, make this a pretty ideal first "encyclopedia"
+      type dinosaur book for both parent and child. I notice that there's a new
+      edition (2nd, 2017) but I haven't seen it yet. I've noticed that the Franco
+      Tempesta illustrations in this book show up in some National Geographic Kids
+      books. (Reusing dinosaur illustrations happens a lot, read enough of these
+      books and you'll start to see it all over the
+      place!)
   * Meet the Dinosaurs series - Good books that list and discuss dinosaurs (and non-dinosaurs) of particular classifications.
     * Sea Giants of Dinosaur Time (ISBN 9780822514251,
         [Worldcat](https://www.worldcat.org/title/sea-giants-of-dinosaur-time/oclc/56095792),
@@ -83,15 +97,48 @@ This is a list of dinosaur/prehistory books that we've liked.
     * <https://www.amazon.com/Fastest-Dinosaurs-Meet/dp/0822514222>
     * <https://www.amazon.com/Feathered-Dinosaurs-Meet-Don-Lessem/dp/0822514230>
   * Dinosaurs to Dodos: An Encyclopedia of Extinct Animals / Lessem and Sovak (ISBN 9780590316842 HC / 9780590316859 PB, [Worldcat](https://www.worldcat.org/title/dinosaurs-to-dodos-an-encyclopedia-of-extinct-animals/oclc/39281870), [Amazon](https://smile.amazon.com/dp/0590316842)) - A pretty good book with nice pictures, but The Ultimate Dinopedia is newer and has bigger pictures.
+
+* National Geographic Dinosaurs / Paul Barrett (Au), Raul Martin (Ill), Kevin Padian (Ill)
+    (2001, ISBN 978-0792282242, [Worldcat](https://www.worldcat.org/title/national-geographic-dinosaurs/oclc/818882284),
+    [Amazon](https://smile.amazon.com/National-Geographic-Dinosaurs-Paul-Barrett/dp/0792282248))
+
+  This is an excellent informational book that has continued to teach us new
+  things even though we're already pretty far into reading about dinosaurs.
+  The author has also written a good academic textbook about dinosaurs (listed
+  below). Like a lot of books, it's a mix of thematic information and a
+  dinosaur-by-dinosaur guide. Its guide portion has pretty good pictures,
+  including a scale representation of each dinosaur next to a human (I've
+  struggled so much to explain scale so this is really important for a little
+  kid). It also contains lots of two-page spreads of nice dinosaur artwork.
+  The text is brief and interesting enough that I can often read all or at
+  least most of a page before the 3-year-old audience loses interest.
+
 * Dougal Dixon
 
-  Dougal Dixon is a very prolific author of dinosaur books. His books are generally pretty good in content but he sometimes makes errors and some volumes feature lousy digital art.
+  Dougal Dixon is a very prolific author of dinosaur books. His books are
+  generally pretty good in content but he sometimes makes errors and some
+  volumes feature lousy digital art.
+
   * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
   * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find) - These books are basically collections of detailed scenes full of lots of dinosaurs, without much text. They are pretty good for a kid who just wants to look at the pictures and talk about what's in them.
   * Complete Illustrated Encyclopedia ([Worldcat](https://www.worldcat.org/title/complete-illustrated-encyclopedia-of-dinosaurs-prehistoric-creatures-the-ultimate-illustrated-reference-guide-to-1000-dinosaurs-and-prehistoric-creatures-with-2000-specially-commissioned-artworks-maps-and-photographs/oclc/944351418), [Amazon](https://smile.amazon.com/dp/1846812097)) - The format of the new (2014) paperback edition of this one is really too small for what it is (6.8 x 8.5 inches), but it is cheap. It covers a very large number of dinosaur species, which makes it a wide-ranging reference, but it's not the most attractive for children and it doesn't have a lot to say about each species.
 
-* Dinosaurs Through Time / Rupert Matthews, McRae Books (ISBN 8860980429, [Amazon](https://smile.amazon.com/dp/8860980429)) - General overview of Mesozoic animal life, organized chronologically. It coverage doesn't really stand out, but nice full-page artwork makes it worthwhile. It actually begins with the Permian, before dinosaurs first appeared.
-* Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X)) - Story of the life of a Mamenchisaurus from birth to death to fossilization.
+* Dinosaurs Through Time / Rupert Matthews, McRae Books
+    (ISBN 8860980429, [Amazon](https://smile.amazon.com/dp/8860980429))
+
+  General overview of Mesozoic animal life, organized chronologically. It
+  coverage doesn't really stand out, but nice full-page artwork makes it
+  worthwhile (note that this is an oversize book so those full pages are big).
+  It actually begins with the Permian, before dinosaurs first appeared.
+  One criticism I have is that some of the images are clearly old and
+  out-of-date even though this is a recent book (for example the Spinosaurus).
+
+* Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X))
+
+  Story of the life of a Mamenchisaurus from birth to death to fossilization.
+  This book is fairly brief, and each two-page spread shows a scene in the
+  dinosaur's life. It is nicely illustrated and thought-provoking.
+
 * Zoehfeld and Washburn (Let's Read and Find Out Science) - Excellent book that each focus on a fairly narrow topic.
   * Where did dinosaurs come from? ([w](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [a](https://smile.amazon.com/dp/0064452166)) - History of evolution up until the dinosaurs.
   * Dinosaurs big and small ([w](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [a](https://smile.amazon.com/dp/0064451828)) - Overview of various dinosaurs.
@@ -109,11 +156,19 @@ This is a list of dinosaur/prehistory books that we've liked.
   
 * Can you tell a Brachiosaurus from an Apatosaurus? / Silverman, Buffy ([Worldcat](https://www.worldcat.org/title/can-you-tell-brachiosaurus-from-a-apatosaurus/oclc/988929776)) - A question that I asked a lot when we first started reading dinosaur books.
 * Dinosaurs and other prehistoric creatures / Bergin, Mark -- Easy-to-follow dinosaur drawing book. (ISBN  9781435826465, [Worldcat](https://www.worldcat.org/title/dinosaurs-and-other-prehistoric-creatures/oclc/212893645))
-* I Am a Tyrannosaurus / Wallace, Karen ; Bostock, Mike ([Worldcat](https://www.worldcat.org/title/i-am-a-tyrannosaurus/oclc/61439566)) -
+
+* I Am a Tyrannosaurus / Wallace, Karen ; Bostock, Mike ([Worldcat](https://www.worldcat.org/title/i-am-a-tyrannosaurus/oclc/61439566))
+
   A gripping first-person account of the life and times of a tyrannosaurus. Don't read it if you don't want to see a tyrannosaurs devouring a baby triceratops. (But you probaby do want to see that.)
+
 * Imagine you are a crocodile / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/imagine-you-are-a-crocodile/oclc/51527511>
+
 * I am an ankylosaurus / Wallace, Karen ; Bostock, Mike <https://www.worldcat.org/title/i-am-an-ankylosaurus/oclc/52782911>
-* Dinosaurs / Long, John (ISBN 9781416938576, [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/122715493)) - An average dinosaur book that we got some entertainment from.
+
+* Dinosaurs / Long, John (ISBN 9781416938576, [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/122715493))
+
+  An average dinosaur book that we got some entertainment from.
+
 * Monster fliers: from the time of the dinosaurs / MacLeod, Elizabeth ; Bindon, John <https://www.worldcat.org/title/monster-fliers-from-the-time-of-the-dinosaurs/oclc/394994459> - Nice illustrations of pterosaurs.
 * Beyond the dinosaurs: monsters of the air and sea / Brown, Charlotte Lewis ; Wilson, Phil <https://www.worldcat.org/title/beyond-the-dinosaurs-monsters-of-the-air-and-sea/oclc/948653918>
 * The day the dinosaurs died / Brown, Charlotte Lewis ; Wilson, Phil <https://www.worldcat.org/title/day-the-dinosaurs-died/oclc/868345981>
@@ -121,9 +176,9 @@ This is a list of dinosaur/prehistory books that we've liked.
 * Paleo sharks: survival of the strangest / Timothy J Bradley (2007, ISBN 0811848787, [Worldcat](https://www.worldcat.org/title/paleo-sharks-survival-of-the-strangest/oclc/66392993))
 * ISBN 9781625880826 1625880820 9781625881090 1625881096 (???), <https://www.worldcat.org/title/before-the-dinosaurs/oclc/858081253>
 * Dinosaurs / Milner, Angela C (ISBN 078354765X, <https://www.worldcat.org/title/dinosaurs/oclc/973033291>)
-* The Amazing World of Dinosaurs: An Illustrated Journey Through the Mesozoic Era / Kuether (ISBN 9781591936459, [Amazon](https://smile.amazon.com/Amazing-World-Dinosaurs-Illustrated-Mesozoic/dp/1591936454))
+* The Amazing World of Dinosaurs: An Illustrated Journey Through the Mesozoic Era / Kuether ([ISBN 9781591936459](https://www.worldcat.org/isbn/9781591936459), [Amazon](https://smile.amazon.com/Amazing-World-Dinosaurs-Illustrated-Mesozoic/dp/1591936454))
 
-Adult books with enough pictures to be of some interest to kids
+## Adult books with enough pictures to be of some interest to kids
 
 * Dinosaurs : the most complete, up-to-date encyclopedia for dinosaur lovers of all ages / Holtz, Thomas R ; Rey, Luis V
 
