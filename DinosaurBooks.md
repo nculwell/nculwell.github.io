@@ -169,8 +169,18 @@ This is a list of dinosaur/prehistory books that we've liked.
   volumes feature lousy digital art.
 
   * Reptiles rule: Triassic life; etc. (Awesome Ancient Animals)
+
   * Stegosaurus : and other plains dinosaurs; etc. (Dinosaur Find) - These books are basically collections of detailed scenes full of lots of dinosaurs, without much text. They are pretty good for a kid who just wants to look at the pictures and talk about what's in them.
-  * Complete Illustrated Encyclopedia ([Worldcat](https://www.worldcat.org/title/complete-illustrated-encyclopedia-of-dinosaurs-prehistoric-creatures-the-ultimate-illustrated-reference-guide-to-1000-dinosaurs-and-prehistoric-creatures-with-2000-specially-commissioned-artworks-maps-and-photographs/oclc/944351418), [Amazon](https://smile.amazon.com/dp/1846812097)) - The format of the new (2014) paperback edition of this one is really too small for what it is (6.8 x 8.5 inches), but it is cheap. It covers a very large number of dinosaur species, which makes it a wide-ranging reference, but it's not the most attractive for children and it doesn't have a lot to say about each species.
+
+  * Complete Illustrated Encyclopedia
+    ([Worldcat](https://www.worldcat.org/oclc/944351418),
+    [Amazon](https://smile.amazon.com/dp/1846812097))
+
+    The format of the new (2014) paperback edition of this one is really too
+    small for what it is (6.8 x 8.5 inches), but it is cheap. It covers a very
+    large number of dinosaur species, which makes it a wide-ranging reference,
+    but it's not the most attractive for children and it doesn't have a lot to
+    say about each species.
 
 * Dinosaurs Through Time / Rupert Matthews, McRae Books
     (ISBN 8860980429, [Amazon](https://smile.amazon.com/dp/8860980429))
@@ -181,6 +191,10 @@ This is a list of dinosaur/prehistory books that we've liked.
   It actually begins with the Permian, before dinosaurs first appeared.
   One criticism I have is that some of the images are clearly old and
   out-of-date even though this is a recent book (for example the Spinosaurus).
+
+  [![](/assets/img/IMG_20170910_074533540_cropped.thumb.jpg)](/assets/img/IMG_20170910_074533540_cropped.large.jpg)
+  [![](/assets/img/IMG_20170910_074605661_cropped.thumb.jpg)](/assets/img/IMG_20170910_074605661_cropped.large.jpg)
+  [![](/assets/img/IMG_20170910_074618706_cropped.thumb.jpg)](/assets/img/IMG_20170910_074618706_cropped.large.jpg)
 
 * Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([Amazon](https://smile.amazon.com/dp/143582802X))
 
@@ -341,7 +355,17 @@ should be helpful. (It's an excellent book in any case.)
 * The beginner's guide to animal autopsy : a "hands-in" approach to zoology, the world of creatures and what's inside them / Parker, Steve ; Shone, Rob (ISBN 0761307028, [Worldcat](https://www.worldcat.org/title/beginners-guide-to-animal-autopsy-the-hands-in-approach-to-zoology/oclc/36573705))
 * Life-size killer creatures / Gilpin, Daniel (Omnibus: [Amazon](https://smile.amazon.com/dp/B001YIGW2C))
 * Bateman - Deep in the Swamp
+
 * DK-Smithsonian Natural History
+
+  An incredible compendium of a huge variety of all kingdoms life, but mostly
+  animals. The beginning includes a brief overview of earth science as well. If
+  you want to spend hours looking at different animals, this is your book. We
+  spend a lot of time looking at the whales. There aren't a lot of words to
+  read, although there are brief descriptions of a good number of the species
+  depicted.
+
+  Be aware that this is a **big**, heavy book. Little kids will not be able to hold it comfortably on their laps.
 
   [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075117020_cropped.thumb.jpg)](/assets/img/IMG_20170910_075117020_cropped.large.jpg)
   [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075710153_cropped.thumb.jpg)](/assets/img/IMG_20170910_075710153_cropped.large.jpg)
