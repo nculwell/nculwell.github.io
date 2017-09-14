@@ -4,7 +4,29 @@ title: Dinosaur Books
 
 # Dinosaur Books
 
-This is a list of dinosaur/prehistory books that we've liked.
+Not long after my son's second birthday, we introduced him to dinosaurs. He was
+already a big fan of animals, but he wasn't so sure about the dinosaurs at
+first. Over the course of the next few months, though, he got more and more
+excited about them, until at some point he hardly thought about any anything
+else. At this point, we basically live a dinosaur life in this house.
+
+Since then, we've plowed through just about every book about dinosaurs and
+other prehistoric animals that we could lay our hands on.  As a result, I've
+done a lot of research looking for new books to feed his interest. (To be
+honest, he doesn't usually complain about the books we have, so much of the
+motivation comes from me; I get tired of reading the same books over and over!)
+
+In this document, I've tried to compile as much as I could recall about the
+books that we've enjoyed, both for my own record and in the hope that someone
+else out there will also be able to take advantage of it and save a bunch of
+time. (I don't know how much time I've spent on this endeavor, but it was a
+surprisingly huge number of hours.) I've tried to provide Worldcat and Amazon
+links to make it easy for you to find these books with a minimum of effort. In
+case you're not familiar with Worldcat, you can tell it your location and it
+will tell you which local libraries have the book you're looking at, and it
+will even give you a link to that book on your local library's website. We
+would never have been able to enjoy all of these books without our great local
+library system.
 
 {% comment %} TODO: Movies, TV shows, coloring books, more music {% endcomment %}
 
@@ -13,7 +35,18 @@ This is a list of dinosaur/prehistory books that we've liked.
 ## Baby books, dinosaur-themed stories
 
 * Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247), [Amazon](https://smile.amazon.com/dp/140830385X))
-* Dinosaur Days / Joyce Milton (1985 edition: [Amazon](https://smile.amazon.com/dp/B00430CY9I), [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206); 2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143), [Amazon](https://smile.amazon.com/dp/0385379234)) - The 1985 edition of this book had a lot of staying power early on in our dinosaur phase, and we read it so much that my son had it mostly memorized. Although it's not in verse, the simple words have a nice cadence. The 1985 edition is somewhat outdated, but not painfully so, and I prefer its art style to the newer one.
+* Dinosaur Days / Joyce Milton
+  (1985 edition: [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206),
+  [Amazon](https://smile.amazon.com/dp/B00430CY9I);
+  2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143),
+  [Amazon](https://smile.amazon.com/dp/0385379234))
+  
+  The 1985 edition of this book had a lot of staying power early on in our
+  dinosaur phase, and we read it so much that my son had it mostly memorized.
+  Although it's not in verse, the simple words have a nice cadence. The 1985
+  edition is somewhat outdated, but not painfully so, and I prefer its art
+  style to the newer one.
+
 * Dinosaurs: 4 favorite stories (Scholastic Reader Collection)
   ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918),
   [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513)) -
@@ -21,6 +54,7 @@ This is a list of dinosaur/prehistory books that we've liked.
   artwork and the other two have pretty detailed art. We read these a lot of
   times, and it still comes out occasionally; on the merits the stories aren't
   that great objectively but they have a certain charm to them.
+
 * How Do Dinosaurs...? / Yolen, Jane; Teague, Mark - Just about all of these books follow the same template: most of the book lists ways in which "dinosaurs" might misbehave (posed as question), followed by some examples of how they behave correctly. The main draw is the amusing illustrations of huge dinosaurs doing things that children do. These are probably the most popular recent dinosaur books, and they are available as board books.
   * How Do Dinosaurs Say Goodnight? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120), [Amazon](https://smile.amazon.com/dp/0590316818))
   * How Do Dinosaurs Go To School? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-go-to-school/oclc/809199976), [Amazon](https://smile.amazon.com/How-Do-Dinosaurs-Go-School/dp/0439020816))
