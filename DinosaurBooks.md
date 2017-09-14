@@ -208,7 +208,7 @@ should be helpful. (It's an excellent book in any case.)
     [![Fastovsky and Weishampel: p. 146](/assets/img/IMG_20170910_075538194_cropped.thumb.jpg)](/assets/img/IMG_20170910_075538194_cropped.large.jpg)
     [![Fastovsky and Weishampel: p. 148](/assets/img/IMG_20170910_075545405_cropped.thumb.jpg)](/assets/img/IMG_20170910_075545405_cropped.large.jpg)
 
-* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823)) - Lacks information about particular dinosaurs, it's more of a general overview. I liked the chapter on the K-Tr extinction.
+* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823)) - Lacks information about particular dinosaurs, it's more of a thematic overview. I liked the chapter on the K-Tr extinction.
 * Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
 * Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
