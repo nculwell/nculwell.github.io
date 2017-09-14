@@ -46,7 +46,7 @@ This is a list of dinosaur/prehistory books that we've liked.
 
   I loved the pictures in this book and it got read a lot. It goes from the dawn of life through early humans, with plenty of dinosaurs. The 2012 edition appears to be basically a reprint of the 2000 edition with a new cover.
 
-* Modern Publishing (Rupert Oliver; Ron Wilson; Angela Royston; etc.)
+* ### Modern Publishing (Rupert Oliver; Ron Wilson; Angela Royston; etc.)
 
   Omnibus editions of all Modern Publishing books. They are out-of-date (1980s) and the illustrations are sometimes goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's story book I can think of that features the protagonist being killed and devoured in the final pages. There's a pretty large number of books in the series but I think all of them are collected in the four omnibus volumes that I list here.
 
@@ -90,7 +90,7 @@ This is a list of dinosaur/prehistory books that we've liked.
     [![Triceratops](/assets/img/IMG_20161105_161303774.thumb.jpg)](/assets/img/IMG_20161105_161303774.large.jpg)
     [![Brontosaurus](/assets/img/IMG_20161105_161632390.thumb.jpg)](/assets/img/IMG_20161105_161632390.large.jpg)
 
-* Don Lessem
+* ### Don Lessem
     * The Ultimate Dinopedia / Lessem and Tampesta
         (1e/2010 ISBN 1426301642,
         [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610),
@@ -143,7 +143,7 @@ This is a list of dinosaur/prehistory books that we've liked.
 
   * Dinosaurs to Dodos: An Encyclopedia of Extinct Animals / Lessem and Sovak (ISBN 9780590316842 HC / 9780590316859 PB, [Worldcat](https://www.worldcat.org/title/dinosaurs-to-dodos-an-encyclopedia-of-extinct-animals/oclc/39281870), [Amazon](https://smile.amazon.com/dp/0590316842)) - A pretty good book with nice pictures, but The Ultimate Dinopedia is newer and has bigger pictures.
 
-* National Geographic Dinosaurs / Paul Barrett (Au), Raul Martin (Ill), Kevin Padian (Ill)
+* <a id='barrett-ng-dinosaurs'></a>National Geographic Dinosaurs / Paul Barrett, Raul Martin (illustrator)
     (2001, ISBN 978-0792282242, [Worldcat](https://www.worldcat.org/title/national-geographic-dinosaurs/oclc/818882284),
     [Amazon](https://smile.amazon.com/National-Geographic-Dinosaurs-Paul-Barrett/dp/0792282248))
 
@@ -158,9 +158,9 @@ This is a list of dinosaur/prehistory books that we've liked.
   The text is brief and interesting enough that I can often read all or at
   least most of a page before the 3-year-old audience loses interest.
 
-  [![NG Dinosaurs Barrett - cover](assets/img/IMG_20170910_080128640_cropped.thumb.jpg)](assets/img/IMG_20170910_080128640_cropped.large.jpg)
-  [![NG Dinosaurs Barrett - cover](assets/img/IMG_20170910_080142450_cropped.thumb.jpg)](assets/img/IMG_20170910_080142450_cropped.large.jpg)
-  [![NG Dinosaurs Barrett - cover](assets/img/IMG_20170910_080149161_cropped.thumb.jpg)](assets/img/IMG_20170910_080149161_cropped.large.jpg)
+  [![NG Dinosaurs Barrett - Cover](assets/img/IMG_20170910_080128640_cropped.thumb.jpg)](assets/img/IMG_20170910_080128640_cropped.large.jpg)
+  [![NG Dinosaurs Barrett - Chasmosaurus](assets/img/IMG_20170910_080142450_cropped.thumb.jpg)](assets/img/IMG_20170910_080142450_cropped.large.jpg)
+  [![NG Dinosaurs Barrett - Apatosaurus](assets/img/IMG_20170910_080149161_cropped.thumb.jpg)](assets/img/IMG_20170910_080149161_cropped.large.jpg)
 
 * Dougal Dixon
 
@@ -281,7 +281,16 @@ should be helpful. (It's an excellent book in any case.)
     [![Fastovsky and Weishampel: p. 146](/assets/img/IMG_20170910_075538194_cropped.thumb.jpg)](/assets/img/IMG_20170910_075538194_cropped.large.jpg)
     [![Fastovsky and Weishampel: p. 148](/assets/img/IMG_20170910_075545405_cropped.thumb.jpg)](/assets/img/IMG_20170910_075545405_cropped.large.jpg)
 
-* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN 9781588345820, [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529), [Amazon](https://smile.amazon.com/dp/1588345823)) - Lacks information about particular dinosaurs, it's more of a thematic overview. I liked the chapter on the K-Tr extinction.
+* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN
+  9781588345820,
+  [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529),
+  [Amazon](https://smile.amazon.com/dp/1588345823)) - Lacks information about
+  particular dinosaurs, it's more of a thematic overview. I liked the chapter
+  on the K-Tr extinction.
+
+  [![Dinosaurs:HTLAE - Cover](http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.thumb.jpg)](http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.large.jpg)
+  [![Dinosaurs:HTLAE - Cover](http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.thumb.jpg)](http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.large.jpg)
+
 * Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
 * Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
@@ -342,6 +351,15 @@ should be helpful. (It's an excellent book in any case.)
   [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075315048_cropped.thumb.jpg)](/assets/img/IMG_20170910_075315048_cropped.large.jpg)
   [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075330447_cropped.thumb.jpg)](/assets/img/IMG_20170910_075330447_cropped.large.jpg)
   [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075440242_cropped.thumb.jpg)](/assets/img/IMG_20170910_075440242_cropped.large.jpg)
+
+* National Geographic Prehistoric Mammals / Alan Turner, Mauricio Anton (illustrator)
+
+  A very nice book about prehistoric mammals that follows the same basic design as [Paul Barrett's dinosaurs book](#barrett-ng-dinosaurs).
+
+  [![](/assets/img/IMG_20170910_075813381_cropped.thumb.jpg)](/assets/img/IMG_20170910_075813381_cropped.large.jpg)
+  [![](/assets/img/IMG_20170910_075800126_cropped.thumb.jpg)](/assets/img/IMG_20170910_075800126_cropped.large.jpg)
+  [![](/assets/img/IMG_20170910_075848935_cropped.thumb.jpg)](/assets/img/IMG_20170910_075848935_cropped.large.jpg)
+  [![](/assets/img/IMG_20170910_075856590_cropped.thumb.jpg)](/assets/img/IMG_20170910_075856590_cropped.large.jpg)
 
 {% comment %}
 ## TODO
