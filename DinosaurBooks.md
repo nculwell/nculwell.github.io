@@ -182,15 +182,33 @@ This is a list of dinosaur/prehistory books that we've liked.
 
 * Dinosaurs : the most complete, up-to-date encyclopedia for dinosaur lovers of all ages / Holtz, Thomas R ; Rey, Luis V
 
+  A bit of false adversiting here: this is not really great for all ages, as
+  the format is not very kid-friendly. Most of the above books have a layout
+  that presents information a page or two at a time, but this one is organized
+  in chapters with text flowing around inset images, like a typical adult book.
+  This means you won't actually be reading the text to a young child. However,
+  it still has enough pictures that you can have fun paging through it, talking
+  about the pictures and reading the captions. Each chapter has a picture of
+  several related dinosaurs side-by-side, those are fun to look at.
+
+* Dinosaurs: 
+
 ## Beyond kids
 
-* Steyer. *Earth Before the Dinosaurs* (ISBN 9780253223807, [Worldcat](https://www.worldcat.org/title/earth-before-the-dinosaurs/oclc/798740419), [Amazon](https://smile.amazon.com/dp/0253223806))
+* Life of the Past series: An amazing series of serious, high-quality paleontology books that are still accessible to the motivated layperson.
+
+  * Steyer. *Earth Before the Dinosaurs* (ISBN 9780253223807,
+    [Worldcat](https://www.worldcat.org/title/earth-before-the-dinosaurs/oclc/798740419),
+    [Amazon](https://smile.amazon.com/dp/0253223806))
+
 * Paul. *The Princeton Field Guide to Dinosaurs* (2nd edition: ISBN 9780691167664, [Worldcat](https://www.worldcat.org/title/princeton-field-guide-to-dinosaurs/oclc/985402380), [Amazon](https://smile.amazon.com/Princeton-Field-Guide-Dinosaurs-Second/dp/0691167664))
 * Hone. *The Tyrannosaur Chronicles: The Biology of the Tyrant Dinosaurs* (ISBN 9781472911254, [Worldcat](https://www.worldcat.org/title/tyrannosaur-chronicles-the-biology-of-the-tyrant-dinosaurs/oclc/951803248), [Amazon](https://smile.amazon.com/Tyrannosaur-Chronicles-Biology-Tyrant-Dinosaurs/dp/1472911253))
 
 ## Textbooks
 
-My son asks so many questions about dinosaurs that I decided I had to get out ahead of him by reading some serious books about dinosaurs and other animals. Here's what I found along those lines.
+My son asks so many questions about dinosaurs that I decided I had to get out
+ahead of him by reading some serious books about dinosaurs and other animals.
+Here's what I found along those lines.
 
 I don't have much background in anatomy, and these contain lots of terminology
 that I'm not familiar with. If you're in the same boat, then Kardong's
@@ -199,7 +217,13 @@ vertebrate anatomy book (ISBN 9780073040585,
 [Amazon](https://smile.amazon.com/dp/0073040584))
 should be helpful. (It's an excellent book in any case.)
 
-* Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history* - Excellent and entertaining overview of dinosaurs. Begins with an good overview of the different classifications of dinosaurs, discussing their features and cladograms, with a particular emphasis on what they ate. Has comparative illustrations of the skulls of many species.
+* Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history*
+
+  Excellent and entertaining overview of dinosaurs. Begins with an good
+  overview of the different classifications of dinosaurs, discussing their
+  features and cladograms, with a particular emphasis on what they ate. Has
+  comparative illustrations of the skulls of many species.
+
   * 3e/2016: ISBN 9781107135376 (HC) / 9781316501153 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/936687221), [Amazon HC](https://smile.amazon.com/dp/1107135370), [Amazon PB](https://smile.amazon.com/dp/1316501159)
   * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
   * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
