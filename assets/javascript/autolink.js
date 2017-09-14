@@ -108,6 +108,9 @@ js_includes:
         return; // asin is already populated
       }
       var href = $a.attr("href");
+      if (!href) {
+        return; // some links don't have an href (e.g. an ID-only anchor)
+      }
       var azLink = parseAmazonLink(href);
       if (azLink) {
         $a.attr("data-asin", azLink.asin); // save the ASIN separately
