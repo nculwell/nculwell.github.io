@@ -29,7 +29,7 @@ js_includes:
   };
 
   // To be populated by queries.
-  var _aaLinksByHost = {};
+  var _aaLinksByHost;
   var _userCountryCode;
 
   // Mutable state.
@@ -131,7 +131,7 @@ js_includes:
     $("a[data-asin]").each(function(_, a) {
       var $a = $(a);
       var asin = $a.attr("data-asin");
-      var aaLink = _aaLinksByHost[selectedHost][asin];
+      var aaLink = _aaLinksByHost[selectedHost] && _aaLinksByHost[selectedHost][asin];
       if (aaLink) {
         //console.log("Replacing link: " + aaLink);
         $a.attr("href", aaLink);
