@@ -52,10 +52,35 @@ This is a list of dinosaur/prehistory books that we've liked.
 
   Omnibus editions of all Modern Publishing books. They are out-of-date (1980s) and the illustrations are sometimes goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's story book I can think of that features the protagonist being killed and devoured in the final pages. There's a pretty large number of books in the series but I think all of them are collected in the four omnibus volumes that I list here.
 
-  * Dinosaurs and Prehistoric Creatures (ISBN 1561447730, [Worldcat](https://www.worldcat.org/title/dinosaurs-and-prehistoric-creatures/oclc/18044792), [Amazon](https://smile.amazon.com/dp/1561447730))
-  * Colossal Book of Dinosaurs (ISBN 1561447757, [Worldcat](https://www.worldcat.org/title/colossal-book-of-dinosaurs-featuring-the-dinosaur-dictionary/oclc/38498607), [Amazon](https://smile.amazon.com/dp/1561447757))
-  * Mammoth Book of Dinosaurs (ISBN 1561447765, [WC](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/868182676), [Amazon](https://smile.amazon.com/dp/1561447765)
-  * Dinosaurs Of The Land, Sea And Air (ISBN 1561447749, [WC](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515), [Amazon](https://smile.amazon.com/dp/1561447749))
+  * Dinosaurs and Prehistoric Creatures (ISBN 1561447730,
+    [Worldcat](https://www.worldcat.org/title/dinosaurs-and-prehistoric-creatures/oclc/18044792),
+    [Amazon](https://smile.amazon.com/dp/1561447730))
+
+    Ankylosaurus, Brachiosaurus, Dilophosaurus, Dimetrodon, Diplodocus,
+    Plesiosaurus, Protoceratops, Pteranodon, Stegosaurus, Tyrannosaurus
+
+  * Colossal Book of Dinosaurs (ISBN 1561447757,
+    [Worldcat](https://www.worldcat.org/title/colossal-book-of-dinosaurs-featuring-the-dinosaur-dictionary/oclc/38498607),
+    [Amazon](https://smile.amazon.com/dp/1561447757))
+
+    Anatosaurus ([AKA Edmontosaurus](https://en.wikipedia.org/wiki/Edmontosaurus_annectens#Anatosaurus_to_the_present)),
+    Deinonychus, Pachycephalosaurus, Psittacosaurus, Rutiodon, Scolosaurus, Spinosaurus
+
+  * Mammoth Book of Dinosaurs (Featuring Ice Age Creatures) (ISBN 1561447765,
+    [Worldcat](https://www.worldcat.org/title/mammoth-book-of-dinosaurs/oclc/868182676),
+    [Amazon](https://smile.amazon.com/dp/1561447765)
+
+    Dinosaurs: Albertosaurus, Corythosaurus, Deinosuchus, Nothosaurus, Parasaurolophus, Struthiomimus
+
+    Ice Age Creatures: Glyptodon, Mastodon, Saber Tooth Tiger, Woolly Rhinoceros
+
+  * Dinosaurs Of The Land, Sea And Air (ISBN 1561447749,
+    [Worldcat](https://www.worldcat.org/title/dinosaurs-of-the-land-sea-and-air/oclc/609080515),
+    [Amazon](https://smile.amazon.com/dp/1561447749))
+
+    Allosaurus, Archaeopteryx, Brontosaurus, Chasmosaurus, Dimorphodon,
+    Hypsolophodon, Ichthyosaurus, Iguandon, Mamenchisaurus, Triceratops
+
   * Images from various stories in the series:
 
     [![Tyrannosaurus](/assets/img/IMG_20170910_074715039_cropped.thumb.jpg)](/assets/img/IMG_20170910_074715039_cropped.large.jpg)
@@ -133,17 +158,17 @@ This is a list of dinosaur/prehistory books that we've liked.
   One criticism I have is that some of the images are clearly old and
   out-of-date even though this is a recent book (for example the Spinosaurus).
 
-* Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([A](https://smile.amazon.com/dp/143582802X))
+* Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([Amazon](https://smile.amazon.com/dp/143582802X))
 
   Story of the life of a Mamenchisaurus from birth to death to fossilization.
   This book is fairly brief, and each two-page spread shows a scene in the
   dinosaur's life. It is nicely illustrated and thought-provoking.
 
 * Zoehfeld and Washburn (Let's Read and Find Out Science) - Excellent book that each focus on a fairly narrow topic.
-  * Where did dinosaurs come from? ([w](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [a](https://smile.amazon.com/dp/0064452166)) - History of evolution up until the dinosaurs.
-  * Dinosaurs big and small ([w](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [a](https://smile.amazon.com/dp/0064451828)) - Overview of various dinosaurs.
+  * Where did dinosaurs come from? ([Worldcat](https://www.worldcat.org/title/where-did-dinosaurs-come-from/oclc/813919873), [Amazon](https://smile.amazon.com/dp/0064452166)) - History of evolution up until the dinosaurs.
+  * Dinosaurs big and small ([Worldcat](https://www.worldcat.org/title/dinosaurs-big-and-small/oclc/966744777), [Amazon](https://smile.amazon.com/dp/0064451828)) - Overview of various dinosaurs.
   * etc.
-* Life-size dinosaurs / Bergen, David ([w](https://www.worldcat.org/title/life-size-dinosaurs/oclc/56389198), [a](https://smile.amazon.com/dp/140271775X))
+* Life-size dinosaurs / Bergen, David ([Worldcat](https://www.worldcat.org/title/life-size-dinosaurs/oclc/56389198), [Amazon](https://smile.amazon.com/dp/140271775X))
 
 * Hannah Bonner
   * A Cartoon Prehistory of Life - I appreciated this series a lot because it emphasizes the major periods of evolution rather than individual species. It's a really fresh presentation that I would've liked to spend more time with. However, I found it difficult to explain to my son because it has many humorous cartoons. Jokes are always difficult to explain because it's hard to convey what should and shouldn't be taken literally; because of this, I feel like this is better suited to somewhat older children. Still worth a look for the little ones, but don't expect them to fully appreciate it.
