@@ -162,7 +162,7 @@ This is a list of dinosaur/prehistory books that we've liked.
   [![NG Dinosaurs Barrett - Chasmosaurus](assets/img/IMG_20170910_080142450_cropped.thumb.jpg)](assets/img/IMG_20170910_080142450_cropped.large.jpg)
   [![NG Dinosaurs Barrett - Apatosaurus](assets/img/IMG_20170910_080149161_cropped.thumb.jpg)](assets/img/IMG_20170910_080149161_cropped.large.jpg)
 
-* Dougal Dixon
+* ### Dougal Dixon
 
   Dougal Dixon is a very prolific author of dinosaur books. His books are
   generally pretty good in content but he sometimes makes errors and some
@@ -442,6 +442,25 @@ should be helpful. (It's an excellent book in any case.)
   title. The layout combines photographic images with hand-drawn illustrations.
   I haven't seen the real things yet, I'm just going off of the images I see
   online.
+
+* 4000 Things You Should Know About Animals
+    (2003, ISBN 978-1842363645, [Worldcat](https://www.worldcat.org/isbn/978-1842363645),
+    [Amazon](https://smile.amazon.com/dp/1842363646);
+    2002, ISBN 978-1842361504, [Worldcat](https://www.worldcat.org/isbn/978-1842361504),
+    [Amazon](https://smile.amazon.com/dp/1842361503))
+
+  This was one of our first dinosaur books, so for a while the dinosaur section
+  was a regular part of our reading rotation.  We found it on a clearance shelf
+  at Half Price Books.  It has four sections: Dinosaurs, Birds, Wild Animals,
+  Mammals.  The illustrations are a bit small, and probably mostly stock images
+  (I've definitely seen that Argentinosaurus elsewhere), but there are a lot of
+  them.  There's no coherent text, it's all just a collection of bullet points.
+  Because of this, you wouldn't wanna read it cover-to-cover, but for the kind
+  of browsing that kids like to do it works pretty well; you just turn to
+  whatever page they want and read a few bullet points before they decide to
+  move on.  I don't think I would buy it now that I know so many other great
+  books, but we did read it so much for a while that I figured I should mention
+  it.
 
 {% comment %}
 ## TODO
