@@ -106,19 +106,41 @@ This is a list of dinosaur/prehistory books that we've liked.
       books. (Reusing dinosaur illustrations happens a lot, read enough of these
       books and you'll start to see it all over the
       place!)
-  * Meet the Dinosaurs series - Good books that list and discuss dinosaurs (and non-dinosaurs) of particular classifications.
+  * Meet the Dinosaurs series (illustrated by John Bindon)
+  
+    Good books that list and discuss dinosaurs (and non-dinosaurs) of particular classifications.
+
     * Sea Giants of Dinosaur Time (ISBN 9780822514251,
         [Worldcat](https://www.worldcat.org/title/sea-giants-of-dinosaur-time/oclc/56095792),
         [Amazon](https://smile.amazon.com/dp/0822514257))
-    * <https://www.amazon.com/Smartest-Dinosaurs-Meet/dp/0822513730>
-    * <https://www.amazon.com/Horned-Dinosaurs-Meet-Don-Lessem/dp/0822513706>
-    * <https://www.amazon.com/Armored-Dinosaurs-Meet-Don-Lessem/dp/0822513749>
-    * <https://www.amazon.com/Deadliest-Dinosaurs-Meet/dp/0822514214>
-    * <https://www.amazon.com/Giant-Meat-Eating-Dinosaurs-Meet/dp/0822525720>
-    * <https://www.amazon.com/Duck-Billed-Dinosaurs-Meet-Don-Lessem/dp/0822513692>
-    * <https://www.amazon.com/Giant-Plant-Eating-Dinosaurs-Meet/dp/0822525739>
-    * <https://www.amazon.com/Fastest-Dinosaurs-Meet/dp/0822514222>
-    * <https://www.amazon.com/Feathered-Dinosaurs-Meet-Don-Lessem/dp/0822514230>
+    * The Smartest Dinosaurs (ISBN 978-0822513735,
+        [Worldcat](https://www.worldcat.org/isbn/978-0822513735),
+        [Amazon](https://www.amazon.com/Smartest-Dinosaurs-Meet/dp/0822513730))
+    * Horned Dinosaurs (ISBN 978-0822513704,
+        [Worldcat](https://www.worldcat.org/isbn/978-0822513704),
+        [Amazon](https://www.amazon.com/Horned-Dinosaurs-Meet-Don-Lessem/dp/0822513706))
+    * Armored Dinosaurs (ISBN 978-0822513742,
+        [Worldcat](https://www.worldcat.org/isbn/978-0822513742),
+        [Amazon](https://www.amazon.com/Armored-Dinosaurs-Meet-Don-Lessem/dp/0822513749))
+    * The Deadliest Dinosaurs (ISBN 978-0822514213,
+        [Worldcat](https://www.worldcat.org/isbn/978-0822514213),
+        [Amazon](https://www.amazon.com/Deadliest-Dinosaurs-Meet/dp/0822514214))
+    * Giant Meat-Eating Dinosaurs (ISBN 978-0822525721,
+        [Worldcat](https://www.worldcat.org/isbn/),
+        [Amazon](https://www.amazon.com/Giant-Meat-Eating-Dinosaurs-Meet/dp/0822525720))
+    * Duck-Billed Dinosaurs (ISBN 978-0822513698,
+        [Worldcat](https://www.worldcat.org/isbn/),
+        [Amazon](https://www.amazon.com/Duck-Billed-Dinosaurs-Meet-Don-Lessem/dp/0822513692))
+    * Giant Plant-Eating Dinosaurs (ISBN 978-0822525738,
+        [Worldcat](https://www.worldcat.org/isbn/),
+        [Amazon](https://www.amazon.com/Giant-Plant-Eating-Dinosaurs-Meet/dp/0822525739))
+    * The Fastest Dinosaurs (ISBN 978-0822514220,
+        [Worldcat](https://www.worldcat.org/isbn/),
+        [Amazon](https://www.amazon.com/Fastest-Dinosaurs-Meet/dp/0822514222))
+    * Feathered Dinosaurs (ISBN 978-0822514237,
+        [Worldcat](https://www.worldcat.org/isbn/),
+        [Amazon](https://www.amazon.com/Feathered-Dinosaurs-Meet-Don-Lessem/dp/0822514230))
+
   * Dinosaurs to Dodos: An Encyclopedia of Extinct Animals / Lessem and Sovak (ISBN 9780590316842 HC / 9780590316859 PB, [Worldcat](https://www.worldcat.org/title/dinosaurs-to-dodos-an-encyclopedia-of-extinct-animals/oclc/39281870), [Amazon](https://smile.amazon.com/dp/0590316842)) - A pretty good book with nice pictures, but The Ultimate Dinopedia is newer and has bigger pictures.
 
 * National Geographic Dinosaurs / Paul Barrett (Au), Raul Martin (Ill), Kevin Padian (Ill)
@@ -135,6 +157,10 @@ This is a list of dinosaur/prehistory books that we've liked.
   kid). It also contains lots of two-page spreads of nice dinosaur artwork.
   The text is brief and interesting enough that I can often read all or at
   least most of a page before the 3-year-old audience loses interest.
+
+  [![NG Dinosaurs Barrett - cover](assets/img/IMG_20170910_080128640_cropped.thumb.jpg)](assets/img/IMG_20170910_080128640_cropped.large.jpg)
+  [![NG Dinosaurs Barrett - cover](assets/img/IMG_20170910_080142450_cropped.thumb.jpg)](assets/img/IMG_20170910_080142450_cropped.large.jpg)
+  [![NG Dinosaurs Barrett - cover](assets/img/IMG_20170910_080149161_cropped.thumb.jpg)](assets/img/IMG_20170910_080149161_cropped.large.jpg)
 
 * Dougal Dixon
 
