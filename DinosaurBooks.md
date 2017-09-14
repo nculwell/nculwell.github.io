@@ -76,13 +76,46 @@ library system.
 
 ## More detailed for kids
 
-* Prehistoric World (Usborne) ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088), [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291), [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583), [Amazon/2012](https://smile.amazon.com/dp/140953426X))
+* Prehistoric World (Usborne)
+  ([Worldcat/2000](https://www.worldcat.org/title/usborne-world-history-prehistoric-world/oclc/896783088),
+  [Worldcat/2012](https://www.worldcat.org/title/prehistoric-world/oclc/751835291),
+  [Amazon/2000](https://smile.amazon.com/Prehistoric-World-History-Usborne/dp/0746027583),
+  [Amazon/2012](https://smile.amazon.com/dp/140953426X))
 
-  I loved the pictures in this book and it got read a lot. It goes from the dawn of life through early humans, with plenty of dinosaurs. The 2012 edition appears to be basically a reprint of the 2000 edition with a new cover.
+  I loved the pictures in this book and it got read a lot. It goes from the
+  dawn of life through early humans, with plenty of dinosaurs. The 2012 edition
+  appears to be basically a reprint of the 2000 edition with a new cover.
+  (The 2000 edition, in turn, is a compilation of several older books.)
+  Aspects of it are out of date (e.g. we no longer consider dicynodonts to be
+  reptiles), but I really like how it covers essentially all of earth's natural
+  history, albeit superficially.
+
+* Dinosaurs and Prehistoric Life - Miles Kelly Mini Encyclopedia
+    (2015, ISBN 978-1435156418,
+    [Worldcat](https://www.worldcat.org/isbn/978-1435156418),
+    [Amazon](https://smile.amazon.com/dp/1782096507);
+    2014, ISBN 978-1782096504,
+    [Worldcat](https://www.worldcat.org/isbn/978-1782096504),
+    [Amazon](https://smile.amazon.com/dp/1782096507))
+
+  We probably bought this at a thrift store or something. As a book it's just
+  so-so. What's great about it is that it has thick, laminated pages that a
+  little kid can handle without tearing. It's small (about 7"x5") but thick
+  (384 pages) with lots of stuff in it. When my son was still too young for me
+  to trust him to be left alone with regular books, I'd give him this when he
+  wanted a dinosaur book to look at by himself or just to carry around the
+  house.
 
 * ### Modern Publishing (Rupert Oliver; Ron Wilson; Angela Royston; etc.)
 
-  Omnibus editions of all Modern Publishing books. They are out-of-date (1980s) and the illustrations are sometimes goofy but my kid loves them and he really appreciates the large selection of animals that they cover. A few of the stories are truly memorable, including one (Allosaurus) that is the only children's story book I can think of that features the protagonist being killed and devoured in the final pages. There's a pretty large number of books in the series but I think all of them are collected in the four omnibus volumes that I list here.
+  Omnibus editions of all Modern Publishing books. They are out-of-date (1980s)
+  and the illustrations are sometimes goofy but my kid loves them and he really
+  appreciates the large selection of animals that they cover. A few of the
+  stories are truly memorable, including one (Allosaurus) that is the only
+  children's story book I can think of that features the protagonist being
+  killed and devoured in the final pages. There's a pretty large number of
+  books in the series but I think all of them are collected in the four omnibus
+  volumes that I list here.
 
   * Dinosaurs and Prehistoric Creatures (ISBN 1561447730,
     [Worldcat](https://www.worldcat.org/title/dinosaurs-and-prehistoric-creatures/oclc/18044792),
@@ -129,7 +162,7 @@ library system.
         (1e/2010 ISBN 1426301642,
         [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610),
         [Amazon](https://smile.amazon.com/dp/1426301642);
-         2e/2017 ISBN 1426329059,
+        \[FORTHCOMING] 2e/2017 ISBN 1426329059,
         [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009),
         [Amazon](https://smile.amazon.com/dp/1426329059)) -
       Full-page artwork of each dinosaur in action, along with pronunciation
