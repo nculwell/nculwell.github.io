@@ -33,7 +33,7 @@ $fonts-sans:
   "Segoe UI Emoji",
   "Segoe UI Symbol";
 
-body, p, h1, h2, h3, h4, h5, h6, ul, li, article, header, footer {
+body, p, h1, h2, h3, h4, h5, h6, ul, li, article, header, footer, img, a {
   color: black;
   border: none;
   margin: 0;
@@ -123,5 +123,9 @@ article ul li {
 //  padding-right: 2 * $spacing;
 //  padding-top: $spacing;
 //  padding-bottom: $spacing;
+}
+
+img.demo {
+  max-width: 50%;
 }
 

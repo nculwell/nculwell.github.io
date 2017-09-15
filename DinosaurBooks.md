@@ -4,18 +4,37 @@ title: Dinosaur Books
 
 # Dinosaur Books
 
+<div>
+
+<img src='/assets/img/AllosaurusMnhn_TALL.jpg'
+  style='
+    width: auto;
+    max-width: 35%;
+    max-height: 20em;
+    float: right;
+    margin: 0;
+    padding: 0;
+    margin-left: 1em;
+    margin-bottom: 1em;
+  ' />
+
+<p>
 Not long after my son's second birthday, we introduced him to dinosaurs. He was
 already a big fan of animals, but he wasn't so sure about the dinosaurs at
 first. Over the course of the next few months, though, he got more and more
 excited about them, until at some point he hardly thought about any anything
 else. At this point, we basically live a dinosaur life in this house.
+</p>
 
+<p>
 Since then, we've plowed through just about every book about dinosaurs and
 other prehistoric animals that we could lay our hands on.  As a result, I've
 done a lot of research looking for new books to feed his interest. (To be
 honest, he doesn't usually complain about the books we have, so much of the
 motivation comes from me; I get tired of reading the same books over and over!)
+</p>
 
+<p>
 In this document, I've tried to compile as much as I could recall about the
 books that we've enjoyed, both for my own record and in the hope that someone
 else out there will also be able to take advantage of it and save a bunch of
@@ -27,6 +46,9 @@ will tell you which local libraries have the book you're looking at, and it
 will even give you a link to that book on your local library's website. We
 would never have been able to enjoy all of these books without our great local
 library system.
+</p>
+
+</div>
 
 {% comment %} TODO: Movies, TV shows, coloring books, more music {% endcomment %}
 
@@ -148,14 +170,14 @@ library system.
 
   * Images from various stories in the series:
 
-    [![Tyrannosaurus](/assets/img/IMG_20170910_074715039_cropped.thumb.jpg)](/assets/img/IMG_20170910_074715039_cropped.large.jpg)
-    [![Tyrannosaurus](/assets/img/IMG_20161105_160938748.thumb.jpg)](/assets/img/IMG_20161105_160938748.large.jpg)
-    [![Dilophosaurus](/assets/img/IMG_20161105_161007458.thumb.jpg)](/assets/img/IMG_20161105_161007458.large.jpg)
-    [![Iguanadon](/assets/img/IMG_20161105_161032474.thumb.jpg)](/assets/img/IMG_20161105_161032474.large.jpg)
-    [![Dimetrodon](/assets/img/IMG_20161105_161112233.thumb.jpg)](/assets/img/IMG_20161105_161112233.large.jpg)
-    [![Protoceratops](/assets/img/IMG_20161105_161146765.thumb.jpg)](/assets/img/IMG_20161105_161146765.large.jpg)
-    [![Triceratops](/assets/img/IMG_20161105_161303774.thumb.jpg)](/assets/img/IMG_20161105_161303774.large.jpg)
-    [![Brontosaurus](/assets/img/IMG_20161105_161632390.thumb.jpg)](/assets/img/IMG_20161105_161632390.large.jpg)
+    <a href="/assets/img/IMG_20170910_074715039_cropped.large.jpg"><img class="demo" title="Tyrannosaurus" src="/assets/img/IMG_20170910_074715039_cropped.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_160938748.large.jpg"><img class="demo" title="Tyrannosaurus" src="/assets/img/IMG_20161105_160938748.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161007458.large.jpg"><img class="demo" title="Dilophosaurus" src="/assets/img/IMG_20161105_161007458.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161032474.large.jpg"><img class="demo" title="Iguanadon" src="/assets/img/IMG_20161105_161032474.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161112233.large.jpg"><img class="demo" title="Dimetrodon" src="/assets/img/IMG_20161105_161112233.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161146765.large.jpg"><img class="demo" title="Protoceratops" src="/assets/img/IMG_20161105_161146765.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161303774.large.jpg"><img class="demo" title="Triceratops" src="/assets/img/IMG_20161105_161303774.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161632390.large.jpg"><img class="demo" title="Brontosaurus" src="/assets/img/IMG_20161105_161632390.thumb.jpg" /></a>
 
 * ### Don Lessem
     * The Ultimate Dinopedia / Lessem and Tampesta
@@ -225,9 +247,9 @@ library system.
   The text is brief and interesting enough that I can often read all or at
   least most of a page before the 3-year-old audience loses interest.
 
-  [![NG Dinosaurs Barrett - Cover](assets/img/IMG_20170910_080128640_cropped.thumb.jpg)](assets/img/IMG_20170910_080128640_cropped.large.jpg)
-  [![NG Dinosaurs Barrett - Chasmosaurus](assets/img/IMG_20170910_080142450_cropped.thumb.jpg)](assets/img/IMG_20170910_080142450_cropped.large.jpg)
-  [![NG Dinosaurs Barrett - Apatosaurus](assets/img/IMG_20170910_080149161_cropped.thumb.jpg)](assets/img/IMG_20170910_080149161_cropped.large.jpg)
+  <a href="assets/img/IMG_20170910_080128640_cropped.large.jpg"><img class="demo" title="NG Dinosaurs Barrett - Cover" src="assets/img/IMG_20170910_080128640_cropped.thumb.jpg" /></a>
+  <a href="assets/img/IMG_20170910_080142450_cropped.large.jpg"><img class="demo" title="NG Dinosaurs Barrett - Chasmosaurus" src="assets/img/IMG_20170910_080142450_cropped.thumb.jpg" /></a>
+  <a href="assets/img/IMG_20170910_080149161_cropped.large.jpg"><img class="demo" title="NG Dinosaurs Barrett - Apatosaurus" src="assets/img/IMG_20170910_080149161_cropped.thumb.jpg" /></a>
 
 * ### Dougal Dixon
 
@@ -260,9 +282,9 @@ library system.
   are clearly old and out-of-date even though this is a recent book (for
   example the Spinosaurus).
 
-  [![](/assets/img/IMG_20170910_074533540_cropped.thumb.jpg)](/assets/img/IMG_20170910_074533540_cropped.large.jpg)
-  [![](/assets/img/IMG_20170910_074605661_cropped.thumb.jpg)](/assets/img/IMG_20170910_074605661_cropped.large.jpg)
-  [![](/assets/img/IMG_20170910_074618706_cropped.thumb.jpg)](/assets/img/IMG_20170910_074618706_cropped.large.jpg)
+  <a href="/assets/img/IMG_20170910_074533540_cropped.large.jpg"><img class="demo" title="" src="/assets/img/IMG_20170910_074533540_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_074605661_cropped.large.jpg"><img class="demo" title="" src="/assets/img/IMG_20170910_074605661_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_074618706_cropped.large.jpg"><img class="demo" title="" src="/assets/img/IMG_20170910_074618706_cropped.thumb.jpg" /></a>
 
 * Dinosaurs Through Time / Harris, Nicholas ; Scott, Peter David ; Dennis, Peter ([Amazon](https://smile.amazon.com/dp/143582802X))
 
@@ -388,9 +410,9 @@ should be helpful. (It's an excellent book in any case.)
   * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
   * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
 
-    [![Fastovsky and Weishampel: Cover](/assets/img/IMG_20170910_075525835_cropped.thumb.jpg)](/assets/img/IMG_20170910_075525835_cropped.large.jpg)
-    [![Fastovsky and Weishampel: p. 146](/assets/img/IMG_20170910_075538194_cropped.thumb.jpg)](/assets/img/IMG_20170910_075538194_cropped.large.jpg)
-    [![Fastovsky and Weishampel: p. 148](/assets/img/IMG_20170910_075545405_cropped.thumb.jpg)](/assets/img/IMG_20170910_075545405_cropped.large.jpg)
+    <a href="/assets/img/IMG_20170910_075525835_cropped.large.jpg"><img class="demo" title="Fastovsky and Weishampel: Cover" src="/assets/img/IMG_20170910_075525835_cropped.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20170910_075538194_cropped.large.jpg"><img class="demo" title="Fastovsky and Weishampel: p. 146" src="/assets/img/IMG_20170910_075538194_cropped.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20170910_075545405_cropped.large.jpg"><img class="demo" title="Fastovsky and Weishampel: p. 148" src="/assets/img/IMG_20170910_075545405_cropped.thumb.jpg" /></a>
 
 * Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN
   9781588345820,
@@ -399,8 +421,8 @@ should be helpful. (It's an excellent book in any case.)
   particular dinosaurs, it's more of a thematic overview. I liked the chapter
   on the K-Tr extinction.
 
-  [![Dinosaurs:HTLAE - Cover](http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.thumb.jpg)](http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.large.jpg)
-  [![Dinosaurs:HTLAE - Cover](http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.thumb.jpg)](http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.large.jpg)
+  <a href="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.large.jpg"><img class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.thumb.jpg" /></a>
+  <a href="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.large.jpg"><img class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.thumb.jpg" /></a>
 
 * Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
 * Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
@@ -464,23 +486,23 @@ should be helpful. (It's an excellent book in any case.)
 
   Be aware that this is a **big**, heavy book. Little kids will not be able to hold it comfortably on their laps.
 
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075117020_cropped.thumb.jpg)](/assets/img/IMG_20170910_075117020_cropped.large.jpg)
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075710153_cropped.thumb.jpg)](/assets/img/IMG_20170910_075710153_cropped.large.jpg)
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075213624_cropped.thumb.jpg)](/assets/img/IMG_20170910_075213624_cropped.large.jpg)
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075247954_cropped.thumb.jpg)](/assets/img/IMG_20170910_075247954_cropped.large.jpg)
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075308671_cropped.thumb.jpg)](/assets/img/IMG_20170910_075308671_cropped.large.jpg)
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075315048_cropped.thumb.jpg)](/assets/img/IMG_20170910_075315048_cropped.large.jpg)
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075330447_cropped.thumb.jpg)](/assets/img/IMG_20170910_075330447_cropped.large.jpg)
-  [![DK-Smithsonian Natural History](/assets/img/IMG_20170910_075440242_cropped.thumb.jpg)](/assets/img/IMG_20170910_075440242_cropped.large.jpg)
+  <a href="/assets/img/IMG_20170910_075117020_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075117020_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075710153_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075710153_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075213624_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075213624_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075247954_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075247954_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075308671_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075308671_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075315048_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075315048_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075330447_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075330447_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075440242_cropped.large.jpg"><img class="demo" title="DK-Smithsonian Natural History" src="/assets/img/IMG_20170910_075440242_cropped.thumb.jpg" /></a>
 
 * National Geographic Prehistoric Mammals / Alan Turner, Mauricio Anton (illustrator)
 
   A very nice book about prehistoric mammals that follows the same basic design as [Paul Barrett's dinosaurs book](#barrett-ng-dinosaurs).
 
-  [![](/assets/img/IMG_20170910_075813381_cropped.thumb.jpg)](/assets/img/IMG_20170910_075813381_cropped.large.jpg)
-  [![](/assets/img/IMG_20170910_075800126_cropped.thumb.jpg)](/assets/img/IMG_20170910_075800126_cropped.large.jpg)
-  [![](/assets/img/IMG_20170910_075848935_cropped.thumb.jpg)](/assets/img/IMG_20170910_075848935_cropped.large.jpg)
-  [![](/assets/img/IMG_20170910_075856590_cropped.thumb.jpg)](/assets/img/IMG_20170910_075856590_cropped.large.jpg)
+  <a href="/assets/img/IMG_20170910_075813381_cropped.large.jpg"><img class="demo" title="" src="/assets/img/IMG_20170910_075813381_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075800126_cropped.large.jpg"><img class="demo" title="" src="/assets/img/IMG_20170910_075800126_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075848935_cropped.large.jpg"><img class="demo" title="" src="/assets/img/IMG_20170910_075848935_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075856590_cropped.large.jpg"><img class="demo" title="" src="/assets/img/IMG_20170910_075856590_cropped.thumb.jpg" /></a>
 
 * Usborne Mysteries & Marvels of Nature (1989, ISBN 978-0746004210,
     [Worldcat](https://www.worldcat.org/isbn/978-0746004210),
