@@ -1,5 +1,6 @@
 ---
 title: Home
+nolink: true
 ---
 
 ## Features

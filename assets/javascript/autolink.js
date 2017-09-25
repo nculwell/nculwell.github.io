@@ -12,6 +12,23 @@ js_includes:
 
 "use strict";
 
+function getTextNodesIn(node, includeWhitespaceNodes) {
+  var textNodes = [];
+  function getTextNodes(node) {
+    if (node.nodeType == 3) {
+      if (includeWhitespaceNodes || /\S/.test(node.nodeValue)) {
+        textNodes.push(node);
+      }
+    } else {
+      for (var i = 0, len = node.childNodes.length; i < len; ++i) {
+        getTextNodes(node.childNodes[i]);
+      }
+    }
+  }
+  getTextNodes(node);
+  return textNodes;
+}
+
 (function() {
 
   // Built-in values.
@@ -50,8 +67,13 @@ js_includes:
       extractLinkAsins();
       makeAmazonSelector();
       amazonSelectorChange();
+      activateTextLinks();
     }
     window.ret = { _aaLinksByHost: _aaLinksByHost, _userCountryCode: _userCountryCode };
+  }
+
+  function activateTextLinks() {
+    var textNodes = getTextNodesIn("body");
   }
 
   function getUserCountry() {
