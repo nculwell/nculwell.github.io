@@ -220,6 +220,7 @@ library system.
       class="demo" title="Brontosaurus" src="/assets/img/IMG_20161105_161632390.thumb.jpg" /></a>
 
 * ### Don Lessem
+
     * The Ultimate Dinopedia / Lessem and Tampesta
         (1e/2010 ISBN 1426301642,
         [Worldcat](https://www.worldcat.org/title/ultimate-dinopedia-the-most-complete-dinosaur-reference-ever/oclc/769762610),
@@ -235,6 +236,12 @@ library system.
       books. (Reusing dinosaur illustrations happens a lot, read enough of these
       books and you'll start to see it all over the
       place!)
+
+  * The Dinosaur Atlas <span class='book' data-edition='2004' data-isbn='1552978303' data-oclc='52809002' data-asin='1552635406' />
+
+    I haven't seen this yet, but I love the idea. We talk a lot about where
+    dinosaurs lived, but it would be nice to see them on a map.
+
   * Meet the Dinosaurs series (illustrated by John Bindon)
   
     Good books that list and discuss dinosaurs (and non-dinosaurs) of particular classifications.

@@ -64,16 +64,49 @@ function getTextNodesIn(node, includeWhitespaceNodes) {
   // Proceed when all onLoad tasks are done.
   function loadComplete() {
     if (_aaLinksByHost && _userCountryCode) {
+      expandBookData();
       extractLinkAsins();
       makeAmazonSelector();
       amazonSelectorChange();
-      activateTextLinks();
+      //activateTextLinks();
     }
     window.ret = { _aaLinksByHost: _aaLinksByHost, _userCountryCode: _userCountryCode };
   }
 
   function activateTextLinks() {
     var textNodes = getTextNodesIn("body");
+  }
+
+  function expandBookData() {
+    $.each($("span.book"), function(_, spanbook) {
+      var $s = $(spanbook);
+      var edition = $s.attr('data-edition');
+      var isbn = $s.attr('data-isbn');
+      var oclc = $s.attr('data-oclc');
+      var asin = $s.attr('data-asin');
+      var html = "";
+      if (edition) {
+        html += edition + ": ";
+      }
+      if (isbn) {
+        if (oclc) {
+          html += "ISBN " + isbn;
+        } else {
+          html += "<a href='https://www.worldcat.org/isbn/" + isbn + "'>ISBN " + isbn + "</a>";
+        }
+      }
+      if (oclc) {
+        if (html) html += ", ";
+        html += "<a href='https://www.worldcat.org/oclc/" + oclc + "'>Worldcat</a>";
+      }
+      if (asin) {
+        if (html) html += ", ";
+        html += "<a data-asin='" + asin + "' href='https://smile.amazon.com/dp/" + asin + "'>Amazon</a>";
+      }
+      if (html) {
+        $s.html("(" + html + ")");
+      }
+    });
   }
 
   function getUserCountry() {
@@ -149,7 +182,7 @@ function getTextNodesIn(node, includeWhitespaceNodes) {
 
   function replaceLinks() {
     var selectedHost = amazonHostsByCountry[_selectedCountryCode];
-    var replacementHost = addAmazonHostPrefix(selectedHost);
+    var countryHost = addAmazonHostPrefix(selectedHost);
     $("a[data-asin]").each(function(_, a) {
       var $a = $(a);
       var asin = $a.attr("data-asin");
@@ -159,10 +192,14 @@ function getTextNodesIn(node, includeWhitespaceNodes) {
         $a.attr("href", aaLink);
       } else {
         // Use original link, but for the right country.
-        //console.log("replacementHost: " + replacementHost);
+        //console.log("countryHost: " + countryHost);
         //console.log("href: " + href);
         var srcHref = $a.attr("data-src-href");
-        var countryLink = srcHref.replace(new RegExp("/[^/]*amazon\\.com/"), "/" + replacementHost+ "/");
+        var countryLink;
+        if (srcHref)
+          countryLink = srcHref.replace(new RegExp("/[^/]*amazon\\.com/"), "/" + countryHost + "/");
+        else
+          countryLink = "https://" + countryHost + "/dp/" + asin;
         //console.log("countryLink: " + countryLink);
         $a.attr("href", countryLink);
         console.log("Unmatched ASIN: " + asin);
