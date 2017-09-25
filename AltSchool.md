@@ -28,7 +28,13 @@ I haven't read most of these yet; this is really just a collection of ideas for 
   * [Ancient World History/Amazon](https://smile.amazon.com/Ancient-World-History-Usborne/dp/0746027605)
   * [Medieval/Amazon](https://smile.amazon.com/Medieval-World-History-Usborne/dp/0746027621)
   * [The Last 500 Years/Amazon](https://smile.amazon.com/Last-Years-Usborne-World-History/dp/0439274257)
-* Usborne Atlas of World History - Looks excellent.
+* Kingfisher Atlas of World History (
+  ISBN 978-0753472941, ASIN 0753472945
+  ) -
+* Kingfisher Atlas of World History (
+  2016 Revised, ISBN 978-0753472941, ASIN 0753472945
+  ) -
+  Looks excellent.
 * Usborne - Why are people different?
 * <https://smile.amazon.com/dp/1409516806>
 * <https://smile.amazon.com/Evolution-Human-Story-DK/dp/0756686733>
@@ -42,6 +48,21 @@ I haven't read most of these yet; this is really just a collection of ideas for 
 * <https://smile.amazon.com/Prehistoric-Life-Definitive-Visual-History/dp/075669910X>
 
 * <https://smile.amazon.com/Egyptian-Goddesses-Penguin-Young-Readers/dp/0448420295>
+* DK series Big Ideas Simply Explained; How X Works
+* Cartoon Guide to X
+* Interesting-looking history books for kids
+
+  * Two Miserable Presidents
+    (2015, [ISBN 978-1250075789](https://www.worldcat.org/isbn/978-1250075789),
+    [Amazon](https://smile.amazon.com/dp/1250075785))
+  * Wayne Vansant, Normandy
+    (2012, [A](https://smile.amazon.com/dp/0760343926))
+  * Dwight Jon Zimmerman, The Vietnam War: A Graphic History Hardcover
+    ([A](https://smile.amazon.com/Vietnam-War-Dwight-Jon-Zimmerman/dp/0809094959))
+  * Ben Thompson, Guts & Glory series
+
+* <https://smile.amazon.com/dp/1579128327>
+  * <https://smile.amazon.com/Childs-Introduction-Natural-History-Fascinating/dp/0316311367>
 
 {% include javascript.html %}
 
