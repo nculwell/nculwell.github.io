@@ -56,11 +56,13 @@ library system.
 
 ## Baby books, dinosaur-themed stories
 
-* Stomp, Dinosaur, Stomp / Margaret Mayo ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247), [Amazon](https://smile.amazon.com/dp/140830385X))
-* Dinosaur Days / Joyce Milton
-  (1985 edition: [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206),
-  [Amazon](https://smile.amazon.com/dp/B00430CY9I);
-  2014 edition: [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143),
+* Stomp, Dinosaur, Stomp / Margaret Mayo
+  ([Worldcat](https://www.worldcat.org/title/stomp-dinosaur-stomp/oclc/988922247),
+  [Amazon](https://smile.amazon.com/dp/140830385X))
+* Dinosaur Days / Joyce Milton (1985 edition:
+  [Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/758978206),
+  [Amazon](https://smile.amazon.com/dp/B00430CY9I); 2014 edition:
+  [Worldcat](https://www.worldcat.org/title/dinosaur-days/oclc/890680143),
   [Amazon](https://smile.amazon.com/dp/0385379234))
   
   The 1985 edition of this book had a lot of staying power early on in our
@@ -77,24 +79,54 @@ library system.
   times, and it still comes out occasionally; on the merits the stories aren't
   that great objectively but they have a certain charm to them.
 
-* How Do Dinosaurs...? / Yolen, Jane; Teague, Mark - Just about all of these books follow the same template: most of the book lists ways in which "dinosaurs" might misbehave (posed as question), followed by some examples of how they behave correctly. The main draw is the amusing illustrations of huge dinosaurs doing things that children do. These are probably the most popular recent dinosaur books, and they are available as board books.
-  * How Do Dinosaurs Say Goodnight? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120), [Amazon](https://smile.amazon.com/dp/0590316818))
-  * How Do Dinosaurs Go To School? ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-go-to-school/oclc/809199976), [Amazon](https://smile.amazon.com/How-Do-Dinosaurs-Go-School/dp/0439020816))
+* How Do Dinosaurs...? / Yolen, Jane; Teague, Mark - Just about all of these
+  books follow the same template: most of the book lists ways in which
+  "dinosaurs" might misbehave (posed as question), followed by some examples of
+  how they behave correctly. The main draw is the amusing illustrations of huge
+  dinosaurs doing things that children do. These are probably the most popular
+  recent dinosaur books, and they are available as board books.
+  * How Do Dinosaurs Say Goodnight?
+    ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120),
+    [Amazon](https://smile.amazon.com/dp/0590316818))
+  * How Do Dinosaurs Go To School?
+    ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-go-to-school/oclc/809199976),
+    [Amazon](https://smile.amazon.com/How-Do-Dinosaurs-Go-School/dp/0439020816))
   * etc.
-* All aboard the dinotrain / Lund, Deb - This is a silly story about dinosaurs riding on a train. Trains plus dinosaurs is a winning combo for a lot of kids.
-* Chalk / Thomson, Bill - One of Bill Thomson's stories that's told entirely in pictures. A group of kids finds a piece of chalk that makes what they draw come to life. His other books that we read (Fossil and The Typewriter) were good also. His art style is very realistic.
-* Captain Raptor and the Moon Mystery / O'Malley, Kevin - A comic book space opera for children, featuring a swashbuckling therapod protagonist. There's another, Captain Raptor and the Space Pirates, but Moon Mystery is a bit more interesting in my opinion and the two are extremely similar in structure. The art style is very catchy. I find ordinary comic books (DC/Marvel) impossible to read to a young child because of how the frames and text work together, but I didn't have that problem with these.
-* Meet the Dinotrux / Gall, Chris - Dinosaurs that are trucks. They behave very badly. There are three or four of these books, we read them all.
-* Ally-Saurus & the first day of school / Torrey, Rich - About a girl who pretends to be a dinosaur.
-* Dinosaur round-up (DC Super Friends) - An episode of Super Friends involving dinosaurs. These children's DC comics are manageable, they are formatted like regular children's book instead of like comic books.
+
+* All aboard the dinotrain / Lund, Deb - This is a silly story about dinosaurs
+  riding on a train. Trains plus dinosaurs is a winning combo for a lot of
+  kids.
+* Chalk / Thomson, Bill - One of Bill Thomson's stories that's told entirely in
+  pictures. A group of kids finds a piece of chalk that makes what they draw
+  come to life. His other books that we read (Fossil and The Typewriter) were
+  good also. His art style is very realistic.
+* Captain Raptor and the Moon Mystery / O'Malley, Kevin - A comic book space
+  opera for children, featuring a swashbuckling therapod protagonist. There's
+  another, Captain Raptor and the Space Pirates, but Moon Mystery is a bit more
+  interesting in my opinion and the two are extremely similar in structure. The
+  art style is very catchy. I find ordinary comic books (DC/Marvel) impossible
+  to read to a young child because of how the frames and text work together,
+  but I didn't have that problem with these.
+* Meet the Dinotrux / Gall, Chris - Dinosaurs that are trucks. They behave very
+  badly. There are three or four of these books, we read them all.
+* Ally-Saurus & the first day of school / Torrey, Rich - About a girl who
+  pretends to be a dinosaur.
+* Dinosaur round-up (DC Super Friends) - An episode of Super Friends involving
+  dinosaurs. These children's DC comics are manageable, they are formatted like
+  regular children's book instead of like comic books.
 * Time for school, little dinosaur / Herman, Gail ; Fleming, Michael
-* A trip to dinosaur time / Foreman, Michael ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568)) - Child travels back through time and sees dinosaurs.
-* Danny and the Dinosaur / Hoff ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837), [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479), [Amazon](https://smile.amazon.com/dp/0064440028)) -
-  This is a classic book (1958). Personally I find it tiresome but I was forced to
-  read it many times and I can't deny the fact of its appeal even if I don't
-  relate. I suppose part of it is that, as a dinosaur enthusiast, I take exception to
-  the dinosaur in the book being some generic "dinosaur" that doesn't really resemble
-  any real-life dinosaur species.
+* A trip to dinosaur time / Foreman, Michael
+  ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568))
+  - Child travels back through time and sees dinosaurs.
+* Danny and the Dinosaur / Hoff
+  ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837),
+  [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479),
+  [Amazon](https://smile.amazon.com/dp/0064440028)) - This is a classic book
+  (1958). Personally I find it tiresome but I was forced to read it many times
+  and I can't deny the fact of its appeal even if I don't relate. I suppose
+  part of it is that, as a dinosaur enthusiast, I take exception to the
+  dinosaur in the book being some generic "dinosaur" that doesn't really
+  resemble any real-life dinosaur species.
 
 ## More detailed for kids
 
@@ -170,14 +202,22 @@ library system.
 
   * Images from various stories in the series:
 
-    <a href="/assets/img/IMG_20170910_074715039_cropped.large.jpg"><img class="demo" title="Tyrannosaurus" src="/assets/img/IMG_20170910_074715039_cropped.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20161105_160938748.large.jpg"><img class="demo" title="Tyrannosaurus" src="/assets/img/IMG_20161105_160938748.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20161105_161007458.large.jpg"><img class="demo" title="Dilophosaurus" src="/assets/img/IMG_20161105_161007458.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20161105_161032474.large.jpg"><img class="demo" title="Iguanadon" src="/assets/img/IMG_20161105_161032474.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20161105_161112233.large.jpg"><img class="demo" title="Dimetrodon" src="/assets/img/IMG_20161105_161112233.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20161105_161146765.large.jpg"><img class="demo" title="Protoceratops" src="/assets/img/IMG_20161105_161146765.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20161105_161303774.large.jpg"><img class="demo" title="Triceratops" src="/assets/img/IMG_20161105_161303774.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20161105_161632390.large.jpg"><img class="demo" title="Brontosaurus" src="/assets/img/IMG_20161105_161632390.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20170910_074715039_cropped.large.jpg"><img
+      class="demo" title="Tyrannosaurus" src="/assets/img/IMG_20170910_074715039_cropped.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_160938748.large.jpg"><img
+      class="demo" title="Tyrannosaurus" src="/assets/img/IMG_20161105_160938748.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161007458.large.jpg"><img
+      class="demo" title="Dilophosaurus" src="/assets/img/IMG_20161105_161007458.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161032474.large.jpg"><img
+      class="demo" title="Iguanadon" src="/assets/img/IMG_20161105_161032474.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161112233.large.jpg"><img
+      class="demo" title="Dimetrodon" src="/assets/img/IMG_20161105_161112233.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161146765.large.jpg"><img
+      class="demo" title="Protoceratops" src="/assets/img/IMG_20161105_161146765.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161303774.large.jpg"><img
+      class="demo" title="Triceratops" src="/assets/img/IMG_20161105_161303774.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20161105_161632390.large.jpg"><img
+      class="demo" title="Brontosaurus" src="/assets/img/IMG_20161105_161632390.thumb.jpg" /></a>
 
 * ### Don Lessem
     * The Ultimate Dinopedia / Lessem and Tampesta
