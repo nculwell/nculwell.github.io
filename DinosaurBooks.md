@@ -73,18 +73,22 @@ library system.
 
 * Dinosaurs: 4 favorite stories (Scholastic Reader Collection)
   ([Worldcat](https://www.worldcat.org/title/dinosaurs/oclc/954612918),
-  [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513)) -
+  [Amazon](https://smile.amazon.com/Dinosaurs-Grace-Maccarone/dp/0439932513))
+
   As the title says, a collection of four (older) books. Two have very basic
   artwork and the other two have pretty detailed art. We read these a lot of
   times, and it still comes out occasionally; on the merits the stories aren't
   that great objectively but they have a certain charm to them.
 
-* How Do Dinosaurs...? / Yolen, Jane; Teague, Mark - Just about all of these
-  books follow the same template: most of the book lists ways in which
-  "dinosaurs" might misbehave (posed as question), followed by some examples of
-  how they behave correctly. The main draw is the amusing illustrations of huge
-  dinosaurs doing things that children do. These are probably the most popular
-  recent dinosaur books, and they are available as board books.
+* How Do Dinosaurs...? / Yolen, Jane; Teague, Mark
+
+  Just about all of these books follow the same template: most of the book
+  lists ways in which "dinosaurs" might misbehave (posed as question), followed
+  by some examples of how they behave correctly. The main draw is the amusing
+  illustrations of huge dinosaurs doing things that children do. These are
+  probably the most popular recent dinosaur books, and they are available as
+  board books.
+
   * How Do Dinosaurs Say Goodnight?
     ([Worldcat](https://www.worldcat.org/title/how-do-dinosaurs-say-good-night/oclc/712597120),
     [Amazon](https://smile.amazon.com/dp/0590316818))
@@ -93,40 +97,59 @@ library system.
     [Amazon](https://smile.amazon.com/How-Do-Dinosaurs-Go-School/dp/0439020816))
   * etc.
 
-* All aboard the dinotrain / Lund, Deb - This is a silly story about dinosaurs
-  riding on a train. Trains plus dinosaurs is a winning combo for a lot of
-  kids.
-* Chalk / Thomson, Bill - One of Bill Thomson's stories that's told entirely in
-  pictures. A group of kids finds a piece of chalk that makes what they draw
-  come to life. His other books that we read (Fossil and The Typewriter) were
-  good also. His art style is very realistic.
-* Captain Raptor and the Moon Mystery / O'Malley, Kevin - A comic book space
-  opera for children, featuring a swashbuckling therapod protagonist. There's
-  another, Captain Raptor and the Space Pirates, but Moon Mystery is a bit more
-  interesting in my opinion and the two are extremely similar in structure. The
-  art style is very catchy. I find ordinary comic books (DC/Marvel) impossible
-  to read to a young child because of how the frames and text work together,
-  but I didn't have that problem with these.
-* Meet the Dinotrux / Gall, Chris - Dinosaurs that are trucks. They behave very
+* All aboard the dinotrain / Lund, Deb
+
+  This is a silly story about dinosaurs riding on a train. Trains plus
+  dinosaurs is a winning combo for a lot of kids.
+
+* Chalk / Thomson, Bill
+
+  One of Bill Thomson's stories that's told entirely in pictures. A group of
+  kids finds a piece of chalk that makes what they draw come to life. His other
+  books that we read (Fossil and The Typewriter) were good also. His art style
+  is very realistic.
+
+* Captain Raptor and the Moon Mystery / O'Malley, Kevin
+
+  A comic book space opera for children, featuring a swashbuckling therapod
+  protagonist. There's another, Captain Raptor and the Space Pirates, but Moon
+  Mystery is a bit more interesting in my opinion and the two are extremely
+  similar in structure. The art style is very catchy. I find ordinary comic
+  books (DC/Marvel) impossible to read to a young child because of how the
+  frames and text work together, but I didn't have that problem with these.
+
+* Meet the Dinotrux / Gall, Chris
+
+  Dinosaurs that are trucks. They behave very
   badly. There are three or four of these books, we read them all.
-* Ally-Saurus & the first day of school / Torrey, Rich - About a girl who
-  pretends to be a dinosaur.
-* Dinosaur round-up (DC Super Friends) - An episode of Super Friends involving
-  dinosaurs. These children's DC comics are manageable, they are formatted like
-  regular children's book instead of like comic books.
+
+* Ally-Saurus & the first day of school / Torrey, Rich
+
+  About a girl who pretends to be a dinosaur.
+
+* Dinosaur round-up (DC Super Friends)
+
+  An episode of Super Friends involving dinosaurs. These children's DC comics
+  are manageable, they are formatted like regular children's book instead of
+  like comic books.
+
 * Time for school, little dinosaur / Herman, Gail ; Fleming, Michael
+
 * A trip to dinosaur time / Foreman, Michael
   ([Worldcat](https://www.worldcat.org/title/trip-to-dinosaur-time/oclc/50936568))
-  - Child travels back through time and sees dinosaurs.
+ 
+  Child travels back through time and sees dinosaurs.
+
 * Danny and the Dinosaur / Hoff
   ([Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur/oclc/965731837),
   [Worldcat](https://www.worldcat.org/title/danny-and-the-dinosaur-treasury/oclc/123498479),
-  [Amazon](https://smile.amazon.com/dp/0064440028)) - This is a classic book
-  (1958). Personally I find it tiresome but I was forced to read it many times
-  and I can't deny the fact of its appeal even if I don't relate. I suppose
-  part of it is that, as a dinosaur enthusiast, I take exception to the
-  dinosaur in the book being some generic "dinosaur" that doesn't really
-  resemble any real-life dinosaur species.
+  [Amazon](https://smile.amazon.com/dp/0064440028))
+
+  This is a classic book (1958). Personally I find it tiresome but I was forced
+  to read it many times and I can't deny the fact of its appeal even if I don't
+  relate. I suppose part of it is that, as a dinosaur enthusiast, I take
+  exception to the dinosaur in the book being some generic "dinosaur" that
+  doesn't really resemble any real-life dinosaur species.
 
 ## More detailed for kids
 
@@ -227,7 +250,8 @@ library system.
         [Amazon](https://smile.amazon.com/dp/1426301642);
         \[FORTHCOMING] 2e/2017 ISBN 1426329059,
         [Worldcat](https://www.worldcat.org/title/national-geographic-kids-ultimate-dinopedia/oclc/969372009),
-        [Amazon](https://smile.amazon.com/dp/1426329059)) -
+        [Amazon](https://smile.amazon.com/dp/1426329059))
+
       Full-page artwork of each dinosaur in action, along with pronunciation
       guides and entertaining text, make this a pretty ideal first "encyclopedia"
       type dinosaur book for both parent and child. I notice that there's a new
@@ -446,47 +470,79 @@ vertebrate anatomy book (ISBN 9780073040585,
 [Amazon](https://smile.amazon.com/dp/0073040584))
 should be helpful. (It's an excellent book in any case.)
 
+* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN
+  9781588345820,
+  [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529),
+  [Amazon](https://smile.amazon.com/dp/1588345823))
+
+  Probably the best place to start!  This is a really excellent introduction to
+  dinosaurs, especially for anyone who doesn't have a biology/anatomy
+  background. It has the kind of depth that you expect from an introductory
+  textbook (comparable to Fastovsky and Weishampel) but it's pitched as a
+  popular book so it doesn't make too many assumptions about prerequisites
+  (e.g. anatomical terms). It's also very recent (as of this writing) so it
+  covers a lot of the latest developments.
+
+  <a href="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.large.jpg"><img
+    class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.thumb.jpg" /></a>
+  <a href="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.large.jpg"><img
+    class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.thumb.jpg" /></a>
+
 * Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history*
 
   Excellent and entertaining overview of dinosaurs. Begins with an good
   overview of the different classifications of dinosaurs, discussing their
   features and cladograms, with a particular emphasis on what they ate. Has
-  comparative illustrations of the skulls of many species.
+  comparative illustrations of the skulls of many species. I read the first
+  edition, which was great, but no doubt the later ones are more up-to-date.
 
-  * 3e/2016: ISBN 9781107135376 (HC) / 9781316501153 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/936687221), [Amazon HC](https://smile.amazon.com/dp/1107135370), [Amazon PB](https://smile.amazon.com/dp/1316501159)
-  * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/912478799), [Amazon HC](https://smile.amazon.com/dp/1107010799), [Amazon PB](https://smile.amazon.com/dp/0521282373)
-  * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), [Worldcat](https://www.worldcat.org/title/dinosaurs-a-concise-natural-history/oclc/845004724), [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), [Amazon PB](https://smile.amazon.com/dp/052171902X)
+  * 3e/2016: ISBN 9781107135376 (HC) / 9781316501153 (PB), 
+      [Worldcat](https://www.worldcat.org/oclc/936687221), 
+      [Amazon HC](https://smile.amazon.com/dp/1107135370), 
+      [Amazon PB](https://smile.amazon.com/dp/1316501159)
+  * 2e/2012: ISBN 9781107010796 (HC), 9780521282376 (PB), 
+      [Worldcat](https://www.worldcat.org/oclc/912478799), 
+      [Amazon HC](https://smile.amazon.com/dp/1107010799), 
+      [Amazon PB](https://smile.amazon.com/dp/0521282373)
+  * 1e/2009: ISBN 9780521889964 (HC) / 9780521719025 (PB), 
+      [Worldcat](https://www.worldcat.org/oclc/845004724), 
+      [Amazon HC](https://smile.amazon.com/dp/B01FJ18ALU), 
+      [Amazon PB](https://smile.amazon.com/dp/052171902X)
 
-    <a href="/assets/img/IMG_20170910_075525835_cropped.large.jpg"><img class="demo" title="Fastovsky and Weishampel: Cover" src="/assets/img/IMG_20170910_075525835_cropped.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20170910_075538194_cropped.large.jpg"><img class="demo" title="Fastovsky and Weishampel: p. 146" src="/assets/img/IMG_20170910_075538194_cropped.thumb.jpg" /></a>
-    <a href="/assets/img/IMG_20170910_075545405_cropped.large.jpg"><img class="demo" title="Fastovsky and Weishampel: p. 148" src="/assets/img/IMG_20170910_075545405_cropped.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20170910_075525835_cropped.large.jpg"><img
+      class="demo" title="Fastovsky and Weishampel: Cover" src="/assets/img/IMG_20170910_075525835_cropped.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20170910_075538194_cropped.large.jpg"><img
+      class="demo" title="Fastovsky and Weishampel: p. 146" src="/assets/img/IMG_20170910_075538194_cropped.thumb.jpg" /></a>
+    <a href="/assets/img/IMG_20170910_075545405_cropped.large.jpg"><img
+      class="demo" title="Fastovsky and Weishampel: p. 148" src="/assets/img/IMG_20170910_075545405_cropped.thumb.jpg" /></a>
 
-* Naish, Barrett. *Dinosaurs: How They Lived and Evolved* (2016, ISBN
-  9781588345820,
-  [Worldcat](https://www.worldcat.org/title/dinosaurs-how-they-lived-and-evolved/oclc/961155529),
-  [Amazon](https://smile.amazon.com/dp/1588345823)) - Lacks information about
-  particular dinosaurs, it's more of a thematic overview. I liked the chapter
-  on the K-Tr extinction.
+* Brusatte. *Dinosaur Paleobiology*
+    (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
+* Weishampel, Dodson, Osmólska (eds). *The Dinosauria*
+    (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
+* Cowen. *History of Life*
+    (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
+* Prothero. *Bringing Fossils to Life: An Introduction to Paleobiology*
+    (3e/2013, ISBN 9780231158930, [Amazon](https://smile.amazon.com/dp/0231158939))
 
-  <a href="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.large.jpg"><img class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.thumb.jpg" /></a>
-  <a href="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.large.jpg"><img class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.thumb.jpg" /></a>
-
-* Brusatte. *Dinosaur Paleobiology* (2012, ISBN 9780470656587, [Amazon](https://smile.amazon.com/dp/0470656581))
-* Weishampel, Dodson, Osmólska (eds). *The Dinosauria* (2e/2007: ISBN 9780520254084, [Amazon](https://smile.amazon.com/dp/0520254082))
-* Cowen. *History of Life* (5e/2013: ISBN 9780470671726, [Amazon](https://smile.amazon.com/dp/0470671726))
-* Prothero. *Bringing Fossils to Life: An Introduction to Paleobiology* (3e/2013, ISBN 9780231158930, [Amazon](https://smile.amazon.com/dp/0231158939))
 * Romer. *Vertebrate Paleontology* (1966, ISBN 9780226724881,
   [Worldcat](https://www.worldcat.org/title/vertebrate-paleontology/oclc/41942716),
-  [Amazon](https://www.amazon.com/dp/0226724883)) - My impression from reading
-  about this book is that, while it's outdated, it's still considered great and
-  it's the book that a generation of paleontologists learned from.
+  [Amazon](https://www.amazon.com/dp/0226724883))
+
+  My impression from reading about this book is that, while it's outdated, it's
+  still considered great and it's the book that a generation of paleontologists
+  learned from.
+
 * Carroll. *Vertebrate Paleontology and Evolution* (1990, ISBN 978-0716718222,
   [Worldcat](https://www.worldcat.org/title/vertebrate-paleontology-and-evolution/oclc/922750908),
-  [Amazon](https://www.amazon.com/dp/0716718227)) - A more recent classic
-  paleontology book, though also outdated.
+  [Amazon](https://www.amazon.com/dp/0716718227))
+
+  A more recent classic paleontology book, though also outdated.
+
 * Benton. *Vertebrate Paleontology* (3e/2014: ISBN 9781118406847,
-  [Amazon](https://smile.amazon.com/dp/1118406842)) - Seems the be the standard
-  textbook for the field currently.
+  [Amazon](https://smile.amazon.com/dp/1118406842))
+
+  Seems the be the standard textbook for the field currently.
 
 {% comment %}
 ## TODO
