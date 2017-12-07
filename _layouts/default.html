@@ -22,6 +22,7 @@
       <p>
       Generated at: {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}
       </p>
+      {% comment %}
       {% unless page.nolink %}
       <p>
       We are a participant in the Amazon Services LLC Associates
@@ -30,6 +31,7 @@
       sites.
       </p>
       {% endunless %}
+      {% endcomment %}
     </footer>
     <script>
 {% include js/unnamedLinks.js %}

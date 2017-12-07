@@ -7,4 +7,5 @@ nolink: true
 
 * [Dinosaur Books](DinosaurBooks.md)
 * [Math Books](MathStudy/)
+* [Blog](Blog.md)
 
