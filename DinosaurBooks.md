@@ -483,10 +483,10 @@ should be helpful. (It's an excellent book in any case.)
   (e.g. anatomical terms). It's also very recent (as of this writing) so it
   covers a lot of the latest developments.
 
-  <a href="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.large.jpg"><img
-    class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075821375_cropped.thumb.jpg" /></a>
-  <a href="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.large.jpg"><img
-    class="demo" title="Dinosaurs:HTLAE - Cover" src="http://tiamat:4000/assets/img/IMG_20170910_075834008_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075821375_cropped.large.jpg"><img
+    class="demo" title="Dinosaurs:HTLAE - Cover" src="/assets/img/IMG_20170910_075821375_cropped.thumb.jpg" /></a>
+  <a href="/assets/img/IMG_20170910_075834008_cropped.large.jpg"><img
+    class="demo" title="Dinosaurs:HTLAE - Cover" src="/assets/img/IMG_20170910_075834008_cropped.thumb.jpg" /></a>
 
 * Fastovsky, Weishampel, Sibbick (illustrator). *Dinosaurs: a concise natural history*
 
