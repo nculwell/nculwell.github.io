@@ -321,6 +321,11 @@ library system.
   <a href="assets/img/IMG_20170910_080128640_cropped.large.jpg"><img class="demo" title="NG Dinosaurs Barrett - Cover" src="assets/img/IMG_20170910_080128640_cropped.thumb.jpg" /></a>
   <a href="assets/img/IMG_20170910_080142450_cropped.large.jpg"><img class="demo" title="NG Dinosaurs Barrett - Chasmosaurus" src="assets/img/IMG_20170910_080142450_cropped.thumb.jpg" /></a>
   <a href="assets/img/IMG_20170910_080149161_cropped.large.jpg"><img class="demo" title="NG Dinosaurs Barrett - Apatosaurus" src="assets/img/IMG_20170910_080149161_cropped.thumb.jpg" /></a>
+  
+* Juan Carlos Alonso and Gregory S. Paul, *Ancient Earth Journal* (these each have two editions, and the second editions are broken up into multiple volumes)
+  
+  * Ancient Earth Journal: The Early Cretaceous: Notes, drawings, and observations from prehistory
+  * Ancient Earth Journal: The Late Jurassic: Notes, drawings, and observations from prehistory
 
 * ### Dougal Dixon
 
