@@ -564,7 +564,7 @@ should be helpful. (It's an excellent book in any case.)
 
 ## Other animals
 
-* Coyote raid in Cactus Canyon / Jim Arnosky (ISBN 0399234136, [Worldcat](https://www.worldcat.org/title/coyote-raid-in-cactus-canyon/oclc/54022367))
+* Coyote raid in Cactus Canyon / Jim Arnosky (ISBN 0399234136, [Worldcat](https://www.worldcat.org/title/coyote-raid-in-cactus-canyon/oclc/54022367)) - also many other Jim Arnosky books
 * Baby sea otter / Betty Tatham; Joan Paley (ISBN 9780805075045, [Worldcat](https://www.worldcat.org/title/baby-sea-otter/oclc/56753287))
 * Rosa Raposa / Campoy; Aruego; Dewey (ISBN 9780152021610, [Worldcat](https://www.worldcat.org/title/rosa-raposa/oclc/47930701))
 * Platypus! / Clarke, Ginjer L ; Mirocha, Paul (ISBN 9780375924170 / 9780375824173, [Worldcat](https://www.worldcat.org/title/platypus/oclc/52970766))
@@ -577,6 +577,8 @@ should be helpful. (It's an excellent book in any case.)
 * The beginner's guide to animal autopsy : a "hands-in" approach to zoology, the world of creatures and what's inside them / Parker, Steve ; Shone, Rob (ISBN 0761307028, [Worldcat](https://www.worldcat.org/title/beginners-guide-to-animal-autopsy-the-hands-in-approach-to-zoology/oclc/36573705))
 * Life-size killer creatures / Gilpin, Daniel (Omnibus: [Amazon](https://smile.amazon.com/dp/B001YIGW2C))
 * Bateman - Deep in the Swamp
+* Steve Jenkins, *Down, Down, Down*, and other books
+* Gail Gibbons
 
 * DK-Smithsonian Natural History
 
