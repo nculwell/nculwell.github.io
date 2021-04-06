@@ -583,7 +583,7 @@ should be helpful. (It's an excellent book in any case.)
 * Life-size killer creatures / Gilpin, Daniel (Omnibus: [Amazon](https://smile.amazon.com/dp/B001YIGW2C))
 * Bateman - Deep in the Swamp
 * Steve Jenkins, *Down, Down, Down*, and other books
-* Gail Gibbons
+* Authors with many books: Gail Gibbons, Brenda Z. Guiberson, Joan Paley, Steve Jenkins, Jim Arnosky
 
 * DK-Smithsonian Natural History
 
