@@ -1,4 +1,5 @@
 IMG_*.jpg
 !*.thumb.jpg
 !*.large.jpg
+!*.450w.jpg
 *.html
