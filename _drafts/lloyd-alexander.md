@@ -48,7 +48,6 @@ This is a sort of [just-so story](https://en.wikipedia.org/wiki/Just_So_Stories)
 It is on another of Alexander's favorite themes, cats.
 
 ![How the Cat Swallowed Thunder: cover](/assets/img/IMG_20220512_170200818.450w.jpg)
-
 ![How the Cat Swallowed Thunder: while I'm gone](/assets/img/IMG_20220512_170239998.450w.jpg)
 ![How the Cat Swallowed Thunder: scrubbing](/assets/img/IMG_20220512_170253907.450w.jpg)
 ![How the Cat Swallowed Thunder: popcorn](/assets/img/IMG_20220512_170304081.450w.jpg)
