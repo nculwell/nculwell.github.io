@@ -9,7 +9,7 @@ tags: [author-spotlight, lloyd-alexander]
 
 Lloyd Alexander was a pretty well-known author of children's fantasy novels in the 1960's and 1970's.
 Probably the pinnacle of his fame was in 1985 when Disney
-made an animated adapation of his book *The Last Cauldron*.
+made an animated adapation of his book *The Black Cauldron*.
 
 What I didn't realize until recently was that he also wrote several picture books, and they are beautifully illustrated.
 
