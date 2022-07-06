@@ -20,10 +20,10 @@ Ezra Jack Keats is a well-known author in his own right, mostly famous for writi
 I've never seen another book by Keats besides *The Snowy Day*, which I regard as mediocre visually speaking.
 This book, though, is brilliantly illustrated and makes me want to hunt down more of Keats's work.
 
-![The King's Fountain: book cover](assets/img/IMG_20220512_162016554.jpg)
+![The King's Fountain: book cover](/assets/img/IMG_20220512_162016554.jpg)
 
-![The King's Fountain: A king once planned...](assets/img/IMG_20220512_162036285.jpg)
+![The King's Fountain: A king once planned...](/assets/img/IMG_20220512_162036285.jpg)
 
-![The King's Fountain: metalsmith](assets/img/IMG_20220512_162053583.jpg)
+![The King's Fountain: metalsmith](/assets/img/IMG_20220512_162053583.jpg)
 
-![The King's Fountain: daughter](assets/img/IMG_20220512_162102502.jpg)
+![The King's Fountain: daughter](/assets/img/IMG_20220512_162102502.jpg)
