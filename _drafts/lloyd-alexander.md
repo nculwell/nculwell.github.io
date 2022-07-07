@@ -2,7 +2,7 @@
 layout: post
 title: Author Spotlight: Lloyd Alexander
 categories: [books]
-tags: [author-spotlight, lloyd-alexander]
+tags: [author-spotlight, lloyd-alexander, picture-book, childrens-novel]
 ---
 
 # Author Spotlight: Lloyd Alexander
