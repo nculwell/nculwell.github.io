@@ -3,6 +3,7 @@ layout: post
 title: Author Spotlight: Lloyd Alexander
 categories: [books]
 tags: [author-spotlight, lloyd-alexander, picture-book, childrens-novel]
+toc: true
 ---
 
 # Author Spotlight: Lloyd Alexander
@@ -13,7 +14,42 @@ made an animated adapation of his book *The Black Cauldron*.
 
 What I didn't realize until recently was that he also wrote several picture books, and they are beautifully illustrated.
 
+{{ content | toc }}
+
+## Novels
+
+Time Cat
+https://www.linkcat.info/app/work/476616
+https://www.worldcat.org/title/time-cat-the-remarkable-journeys-of-jason-and-gareth/oclc/687695556
+
+The cat who wished to be a man
+https://www.worldcat.org/title/cat-who-wished-to-be-a-man/oclc/876621065&referer=brief_results
+
+The Arkadians https://www.worldcat.org/title/arkadians/oclc/59107266
+Collection (Arkdians, Prince Jen, Iron Ring) https://www.worldcat.org/title/lloyd-alexander-collection-3-complete-novels/oclc/47058189
+
+### Prydain
+The Black Cauldron https://www.worldcat.org/title/black-cauldron/oclc/927460463
+The Castle of Llyr https://www.worldcat.org/title/castle-of-llyr/oclc/965937329
+Taran Wanderer https://www.worldcat.org/title/taran-wanderer/oclc/964933593
+The Foundling and Other Tales of Prydain https://www.worldcat.org/title/foundling-and-other-tales-of-prydain/oclc/875195146
+Omnibus https://www.worldcat.org/title/prydain-chronicles/oclc/24352566
+
+Dream-of-Jade: the Emperor's cat https://www.worldcat.org/title/dream-of-jade-the-emperors-cat/oclc/56922484
+
+The Golden Dream of Carlo Chuchio https://www.worldcat.org/title/golden-dream-of-carlo-chuchio/oclc/1083445121
+https://www.linkcat.info/app/work/620033
+
+The Big Book for Peace https://www.worldcat.org/title/big-book-for-peace/oclc/1011905264
+
+### Holly Vesper
+
+The Illyrian Adventure https://www.worldcat.org/title/illyrian-adventure/oclc/45631051
+
 ## Picture Books
+
+The House Gobbaleen
+https://www.worldcat.org/title/house-gobbaleen/oclc/40835736&referer=brief_results
 
 ### The King's Fountain, illustrated by Ezra Jack Keats, 1971
 
