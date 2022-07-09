@@ -16,6 +16,11 @@ What I didn't realize until recently was that he also wrote several picture book
 
 {{ content | toc }}
 
+## Interview
+
+Jan 26, 1999
+https://web.archive.org/web/20111003060203/http://www2.scholastic.com/browse/collateral.jsp?id=1479_type=Contributor_typeId=1217
+
 ## Adult books
 
 And let the credit go
