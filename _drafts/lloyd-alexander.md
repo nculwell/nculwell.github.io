@@ -23,7 +23,7 @@ https://web.archive.org/web/20111003060203/http://www2.scholastic.com/browse/col
 
 ## Adult books
 
-And let the credit go
+And Let the Credit Go
 https://www.worldcat.org/title/and-let-the-credit-go/oclc/936841038
 
 My Love Affair With Music
@@ -32,13 +32,22 @@ https://www.worldcat.org/title/my-love-affair-with-music/oclc/2016571
 My Five Tigers
 https://www.worldcat.org/title/my-five-tigers/oclc/2504853
 
-## Novels
+## Children's Novels
+
+### Early historical fiction
+
+August Bondi: Border Hawk, 1958
+
+The Flagship Hope: Aaron Lopez, illustrated by Bernard Krigstein, 1960
 
 ### Cat books
 
-Time Cat
-https://www.linkcat.info/app/work/476616
+Time Cat: The Remarkable Journeys of Jason and Gareth, 1963
+
+https://www.linkcat.info/app/work/476616  
 https://www.worldcat.org/title/time-cat-the-remarkable-journeys-of-jason-and-gareth/oclc/687695556
+
+As far as I can tell, this was Lloyd Alexander's first big seller, and it's the book that made a name for him in the world of children's fantasy.
 
 Dream-of-Jade: the Emperor's cat
 https://www.worldcat.org/title/dream-of-jade-the-emperors-cat/oclc/56922484
