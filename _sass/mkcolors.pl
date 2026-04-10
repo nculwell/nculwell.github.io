@@ -1,5 +1,9 @@
 #!/usr/bin/env perl
 
+# This script reads colors_source.txt and outputs mdcolors.scss
+# Run like this:
+# ./mdcolors.pl colors_source.txt > mdcolors.scss
+
 my $color;
 
 foreach (<ARGV>) {
