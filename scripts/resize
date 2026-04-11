@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Resize images (using ImageMagick) to fit within desired bounds
+
 THUMB_HEIGHT=128
 LARGE_HEIGHT=512
 
