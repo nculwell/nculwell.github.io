@@ -8,13 +8,13 @@ The dependency system was originally written by Matt Hansen. I don't recall hear
 
 At first, things went fine. However, after the introduction of the new object types, application developers began to create more and more views and derived tables. Soon, it became apparent that the dependency calculation was getting very slow. Perhaps a year later, the upgrade had gotten so slow that it was untenable.
 
-Revisiting the way that dependency calculations were done, it was evident what the problem was. The code was traversing every object's entire dependency tree. For some dependency topologies this might have been fine, but for ours it was a mess. There were a few very big derived tables that had a large number of dependencies, and those big derived tables in turn had a lot of tables depending on them. This meant that the big tables' large dependency trees got traversed over and over again.
+Revisiting the way that dependency calculations were done, it was evident what the problem was. The code was traversing every object's entire dependency tree. For some dependency topologies this might have been fine, but for ours it was a mess. There were a few very big derived tables that had a large number of dependencies (I think the largest one was patient encounters), and those big derived tables in turn had a lot of tables depending on them. This meant that the big tables' large dependency trees got traversed over and over again.
 
 I'm not sure what the complexity of this operation was, but for comparison, if you had a collection of tables where you arranged them in a sequence where each table depended on the table after it (like a linked list of tables), then you would get the following runtimes, where n is the number of tables and t is the number of table nodes traversed.
 
 | n | 1 | 2 | 3 |  4 |  5 |  6 |
 | t | 1 | 3 | 6 | 10 | 15 | 21 |
 
-These are the [triangular numbers](https://artofproblemsolving.com/wiki/index.php?title=Triangular_number), which can be summed with the formula n(n+1)/2. This works out to complexity O(n^2^). We needed to get it closer to O(n) in order to make it work.
+These are the [triangular numbers](https://artofproblemsolving.com/wiki/index.php?title=Triangular_number), which can be summed with the formula n(n+1)/2. This works out to time complexity O(n^2^). We needed to get it closer to O(n) in order to make it work.
 
-
+To achieve this improvement, what we wanted was for the code to traverse each portion of the dependency tree only once. The obvious way to achieve this is a space-time tradeoff where we cache the results of the dependency walk for each table.
